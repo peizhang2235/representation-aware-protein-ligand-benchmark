@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Global affinity rank does not guarantee target-specific ligand ranking"
+message: "Please cite the associated Journal of Cheminformatics article and this exact repository release."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Pei
+    affiliation: First Medical Center of Chinese PLA General Hospital
+  - family-names: Yong
+    given-names: Zheng
+    affiliation: Beijing University of Chemical Technology
+  - family-names: Zhang
+    given-names: Shu
+    affiliation: First Medical Center of Chinese PLA General Hospital
+  - family-names: Wu
+    given-names: Shiwen
+    affiliation: First Medical Center of Chinese PLA General Hospital
+license: MIT
+repository-code: "[PUBLIC_REPOSITORY_URL_PENDING]"
+url: "[PUBLIC_REPOSITORY_URL_PENDING]"
+date-released: 2026-08-10
+keywords:
+  - cheminformatics
+  - molecular representation
+  - chemical space
+  - protein-ligand affinity
+  - benchmark validation

@@ -1,0 +1,12 @@
+{
+  "analysis_code_sha256": "979679bbd4e4723e7e03985a34bdb0cfe0602c4c31d32bdba0b9aac8f92a0f23",
+  "changes_primary_decision": false,
+  "code_changes_allowed": false,
+  "created_at": "2026-08-02T14:16:19.125674+00:00",
+  "real_outcome_rows_read": 0,
+  "schema_version": "science_advances_v1_12_sensitivity_code_lock_v1",
+  "self_test_status": "PASSED_BEFORE_LOCK",
+  "sensitivity_code_sha256": "24f90513f7d33d6b8ca2ef47484872b99ce9b5e7d16f0745b6ce251e0e4b5077",
+  "stage1_protocol_sha256": "65b6a843d6af793c46bab375e25e07e7f43764b03c6fe1eaa36ae7122a9b6974",
+  "status": "SENSITIVITY_CODE_LOCKED_BEFORE_OUTCOME_ACCESS"
+}

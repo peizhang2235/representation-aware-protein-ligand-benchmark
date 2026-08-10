@@ -1,0 +1,62 @@
+{
+  "schema_version": "science_advances_v1_7_retrospective_analysis_record_v1",
+  "recorded_at": "2026-08-02T00:00:00+08:00",
+  "status": "retrospective_after_external_outcomes_were_known",
+  "confirmatory_status": false,
+  "immutable_prior_result": "v1.5 restricted-source transport failed",
+  "purpose": "Determine whether source-wide affinity correlation survives dependence-aware inference and whether it represents within-document or within-target ligand ordering.",
+  "fixed_inputs": {
+    "v1_6_predictions": "source_data/v1_6/V1_6_PAIR_LEVEL_MODEL_PREDICTIONS.tsv",
+    "v1_6_integrity_audit": "source_data/v1_6/V1_6_INTEGRITY_AUDIT.json",
+    "v1_5_identity_nulls": "source_data/v1_5/V1_5_PERMUTATION_NULL_METRICS.tsv",
+    "v1_4_assay_context": "source_data/v1_4/",
+    "v0_9_geometry_and_composition": "source_data/v0_9/"
+  },
+  "model_panel": {
+    "nonreference_specifications": 5,
+    "algorithm_families": 2,
+    "hgb_variants": [
+      "ligand_only",
+      "protein_only",
+      "additive_fusion",
+      "interaction_fusion"
+    ],
+    "frozen_additional_family": "XGBoost survival AFT with ESM-2 protein representation"
+  },
+  "estimands": [
+    "source-wide Spearman correlation",
+    "within-document residual-rank correlation",
+    "within-exact-protein macro Spearman correlation",
+    "between-group fraction of rank covariance",
+    "model-minus-frozen-median MAE",
+    "nominal 90 percent interval coverage and conditional coverage",
+    "finite identity-permutation contrasts",
+    "assay-context and geometry specificity contrasts"
+  ],
+  "dependence_analysis": {
+    "document_component_bootstrap_replicates": 1000,
+    "simultaneous_interval": "within-source maximum absolute studentized statistic over five specifications",
+    "cluster_covariance_schemes": [
+      "connected document component",
+      "ligand scaffold",
+      "protein identity cluster",
+      "three-way inclusion-exclusion"
+    ],
+    "dependence_envelope": "largest standard error across the four covariance schemes"
+  },
+  "sensitivity_analyses": [
+    "largest document, scaffold, and protein-cluster deletion",
+    "affinity-regime by cold-category poststratification",
+    "development-only entity priors",
+    "document-disjoint local recalibration label-budget curves",
+    "complete protein, ligand, and joint identity null matrix"
+  ],
+  "prohibited_interpretations": [
+    "five independent model-family replications",
+    "prospective confirmation",
+    "causal attribution of between-group covariance",
+    "validated unseen-target prediction",
+    "therapeutic or mechanistic efficacy",
+    "reclassification of the v1.5 blind result"
+  ]
+}

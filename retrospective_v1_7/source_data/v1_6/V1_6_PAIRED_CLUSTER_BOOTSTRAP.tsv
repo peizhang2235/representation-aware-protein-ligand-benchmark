@@ -1,0 +1,49 @@
+source	stratum	model_id	model_label	n	clusters	delta_mae_model_minus_median	delta_mae_ci_95_low	delta_mae_ci_95_high	bootstrap_probability_model_not_better	bootstrap_two_sided_p	bootstrap_replicates	bootstrap_unit
+BioLiP/MOAD	overall	development_median	Development median	1382	514	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+BioLiP/MOAD	overall	hgb_molecule	HGB ligand only	1382	514	-0.37975100356554614	-0.4852108816934476	-0.2764838058921775	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	overall	hgb_protein	HGB protein only	1382	514	-0.03958377648878218	-0.12209451913854681	0.04689001217939073	0.192	0.384	1000	document_cluster
+BioLiP/MOAD	overall	hgb_fusion_additive	HGB additive fusion	1382	514	-0.3336868519715071	-0.41696559876220374	-0.24483484505702308	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	overall	hgb_fusion_interaction	HGB interaction fusion	1382	514	-0.32509895082546775	-0.40759565717161095	-0.23738716879365174	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	Frozen ESM2-AFT	1382	514	-0.36094505921163716	-0.4670662610894147	-0.24604017898053804	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	drug_cold	development_median	Development median	291	90	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+BioLiP/MOAD	drug_cold	hgb_molecule	HGB ligand only	291	90	-0.17736311201092417	-0.38003345632382834	0.022605432991369467	0.041	0.082	1000	document_cluster
+BioLiP/MOAD	drug_cold	hgb_protein	HGB protein only	291	90	-0.2509874887671006	-0.5203998489480036	0.03202522962525451	0.039	0.078	1000	document_cluster
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	HGB additive fusion	291	90	-0.38402963913645827	-0.6495291077732475	-0.13185965261206734	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	HGB interaction fusion	291	90	-0.35688384318041805	-0.598387217995537	-0.10782802938266327	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	291	90	-0.4673988118303358	-0.709132852554994	-0.20287931915810467	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	development_median	Development median	365	164	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	HGB ligand only	365	164	-0.5294442858594954	-0.7139126760117486	-0.3564597867727489	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	hgb_protein	HGB protein only	365	164	-0.02262453651615215	-0.12182138393308628	0.08733321136792697	0.395	0.79	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	HGB additive fusion	365	164	-0.4354730349733292	-0.5712584029033867	-0.2852679159682787	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	HGB interaction fusion	365	164	-0.4363569923395672	-0.5709613259830388	-0.29740994836442847	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	365	164	-0.38656658835541113	-0.546894253044354	-0.21582675389976838	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	development_median	Development median	704	279	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	HGB ligand only	704	279	-0.34286303669737267	-0.4869068584215589	-0.19667143525585754	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	HGB protein only	704	279	0.07515537568380734	-0.011205700411491184	0.1670073292820784	0.95	0.1	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	HGB additive fusion	704	279	-0.2232512548869521	-0.322806246546881	-0.11332605538030863	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	HGB interaction fusion	704	279	-0.21643345005990725	-0.31340662293401134	-0.10870573417714713	0.0	0.0	1000	document_cluster
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	704	279	-0.26832257164297163	-0.42523158900717645	-0.11835123204587768	0.0	0.0	1000	document_cluster
+ChEMBL37	overall	development_median	Development median	25436	2845	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+ChEMBL37	overall	hgb_molecule	HGB ligand only	25436	2845	0.012717065743106626	-0.052151561262458415	0.061558222734057214	0.655	0.69	1000	document_cluster
+ChEMBL37	overall	hgb_protein	HGB protein only	25436	2845	0.05380338328451576	-0.02872331314403613	0.11923689425498028	0.905	0.19	1000	document_cluster
+ChEMBL37	overall	hgb_fusion_additive	HGB additive fusion	25436	2845	-0.018850888081261945	-0.09991384414292875	0.0557697677807856	0.286	0.572	1000	document_cluster
+ChEMBL37	overall	hgb_fusion_interaction	HGB interaction fusion	25436	2845	-0.021518341907337892	-0.10719784401897262	0.0523035419242944	0.267	0.534	1000	document_cluster
+ChEMBL37	overall	phase15_esm2_aft_frozen	Frozen ESM2-AFT	25436	2845	0.040724825061153144	-0.05853961276003643	0.12587573462465979	0.714	0.572	1000	document_cluster
+ChEMBL37	drug_cold	development_median	Development median	7378	913	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+ChEMBL37	drug_cold	hgb_molecule	HGB ligand only	7378	913	-0.02074160686792957	-0.08933786629793497	0.03742953323924737	0.271	0.542	1000	document_cluster
+ChEMBL37	drug_cold	hgb_protein	HGB protein only	7378	913	0.025578402545127426	-0.11785078398862309	0.1624014774582068	0.623	0.754	1000	document_cluster
+ChEMBL37	drug_cold	hgb_fusion_additive	HGB additive fusion	7378	913	-0.11943225174409929	-0.2394921304481634	-0.0023538111026860367	0.02	0.04	1000	document_cluster
+ChEMBL37	drug_cold	hgb_fusion_interaction	HGB interaction fusion	7378	913	-0.12158505638595546	-0.22774850818136114	-0.010436897290360354	0.012	0.024	1000	document_cluster
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	7378	913	-0.02268123948741717	-0.14942239982646588	0.10356778216393733	0.363	0.726	1000	document_cluster
+ChEMBL37	protein_identity_cold	development_median	Development median	1802	315	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+ChEMBL37	protein_identity_cold	hgb_molecule	HGB ligand only	1802	315	0.08739180547467308	-0.197311283403531	0.1965879515308223	0.649	0.702	1000	document_cluster
+ChEMBL37	protein_identity_cold	hgb_protein	HGB protein only	1802	315	0.09272575955939229	-0.07229688753494744	0.1538134468044553	0.852	0.296	1000	document_cluster
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	HGB additive fusion	1802	315	0.07216500070576799	-0.1812464614193761	0.19429112999461826	0.615	0.77	1000	document_cluster
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	HGB interaction fusion	1802	315	0.08284056243952247	-0.15926639654698974	0.1899625735628025	0.645	0.71	1000	document_cluster
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	1802	315	0.18090079563870823	-0.19567735061621547	0.3419966856942295	0.647	0.706	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	development_median	Development median	15760	2064	0.0	0.0	0.0	1.0	1.0	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	HGB ligand only	15760	2064	0.014382694367822005	-0.03975359520742386	0.05192232907997721	0.71	0.58	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	HGB protein only	15760	2064	0.05343199720187325	0.009947752457994908	0.08607494986452792	0.992	0.016	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	HGB additive fusion	15760	2064	0.01080681363621155	-0.0414660384722342	0.052069964562571666	0.631	0.738	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	HGB interaction fusion	15760	2064	0.0060818374734781366	-0.04903103949250412	0.048411902267875735	0.568	0.864	1000	document_cluster
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	Frozen ESM2-AFT	15760	2064	0.045190067939658476	-0.030385289885489792	0.1102140388086684	0.885	0.23	1000	document_cluster

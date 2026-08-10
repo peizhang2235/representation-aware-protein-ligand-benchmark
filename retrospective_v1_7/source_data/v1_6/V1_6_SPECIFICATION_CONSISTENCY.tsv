@@ -1,0 +1,9 @@
+source	stratum	n	nonreference_models	positive_spearman_models	fraction_positive_spearman	models_beating_median_mae	fraction_beating_median_mae	models_with_positive_r2	fraction_with_positive_r2	best_model_all	best_model_all_mae	best_nonreference_model	best_nonreference_mae	nonreference_mae_range	nonreference_spearman_range
+BioLiP/MOAD	drug_cold	291	5	5	1.0	5	1.0	5	1.0	phase15_esm2_aft_frozen	1.2153417847697672	phase15_esm2_aft_frozen	1.2153417847697672	0.290035699819412	0.20786147178118075
+BioLiP/MOAD	overall	1382	5	5	1.0	5	1.0	4	0.8	hgb_molecule	1.2932046555815986	hgb_molecule	1.2932046555815986	0.34016722707676417	0.20846464007401216
+BioLiP/MOAD	protein_identity_cold	365	5	5	1.0	5	1.0	1	0.2	hgb_molecule	1.2361051818281723	hgb_molecule	1.2361051818281723	0.5068197493433433	0.20960135368525465
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	704	5	4	0.8	4	0.8	2	0.4	hgb_molecule	1.2466544364201086	hgb_molecule	1.2466544364201086	0.4180184123811803	0.4169386001247308
+ChEMBL37	drug_cold	7378	5	5	1.0	4	0.8	2	0.4	hgb_fusion_interaction	1.1356012033529048	hgb_fusion_interaction	1.1356012033529048	0.14716345893108285	0.11270491775531832
+ChEMBL37	overall	25436	5	5	1.0	2	0.4	2	0.4	hgb_fusion_interaction	1.1487209409169228	hgb_fusion_interaction	1.1487209409169228	0.07532172519185343	0.09698006412680375
+ChEMBL37	protein_identity_cold	1802	5	5	1.0	0	0.0	0	0.0	development_median	1.0637314809278398	hgb_fusion_additive	1.1358964816336077	0.10873579493294017	0.11814122756641812
+ChEMBL37	strict_scaffold_protein_identity_double_cold	15760	5	5	1.0	0	0.0	0	0.0	development_median	1.155236409718544	hgb_fusion_interaction	1.1613182471920223	0.04735015972839496	0.14276485447638654

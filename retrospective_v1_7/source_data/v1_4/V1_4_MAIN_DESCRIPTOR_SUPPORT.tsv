@@ -1,0 +1,12 @@
+descriptor	rows_positive	row_fraction	documents_positive	maximum_positive_row_share_from_one_document	effective_positive_document_count	rows_negative_with_description	eligible_for_locked_model_ablation	eligible	family	descriptor_label
+endpoint_enzyme_inhibition	555	0.319516407599309	62	0.142342342342342	22.254533631963	1167	TRUE	TRUE	Endpoint	Enzyme / inhibition
+endpoint_direct_binding	844	0.485895221646517	89	0.0936018957345972	32.8598579204724	878	TRUE	TRUE	Endpoint	Binding / affinity
+detection_fluorescence	402	0.231433506044905	49	0.139303482587065	17.8805045364019	1320	TRUE	TRUE	Detection	Fluorescence
+detection_radiometric	115	0.0662061024755325	10	0.217391304347826	6.90600522193212	1607	TRUE	TRUE	Detection	Radiometric
+detection_surface_plasmon_resonance	207	0.119170984455959	29	0.381642512077295	5.51538164499936	1515	TRUE	TRUE	Detection	Surface plasmon resonance
+detection_calorimetry	104	0.0598733448474381	20	0.259615384615385	8.82218597063622	1618	TRUE	TRUE	Detection	Calorimetry
+format_competition_or_displacement	249	0.143350604490501	24	0.216867469879518	10.3767364016736	1473	TRUE	TRUE	Format	Competition / displacement
+context_buffer	715	0.411629245826137	73	0.300699300699301	8.6359950673176	1007	TRUE	TRUE	Protocol detail	Buffer
+context_ph	683	0.393206678180771	68	0.314787701317716	7.91289671433176	1039	TRUE	TRUE	Protocol detail	pH
+context_temperature	557	0.320667818077145	40	0.385996409335727	5.36920893688455	1165	TRUE	TRUE	Protocol detail	Temperature
+context_incubation_or_time	444	0.255613126079447	57	0.126126126126126	23.8490200822647	1278	TRUE	TRUE	Protocol detail	Incubation / time

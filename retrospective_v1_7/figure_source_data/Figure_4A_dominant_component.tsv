@@ -1,0 +1,21 @@
+source	model_id	model_label_plot	removed_fraction	analysis	delta_mae	analysis_label
+BioLiP/MOAD	hgb_molecule	HGB ligand	0.0303907380607815	full_delta_mae	-0.379751003565546	Full source
+BioLiP/MOAD	hgb_protein	HGB protein	0.0303907380607815	full_delta_mae	-0.0395837764887822	Full source
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	0.0303907380607815	full_delta_mae	-0.333686851971507	Full source
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	0.0303907380607815	full_delta_mae	-0.325098950825468	Full source
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	0.0303907380607815	full_delta_mae	-0.360945059211637	Full source
+ChEMBL37	hgb_molecule	HGB ligand	0.221929548671175	full_delta_mae	0.0127170657431067	Full source
+ChEMBL37	hgb_protein	HGB protein	0.221929548671175	full_delta_mae	0.0538033832845157	Full source
+ChEMBL37	hgb_fusion_additive	HGB additive	0.221929548671175	full_delta_mae	-0.018850888081262	Full source
+ChEMBL37	hgb_fusion_interaction	HGB interaction	0.221929548671175	full_delta_mae	-0.0215183419073378	Full source
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	0.221929548671175	full_delta_mae	0.0407248250611532	Full source
+BioLiP/MOAD	hgb_molecule	HGB ligand	0.0303907380607815	reduced_delta_mae	-0.354579883035612	Largest component removed
+BioLiP/MOAD	hgb_protein	HGB protein	0.0303907380607815	reduced_delta_mae	-0.0300874764084262	Largest component removed
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	0.0303907380607815	reduced_delta_mae	-0.319901687835312	Largest component removed
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	0.0303907380607815	reduced_delta_mae	-0.316363317195819	Largest component removed
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	0.0303907380607815	reduced_delta_mae	-0.329606562312826	Largest component removed
+ChEMBL37	hgb_molecule	HGB ligand	0.221929548671175	reduced_delta_mae	-0.0321255390772221	Largest component removed
+ChEMBL37	hgb_protein	HGB protein	0.221929548671175	reduced_delta_mae	0.00571837406859957	Largest component removed
+ChEMBL37	hgb_fusion_additive	HGB additive	0.221929548671175	reduced_delta_mae	-0.0696385008005127	Largest component removed
+ChEMBL37	hgb_fusion_interaction	HGB interaction	0.221929548671175	reduced_delta_mae	-0.0767876144815483	Largest component removed
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	0.221929548671175	reduced_delta_mae	-0.0331231621486628	Largest component removed

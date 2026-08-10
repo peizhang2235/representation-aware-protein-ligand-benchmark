@@ -1,0 +1,25 @@
+ecosystem	package	recorded_version	upstream_license_record	bundled_in_archive	note
+runtime	Python	3.9.6	Python Software Foundation License	no	Recorded frozen representation and prediction runtime
+runtime	R	4.4-compatible	GPL-2.0-or-later	no	Retrospective figure runtime; exact session info is archived
+Python	numpy	1.26.3	BSD-3-Clause	no	Recorded frozen runtime
+Python	pandas	2.2.0	BSD-3-Clause	no	Recorded frozen runtime
+Python	scipy	1.12.0	BSD-3-Clause	no	Analysis runtime
+Python	matplotlib	3.8.2	PSF-based matplotlib license	no	Figure runtime
+Python	Pillow	10.2.0	HPND	no	Image audit runtime
+Python	scikit-learn	1.4.2	BSD-3-Clause	no	Recorded frozen prediction runtime
+Python	torch	2.1.2	BSD-3-Clause	no	Recorded frozen prediction runtime
+Python	rdkit	2023.09.5	BSD-3-Clause	no	Recorded frozen prediction runtime
+Python	transformers	4.46.3	Apache-2.0	no	Recorded frozen representation runtime
+Python	huggingface-hub	0.26.5	Apache-2.0	no	Recorded frozen representation runtime
+Python	safetensors	0.7.0	Apache-2.0	no	Recorded frozen representation runtime
+Python	joblib	version in prediction environment	BSD-3-Clause	no	Frozen artifact loader; version to confirm before deposit
+R	data.table	1.16.4	MPL-2.0 | file LICENSE	no	Observed installed metadata
+R	ggplot2	4.0.2	MIT + file LICENSE	no	Observed installed metadata
+R	patchwork	1.3.0	MIT + file LICENSE	no	Observed installed metadata
+R	scales	1.4.0	MIT + file LICENSE	no	Observed installed metadata
+R	svglite	2.1.3	GPL (>= 2)	no	Observed installed metadata
+R	ragg	1.3.3	MIT + file LICENSE	no	Observed installed metadata
+R	sandwich	3.1-1	GPL-2 | GPL-3	no	Observed installed metadata
+R	igraph	2.1.2	GPL (>= 2)	no	Observed installed metadata
+R	jsonlite	2.0.0	MIT + file LICENSE	no	Observed installed metadata
+model	facebook/esm2_t6_8M_UR50D	c731040fcd8d73dceaa04b0a8e6329b345b0f5df	MIT recorded by frozen receipt	no	Pinned upstream model files excluded from candidate

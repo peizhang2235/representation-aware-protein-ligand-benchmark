@@ -1,0 +1,21 @@
+source	model_id	model_label_plot	estimand	rho	estimand_label
+BioLiP/MOAD	hgb_molecule	HGB ligand	spearman	0.387639662185052	Source-stratum
+BioLiP/MOAD	hgb_protein	HGB protein	spearman	-0.0292989379396784	Source-stratum
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	spearman	0.234040395599365	Source-stratum
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	spearman	0.24557706422415	Source-stratum
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	spearman	0.283908989131822	Source-stratum
+ChEMBL37	hgb_molecule	HGB ligand	spearman	0.132283929472624	Source-stratum
+ChEMBL37	hgb_protein	HGB protein	spearman	0.0339234726423259	Source-stratum
+ChEMBL37	hgb_fusion_additive	HGB additive	spearman	0.162632112626948	Source-stratum
+ChEMBL37	hgb_fusion_interaction	HGB interaction	spearman	0.15643321805019	Source-stratum
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	spearman	0.176688327118712	Source-stratum
+BioLiP/MOAD	hgb_molecule	HGB ligand	document_residual_rank_rho	0.249211982345351	Within document
+BioLiP/MOAD	hgb_protein	HGB protein	document_residual_rank_rho	0.0473900982002222	Within document
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	document_residual_rank_rho	0.353544746987668	Within document
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	document_residual_rank_rho	0.365619093870231	Within document
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	document_residual_rank_rho	0.247300169637167	Within document
+ChEMBL37	hgb_molecule	HGB ligand	document_residual_rank_rho	0.0411213456054199	Within document
+ChEMBL37	hgb_protein	HGB protein	document_residual_rank_rho	-0.0275490856081905	Within document
+ChEMBL37	hgb_fusion_additive	HGB additive	document_residual_rank_rho	0.0117687932428865	Within document
+ChEMBL37	hgb_fusion_interaction	HGB interaction	document_residual_rank_rho	0.00121420461167302	Within document
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	document_residual_rank_rho	0.0173738622652239	Within document

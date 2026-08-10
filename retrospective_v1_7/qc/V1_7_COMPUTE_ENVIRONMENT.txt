@@ -1,0 +1,11 @@
+captured_at_utc	2026-08-02T07:06:38Z
+operating_system	Darwin MacBookPro 25.3.0 Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:01 PST 2026; root:xnu-12377.81.4~5/RELEASE_ARM64_T8103 arm64
+cpu	unavailable
+logical_cores	unavailable
+memory_bytes	unavailable
+Rscript	/usr/local/bin/Rscript
+Rscript (R) version 4.4.1 (2024-06-14)
+python3	/usr/bin/python3
+Python 3.9.6
+analysis_runtime_observed	about 50 seconds on this machine
+figure_runtime_observed	about 30 seconds on this machine

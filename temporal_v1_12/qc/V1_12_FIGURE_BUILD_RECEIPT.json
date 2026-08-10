@@ -1,0 +1,106 @@
+{
+  "analysis_complete_sha256": "2c7a75ccc3e1b457d8204b1d997a1f23ce15184368281fab27b19e989e754612",
+  "created_at": "2026-08-08T00:45:39.325054+00:00",
+  "display_policy": "All four frozen families, all observed source origins, and every leave-one-origin-out row are displayed without directional filtering.",
+  "figure_code_sha256": "6dc768374b1ba0e0bcf031dbd9c006fc6abd623f6de6e6c5ceaa70b210b80129",
+  "outputs": {
+    "figures/main/Figure_6_outcome_blind_temporal_validation.pdf": {
+      "bytes": 52487,
+      "sha256": "549baadb91ba776b3d27bb7f80e75b0d758113017684f04899d5cbaa29d12b4d"
+    },
+    "figures/main/Figure_6_outcome_blind_temporal_validation.png": {
+      "bytes": 741416,
+      "sha256": "e3eb9f6b504630f3fa9fb7bfe691db519c9a9e43f196677b65a3b5be1ae47cc7"
+    },
+    "figures/main/Figure_6_outcome_blind_temporal_validation.svg": {
+      "bytes": 61161,
+      "sha256": "d5b5489d8c31bfd7cb822871b15f865444a2f9258d3e5d265d5977d75cec1adc"
+    },
+    "figures/main/Figure_6_outcome_blind_temporal_validation.tiff": {
+      "bytes": 62417250,
+      "sha256": "a32012e505165a56d3e9e716f78d6921d1cc861ab591407ce7cd2d9bf4bcd8fa"
+    },
+    "figures/main/Figure_T1_v1_12_temporal_architecture_test.pdf": {
+      "bytes": 52472,
+      "sha256": "d9abb99b3d78cc6c31faa0c8082ffeff36e6d040ee3ee8e38d0e7a55e0ba704f"
+    },
+    "figures/main/Figure_T1_v1_12_temporal_architecture_test.png": {
+      "bytes": 741416,
+      "sha256": "e3eb9f6b504630f3fa9fb7bfe691db519c9a9e43f196677b65a3b5be1ae47cc7"
+    },
+    "figures/main/Figure_T1_v1_12_temporal_architecture_test.svg": {
+      "bytes": 61259,
+      "sha256": "ad18651b59748356b947903c77b285d08b7d4ed95693eb6e7f722d671d66ab95"
+    },
+    "figures/main/Figure_T1_v1_12_temporal_architecture_test.tiff": {
+      "bytes": 62417250,
+      "sha256": "a32012e505165a56d3e9e716f78d6921d1cc861ab591407ce7cd2d9bf4bcd8fa"
+    },
+    "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.pdf": {
+      "bytes": 79654,
+      "sha256": "a585717b60302cb6d4e7f51739f0160562190f7ff790b5c72ec2d8501547b9e9"
+    },
+    "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.png": {
+      "bytes": 1002713,
+      "sha256": "6d01795dee7aa4b27917c0023bb95b3f26987025709ded76fa68db13a8dbbcde"
+    },
+    "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.svg": {
+      "bytes": 115175,
+      "sha256": "6c4c3713eb799d60d36d7d4442fc3f45d9399c53755dafe431775bec836c2637"
+    },
+    "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.tiff": {
+      "bytes": 83176990,
+      "sha256": "db6b508bf6e7353685721bd58c3d35e5fda9c86d2a7e492af464f43ab9c4e29d"
+    },
+    "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.pdf": {
+      "bytes": 52636,
+      "sha256": "7566533e553793440517f82aad7997ce41ac73d645528c11fcefa3f1bf2896da"
+    },
+    "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.png": {
+      "bytes": 769766,
+      "sha256": "4f82c41c07ec34e4959b4cad2d487f08b8287e604319dfda1baee6f475b43aac"
+    },
+    "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.svg": {
+      "bytes": 54034,
+      "sha256": "3b3e136f8a81e5c632b7e9a1be15a417f7cead75f2ae70efe60396ebdb4ade9c"
+    },
+    "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.tiff": {
+      "bytes": 74218430,
+      "sha256": "592f306e3b5304c9a56ecbbc678ae5cd246af6bcc710055652702c163ccd079e"
+    },
+    "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.pdf": {
+      "bytes": 79623,
+      "sha256": "e6b8f6d20f0fa8578af9be27bb39adcba515179d2509dfd94925aef4b9b33995"
+    },
+    "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.png": {
+      "bytes": 1002713,
+      "sha256": "6d01795dee7aa4b27917c0023bb95b3f26987025709ded76fa68db13a8dbbcde"
+    },
+    "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.svg": {
+      "bytes": 115178,
+      "sha256": "843b8efc14428cf8bc7ec7316018c550de7eb51aefa83c3398fa1aa084e92185"
+    },
+    "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.tiff": {
+      "bytes": 83176990,
+      "sha256": "db6b508bf6e7353685721bd58c3d35e5fda9c86d2a7e492af464f43ab9c4e29d"
+    },
+    "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.pdf": {
+      "bytes": 52579,
+      "sha256": "4670921e06fc142d2f02bb322c496e3b4c4db499eb581fb3618eb4c0bdbff7ef"
+    },
+    "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.png": {
+      "bytes": 769766,
+      "sha256": "4f82c41c07ec34e4959b4cad2d487f08b8287e604319dfda1baee6f475b43aac"
+    },
+    "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.svg": {
+      "bytes": 53978,
+      "sha256": "a9ccb07240ee95d0f301e61d9466675fea9ea9725594e2066b22dd8e28b55efe"
+    },
+    "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.tiff": {
+      "bytes": 74218430,
+      "sha256": "592f306e3b5304c9a56ecbbc678ae5cd246af6bcc710055652702c163ccd079e"
+    }
+  },
+  "schema_version": "science_advances_v1_12_figure_build_receipt_v1",
+  "status": "FIGURES_BUILT_FROM_COMPLETE_LOCKED_RESULTS"
+}

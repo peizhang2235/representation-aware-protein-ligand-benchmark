@@ -1,0 +1,201 @@
+source	stratum	model_id	estimate	low	high	scheme	model_label_plot	stratum_plot
+BioLiP/MOAD	overall	hgb_molecule	0.439831421969678	0.363547578678336	0.516115265261019	Document	HGB ligand	Overall
+BioLiP/MOAD	overall	hgb_protein	0.231366781895665	0.111952396062887	0.350781167728444	Document	HGB protein	Overall
+BioLiP/MOAD	overall	hgb_fusion_additive	0.434844253869656	0.34272135555222	0.526967152187092	Document	HGB additive	Overall
+BioLiP/MOAD	overall	hgb_fusion_interaction	0.436091393961134	0.346809806697601	0.525372981224667	Document	HGB interaction	Overall
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	0.426827729233303	0.328275340383483	0.525380118083123	Document	Frozen ESM2-AFT	Overall
+BioLiP/MOAD	drug_cold	hgb_molecule	0.464082935929957	0.278815112139804	0.64935075972011	Document	HGB ligand	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_protein	0.409689749246288	0.168116175062494	0.651263323430082	Document	HGB protein	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	0.564616838998667	0.357313126199869	0.771920551797464	Document	HGB additive	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	0.526134332152421	0.32219175867448	0.730076905630362	Document	HGB interaction	Ligand cold
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	0.617551221027469	0.436300087363725	0.798802354691213	Document	Frozen ESM2-AFT	Ligand cold
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	0.237108655164313	0.107335488566017	0.366881821762608	Document	HGB ligand	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_protein	0.081562531585904	-0.120085206954284	0.283210270126092	Document	HGB protein	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	0.2454868510628	0.0894672035689004	0.401506498556699	Document	HGB additive	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	0.291163885271159	0.13539553753847	0.446932233003847	Document	HGB interaction	Target cold
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	0.128141614874596	-0.0196054687653972	0.27588869851459	Document	Frozen ESM2-AFT	Target cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.387639662185052	0.283702764631031	0.491576559739072	Document	HGB ligand	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	-0.0292989379396784	-0.182755728180673	0.124157852301316	Document	HGB protein	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.234040395599365	0.10477885200751	0.36330193919122	Document	HGB additive	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.24557706422415	0.126013880930625	0.365140247517676	Document	HGB interaction	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.283908989131822	0.136830514910574	0.430987463353071	Document	Frozen ESM2-AFT	Double cold
+ChEMBL37	overall	hgb_molecule	0.15669558518856	0.049782495692704	0.263608674684416	Document	HGB ligand	Overall
+ChEMBL37	overall	hgb_protein	0.118251360719027	0.0471643347226756	0.189338386715378	Document	HGB protein	Overall
+ChEMBL37	overall	hgb_fusion_additive	0.21523142484583	0.119674651850557	0.310788197841103	Document	HGB additive	Overall
+ChEMBL37	overall	hgb_fusion_interaction	0.206229166135601	0.0968149488385779	0.315643383432625	Document	HGB interaction	Overall
+ChEMBL37	overall	phase15_esm2_aft_frozen	0.205985660203322	0.104790591106157	0.307180729300487	Document	Frozen ESM2-AFT	Overall
+ChEMBL37	drug_cold	hgb_molecule	0.196007377202472	0.0957166488583314	0.296298105546613	Document	HGB ligand	Ligand cold
+ChEMBL37	drug_cold	hgb_protein	0.242626911129357	0.0895946649428938	0.39565915731582	Document	HGB protein	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_additive	0.308712294957789	0.191900072517329	0.42552451739825	Document	HGB additive	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_interaction	0.300813474322629	0.171657281492397	0.42996966715286	Document	HGB interaction	Ligand cold
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	0.263358988054878	0.146159740969112	0.380558235140644	Document	Frozen ESM2-AFT	Ligand cold
+ChEMBL37	protein_identity_cold	hgb_molecule	0.222173037557201	-0.0334641023971658	0.477810177511568	Document	HGB ligand	Target cold
+ChEMBL37	protein_identity_cold	hgb_protein	0.105756421347209	0.0267700238287878	0.184742818865631	Document	HGB protein	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	0.211338529215751	0.060661518294696	0.362015540136806	Document	HGB additive	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	0.213500491244773	0.0542334181811938	0.372767564308352	Document	HGB interaction	Target cold
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	0.223897648913628	0.0313272298199107	0.416468068007345	Document	Frozen ESM2-AFT	Target cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.132283929472624	0.0271186803797474	0.2374491785655	Document	HGB ligand	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	0.0339234726423259	-0.0174118227625919	0.0852587680472437	Document	HGB protein	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.162632112626948	0.0772795944997171	0.247984630754178	Document	HGB additive	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.15643321805019	0.0621506955019119	0.250715740598467	Document	HGB interaction	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.176688327118712	0.0874095034179512	0.265967150819472	Document	Frozen ESM2-AFT	Double cold
+BioLiP/MOAD	overall	hgb_molecule	0.439831421969678	0.37654531067655	0.503117533262806	Scaffold	HGB ligand	Overall
+BioLiP/MOAD	overall	hgb_protein	0.231366781895665	0.139784818332348	0.322948745458983	Scaffold	HGB protein	Overall
+BioLiP/MOAD	overall	hgb_fusion_additive	0.434844253869656	0.361517457983721	0.508171049755591	Scaffold	HGB additive	Overall
+BioLiP/MOAD	overall	hgb_fusion_interaction	0.436091393961134	0.366858303996987	0.505324483925281	Scaffold	HGB interaction	Overall
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	0.426827729233303	0.354961216445789	0.498694242020817	Scaffold	Frozen ESM2-AFT	Overall
+BioLiP/MOAD	drug_cold	hgb_molecule	0.464082935929957	0.292205619936092	0.635960251923823	Scaffold	HGB ligand	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_protein	0.409689749246288	0.220209760587678	0.599169737904897	Scaffold	HGB protein	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	0.564616838998667	0.431558162260494	0.697675515736839	Scaffold	HGB additive	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	0.526134332152421	0.405068335234801	0.647200329070041	Scaffold	HGB interaction	Ligand cold
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	0.617551221027469	0.474756252165785	0.760346189889154	Scaffold	Frozen ESM2-AFT	Ligand cold
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	0.237108655164313	0.135764661431293	0.338452648897333	Scaffold	HGB ligand	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_protein	0.081562531585904	-0.0707777930960015	0.233902856267809	Scaffold	HGB protein	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	0.2454868510628	0.117520393179678	0.373453308945922	Scaffold	HGB additive	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	0.291163885271159	0.194236882903564	0.388090887638753	Scaffold	HGB interaction	Target cold
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	0.128141614874596	0.00278284046594091	0.253500389283252	Scaffold	Frozen ESM2-AFT	Target cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.387639662185052	0.291827397041007	0.483451927329096	Scaffold	HGB ligand	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	-0.0292989379396784	-0.151206943202531	0.0926090673231741	Scaffold	HGB protein	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.234040395599365	0.118992483412832	0.349088307785898	Scaffold	HGB additive	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.24557706422415	0.135684515265852	0.355469613182448	Scaffold	HGB interaction	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.283908989131822	0.166668027640231	0.401149950623414	Scaffold	Frozen ESM2-AFT	Double cold
+ChEMBL37	overall	hgb_molecule	0.15669558518856	0.0902804027828245	0.223110767594296	Scaffold	HGB ligand	Overall
+ChEMBL37	overall	hgb_protein	0.118251360719027	0.0933765664442348	0.143126154993819	Scaffold	HGB protein	Overall
+ChEMBL37	overall	hgb_fusion_additive	0.21523142484583	0.182581937190615	0.247880912501045	Scaffold	HGB additive	Overall
+ChEMBL37	overall	hgb_fusion_interaction	0.206229166135601	0.172930861240788	0.239527471030414	Scaffold	HGB interaction	Overall
+ChEMBL37	overall	phase15_esm2_aft_frozen	0.205985660203322	0.176685001908426	0.235286318498218	Scaffold	Frozen ESM2-AFT	Overall
+ChEMBL37	drug_cold	hgb_molecule	0.196007377202472	0.139106198876432	0.252908555528512	Scaffold	HGB ligand	Ligand cold
+ChEMBL37	drug_cold	hgb_protein	0.242626911129357	0.196886645742324	0.288367176516389	Scaffold	HGB protein	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_additive	0.308712294957789	0.263856850736606	0.353567739178973	Scaffold	HGB additive	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_interaction	0.300813474322629	0.257323164222546	0.344303784422711	Scaffold	HGB interaction	Ligand cold
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	0.263358988054878	0.216361421180513	0.310356554929243	Scaffold	Frozen ESM2-AFT	Ligand cold
+ChEMBL37	protein_identity_cold	hgb_molecule	0.222173037557201	0.043980061807972	0.40036601330643	Scaffold	HGB ligand	Target cold
+ChEMBL37	protein_identity_cold	hgb_protein	0.105756421347209	0.0353163208019931	0.176196521892425	Scaffold	HGB protein	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	0.211338529215751	0.0976360948975386	0.325040963533963	Scaffold	HGB additive	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	0.213500491244773	0.100732584224219	0.326268398265326	Scaffold	HGB interaction	Target cold
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	0.223897648913628	0.138873073105791	0.308922224721464	Scaffold	Frozen ESM2-AFT	Target cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.132283929472624	0.0557917637107792	0.208776095234469	Scaffold	HGB ligand	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	0.0339234726423259	0.0104522395777754	0.0573947057068764	Scaffold	HGB protein	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.162632112626948	0.122783663675039	0.202480561578856	Scaffold	HGB additive	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.15643321805019	0.117935989885272	0.194930446215107	Scaffold	HGB interaction	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.176688327118712	0.139143375318718	0.214233278918706	Scaffold	Frozen ESM2-AFT	Double cold
+BioLiP/MOAD	overall	hgb_molecule	0.439831421969678	0.343172445958279	0.536490397981076	Protein cluster	HGB ligand	Overall
+BioLiP/MOAD	overall	hgb_protein	0.231366781895665	0.0879662621741278	0.374767301617203	Protein cluster	HGB protein	Overall
+BioLiP/MOAD	overall	hgb_fusion_additive	0.434844253869656	0.323882600814184	0.545805906925128	Protein cluster	HGB additive	Overall
+BioLiP/MOAD	overall	hgb_fusion_interaction	0.436091393961134	0.32824676934116	0.543936018581109	Protein cluster	HGB interaction	Overall
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	0.426827729233303	0.304087088680144	0.549568369786462	Protein cluster	Frozen ESM2-AFT	Overall
+BioLiP/MOAD	drug_cold	hgb_molecule	0.464082935929957	0.290770525484511	0.637395346375403	Protein cluster	HGB ligand	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_protein	0.409689749246288	0.146298539583953	0.673080958908622	Protein cluster	HGB protein	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	0.564616838998667	0.32396248662321	0.805271191374123	Protein cluster	HGB additive	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	0.526134332152421	0.278662320187476	0.773606344117366	Protein cluster	HGB interaction	Ligand cold
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	0.617551221027469	0.402643146364251	0.832459295690687	Protein cluster	Frozen ESM2-AFT	Ligand cold
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	0.237108655164313	0.0982633474568742	0.375953962871751	Protein cluster	HGB ligand	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_protein	0.081562531585904	-0.131897091671024	0.295022154842831	Protein cluster	HGB protein	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	0.2454868510628	0.0587048345668023	0.432268867558797	Protein cluster	HGB additive	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	0.291163885271159	0.109713357953095	0.472614412589222	Protein cluster	HGB interaction	Target cold
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	0.128141614874596	-0.0406356662102225	0.296918895959415	Protein cluster	Frozen ESM2-AFT	Target cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.387639662185052	0.274761956871431	0.500517367498672	Protein cluster	HGB ligand	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	-0.0292989379396784	-0.195555187376781	0.136957311497424	Protein cluster	HGB protein	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.234040395599365	0.0816294266932042	0.386451364505526	Protein cluster	HGB additive	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.24557706422415	0.100727642120691	0.39042648632761	Protein cluster	HGB interaction	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.283908989131822	0.105403806988899	0.462414171274746	Protein cluster	Frozen ESM2-AFT	Double cold
+ChEMBL37	overall	hgb_molecule	0.15669558518856	0.118010168802021	0.195381001575099	Protein cluster	HGB ligand	Overall
+ChEMBL37	overall	hgb_protein	0.118251360719027	0.0520617929964665	0.184440928441587	Protein cluster	HGB protein	Overall
+ChEMBL37	overall	hgb_fusion_additive	0.21523142484583	0.149946128452499	0.280516721239161	Protein cluster	HGB additive	Overall
+ChEMBL37	overall	hgb_fusion_interaction	0.206229166135601	0.14459193336561	0.267866398905593	Protein cluster	HGB interaction	Overall
+ChEMBL37	overall	phase15_esm2_aft_frozen	0.205985660203322	0.154194692234349	0.257776628172295	Protein cluster	Frozen ESM2-AFT	Overall
+ChEMBL37	drug_cold	hgb_molecule	0.196007377202472	0.131098071345182	0.260916683059762	Protein cluster	HGB ligand	Ligand cold
+ChEMBL37	drug_cold	hgb_protein	0.242626911129357	0.128888004291949	0.356365817966764	Protein cluster	HGB protein	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_additive	0.308712294957789	0.190847564682684	0.426577025232894	Protein cluster	HGB additive	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_interaction	0.300813474322629	0.192133962647503	0.409492985997754	Protein cluster	HGB interaction	Ligand cold
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	0.263358988054878	0.166414543182183	0.360303432927573	Protein cluster	Frozen ESM2-AFT	Ligand cold
+ChEMBL37	protein_identity_cold	hgb_molecule	0.222173037557201	0.106233723563509	0.338112351550893	Protein cluster	HGB ligand	Target cold
+ChEMBL37	protein_identity_cold	hgb_protein	0.105756421347209	-0.00424128259962728	0.215754125294046	Protein cluster	HGB protein	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	0.211338529215751	0.0991069196211816	0.32357013881032	Protein cluster	HGB additive	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	0.213500491244773	0.106168411415781	0.320832571073765	Protein cluster	HGB interaction	Target cold
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	0.223897648913628	0.122945172040065	0.32485012578719	Protein cluster	Frozen ESM2-AFT	Target cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.132283929472624	0.0863578981402347	0.178209960805013	Protein cluster	HGB ligand	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	0.0339234726423259	-0.032145055121904	0.0999920004065558	Protein cluster	HGB protein	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.162632112626948	0.101571148884383	0.223693076369513	Protein cluster	HGB additive	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.15643321805019	0.0985413359741593	0.21432510012622	Protein cluster	HGB interaction	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.176688327118712	0.121641826546555	0.231734827690869	Protein cluster	Frozen ESM2-AFT	Double cold
+BioLiP/MOAD	overall	hgb_molecule	0.439831421969678	0.367500020013813	0.512162823925543	Three way	HGB ligand	Overall
+BioLiP/MOAD	overall	hgb_protein	0.231366781895665	0.114072811871778	0.348660751919553	Three way	HGB protein	Overall
+BioLiP/MOAD	overall	hgb_fusion_additive	0.434844253869656	0.345861655273276	0.523826852466036	Three way	HGB additive	Overall
+BioLiP/MOAD	overall	hgb_fusion_interaction	0.436091393961134	0.347957179784562	0.524225608137707	Three way	HGB interaction	Overall
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	0.426827729233303	0.326868871557142	0.526786586909464	Three way	Frozen ESM2-AFT	Overall
+BioLiP/MOAD	drug_cold	hgb_molecule	0.464082935929957	0.344900462026611	0.583265409833303	Three way	HGB ligand	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_protein	0.409689749246288	0.175742097369799	0.643637401122776	Three way	HGB protein	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	0.564616838998667	0.376095042790581	0.753138635206752	Three way	HGB additive	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	0.526134332152421	0.328050595747365	0.724218068557477	Three way	HGB interaction	Ligand cold
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	0.617551221027469	0.441263640443507	0.793838801611431	Three way	Frozen ESM2-AFT	Ligand cold
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	0.237108655164313	0.151856662441575	0.322360647887051	Three way	HGB ligand	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_protein	0.081562531585904	-0.0594865773640087	0.222611640535817	Three way	HGB protein	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	0.2454868510628	0.109907608959678	0.381066093165922	Three way	HGB additive	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	0.291163885271159	0.186726622183499	0.395601148358818	Three way	HGB interaction	Target cold
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	0.128141614874596	0.00614405738634957	0.250139172362843	Three way	Frozen ESM2-AFT	Target cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.387639662185052	0.302152054537357	0.473127269832746	Three way	HGB ligand	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	-0.0292989379396784	-0.166667412431602	0.108069536552245	Three way	HGB protein	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.234040395599365	0.10771704456565	0.36036374663308	Three way	HGB additive	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.24557706422415	0.119772456530604	0.371381671917696	Three way	HGB interaction	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.283908989131822	0.133194249051767	0.434623729211878	Three way	Frozen ESM2-AFT	Double cold
+ChEMBL37	overall	hgb_molecule	0.15669558518856	0.049777980564303	0.263613189812817	Three way	HGB ligand	Overall
+ChEMBL37	overall	hgb_protein	0.118251360719027	0.038106346257375	0.198396375180679	Three way	HGB protein	Overall
+ChEMBL37	overall	hgb_fusion_additive	0.21523142484583	0.113846006253083	0.316616843438577	Three way	HGB additive	Overall
+ChEMBL37	overall	hgb_fusion_interaction	0.206229166135601	0.0924022039070797	0.320056128364123	Three way	HGB interaction	Overall
+ChEMBL37	overall	phase15_esm2_aft_frozen	0.205985660203322	0.102180181025781	0.309791139380863	Three way	Frozen ESM2-AFT	Overall
+ChEMBL37	drug_cold	hgb_molecule	0.196007377202472	0.113577019626635	0.278437734778309	Three way	HGB ligand	Ligand cold
+ChEMBL37	drug_cold	hgb_protein	0.242626911129357	0.0819229338360803	0.403330888422633	Three way	HGB protein	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_additive	0.308712294957789	0.186504902980512	0.430919686935066	Three way	HGB additive	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_interaction	0.300813474322629	0.167752868649692	0.433874079995565	Three way	HGB interaction	Ligand cold
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	0.263358988054878	0.143301264967559	0.383416711142198	Three way	Frozen ESM2-AFT	Ligand cold
+ChEMBL37	protein_identity_cold	hgb_molecule	0.222173037557201	-0.0538110722661304	0.498157147380533	Three way	HGB ligand	Target cold
+ChEMBL37	protein_identity_cold	hgb_protein	0.105756421347209	0.103371855387055	0.108140987307363	Three way	HGB protein	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	0.211338529215751	0.0506979233755942	0.371979135055908	Three way	HGB additive	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	0.213500491244773	0.0422185154778827	0.384782467011663	Three way	HGB interaction	Target cold
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	0.223897648913628	0.0383201304354242	0.409475167391831	Three way	Frozen ESM2-AFT	Target cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.132283929472624	0.0263455795109082	0.23822227943434	Three way	HGB ligand	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	0.0339234726423259	-0.0296260160448762	0.0974729613295281	Three way	HGB protein	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.162632112626948	0.0720842924940375	0.253179932759858	Three way	HGB additive	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.15643321805019	0.0587818023663179	0.254084633734061	Three way	HGB interaction	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.176688327118712	0.084562916232957	0.268813738004467	Three way	Frozen ESM2-AFT	Double cold
+BioLiP/MOAD	overall	hgb_molecule	0.439831421969678	0.343172445958279	0.536490397981076	SE envelope	HGB ligand	Overall
+BioLiP/MOAD	overall	hgb_protein	0.231366781895665	0.0879662621741278	0.374767301617203	SE envelope	HGB protein	Overall
+BioLiP/MOAD	overall	hgb_fusion_additive	0.434844253869656	0.323882600814184	0.545805906925128	SE envelope	HGB additive	Overall
+BioLiP/MOAD	overall	hgb_fusion_interaction	0.436091393961134	0.32824676934116	0.543936018581109	SE envelope	HGB interaction	Overall
+BioLiP/MOAD	overall	phase15_esm2_aft_frozen	0.426827729233303	0.304087088680144	0.549568369786462	SE envelope	Frozen ESM2-AFT	Overall
+BioLiP/MOAD	drug_cold	hgb_molecule	0.464082935929957	0.278815112139804	0.64935075972011	SE envelope	HGB ligand	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_protein	0.409689749246288	0.146298539583953	0.673080958908622	SE envelope	HGB protein	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_additive	0.564616838998667	0.32396248662321	0.805271191374123	SE envelope	HGB additive	Ligand cold
+BioLiP/MOAD	drug_cold	hgb_fusion_interaction	0.526134332152421	0.278662320187476	0.773606344117366	SE envelope	HGB interaction	Ligand cold
+BioLiP/MOAD	drug_cold	phase15_esm2_aft_frozen	0.617551221027469	0.402643146364251	0.832459295690687	SE envelope	Frozen ESM2-AFT	Ligand cold
+BioLiP/MOAD	protein_identity_cold	hgb_molecule	0.237108655164313	0.0982633474568742	0.375953962871751	SE envelope	HGB ligand	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_protein	0.081562531585904	-0.131897091671024	0.295022154842831	SE envelope	HGB protein	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_additive	0.2454868510628	0.0587048345668023	0.432268867558797	SE envelope	HGB additive	Target cold
+BioLiP/MOAD	protein_identity_cold	hgb_fusion_interaction	0.291163885271159	0.109713357953095	0.472614412589222	SE envelope	HGB interaction	Target cold
+BioLiP/MOAD	protein_identity_cold	phase15_esm2_aft_frozen	0.128141614874596	-0.0406356662102225	0.296918895959415	SE envelope	Frozen ESM2-AFT	Target cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.387639662185052	0.274761956871431	0.500517367498672	SE envelope	HGB ligand	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_protein	-0.0292989379396784	-0.195555187376781	0.136957311497424	SE envelope	HGB protein	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.234040395599365	0.0816294266932042	0.386451364505526	SE envelope	HGB additive	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.24557706422415	0.100727642120691	0.39042648632761	SE envelope	HGB interaction	Double cold
+BioLiP/MOAD	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.283908989131822	0.105403806988899	0.462414171274746	SE envelope	Frozen ESM2-AFT	Double cold
+ChEMBL37	overall	hgb_molecule	0.15669558518856	0.049777980564303	0.263613189812817	SE envelope	HGB ligand	Overall
+ChEMBL37	overall	hgb_protein	0.118251360719027	0.038106346257375	0.198396375180679	SE envelope	HGB protein	Overall
+ChEMBL37	overall	hgb_fusion_additive	0.21523142484583	0.113846006253083	0.316616843438577	SE envelope	HGB additive	Overall
+ChEMBL37	overall	hgb_fusion_interaction	0.206229166135601	0.0924022039070797	0.320056128364123	SE envelope	HGB interaction	Overall
+ChEMBL37	overall	phase15_esm2_aft_frozen	0.205985660203322	0.102180181025781	0.309791139380863	SE envelope	Frozen ESM2-AFT	Overall
+ChEMBL37	drug_cold	hgb_molecule	0.196007377202472	0.0957166488583314	0.296298105546613	SE envelope	HGB ligand	Ligand cold
+ChEMBL37	drug_cold	hgb_protein	0.242626911129357	0.0819229338360803	0.403330888422633	SE envelope	HGB protein	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_additive	0.308712294957789	0.186504902980512	0.430919686935066	SE envelope	HGB additive	Ligand cold
+ChEMBL37	drug_cold	hgb_fusion_interaction	0.300813474322629	0.167752868649692	0.433874079995565	SE envelope	HGB interaction	Ligand cold
+ChEMBL37	drug_cold	phase15_esm2_aft_frozen	0.263358988054878	0.143301264967559	0.383416711142198	SE envelope	Frozen ESM2-AFT	Ligand cold
+ChEMBL37	protein_identity_cold	hgb_molecule	0.222173037557201	-0.0538110722661304	0.498157147380533	SE envelope	HGB ligand	Target cold
+ChEMBL37	protein_identity_cold	hgb_protein	0.105756421347209	-0.00424128259962728	0.215754125294046	SE envelope	HGB protein	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_additive	0.211338529215751	0.0506979233755942	0.371979135055908	SE envelope	HGB additive	Target cold
+ChEMBL37	protein_identity_cold	hgb_fusion_interaction	0.213500491244773	0.0422185154778827	0.384782467011663	SE envelope	HGB interaction	Target cold
+ChEMBL37	protein_identity_cold	phase15_esm2_aft_frozen	0.223897648913628	0.0313272298199107	0.416468068007345	SE envelope	Frozen ESM2-AFT	Target cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_molecule	0.132283929472624	0.0263455795109082	0.23822227943434	SE envelope	HGB ligand	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_protein	0.0339234726423259	-0.032145055121904	0.0999920004065558	SE envelope	HGB protein	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_additive	0.162632112626948	0.0720842924940375	0.253179932759858	SE envelope	HGB additive	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	hgb_fusion_interaction	0.15643321805019	0.0587818023663179	0.254084633734061	SE envelope	HGB interaction	Double cold
+ChEMBL37	strict_scaffold_protein_identity_double_cold	phase15_esm2_aft_frozen	0.176688327118712	0.084562916232957	0.268813738004467	SE envelope	Frozen ESM2-AFT	Double cold

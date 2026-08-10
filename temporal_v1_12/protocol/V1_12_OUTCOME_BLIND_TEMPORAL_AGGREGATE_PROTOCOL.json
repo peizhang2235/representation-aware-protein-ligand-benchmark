@@ -1,0 +1,146 @@
+{
+  "schema_version": "science_advances_v1_12_outcome_blind_temporal_aggregate_protocol_v1",
+  "locked_at": "2026-08-02T14:02:20Z",
+  "status": "OUTCOME_BLIND_ANALYSIS_LOCKED_AFTER_STRUCTURE_ONLY_FEASIBILITY",
+  "classification": "retrospective_outcome_blind_database_entry_temporal_aggregate_validation",
+  "claim_boundary": "v1.12 is an outcome-unexposed temporal validation assembled from three closed BindingDB 2026-07 feasibility cohorts. Source identities and structure-only support counts were examined before this lock, but no affinity value, outcome distribution, frozen prediction, or performance metric was accessed. The design is not calendar-prospective, not source-independent of BindingDB, and does not replace the first future post-ChEMBL37 release registered in v1.8.",
+  "scientific_question": "Under unchanged frozen models and endpoints, does a positive source-wide affinity association coexist with materially attenuated within-exact-target ligand ordering?",
+  "design_history": {
+    "v1_9": "A strict dual-timestamp patent cohort stopped before prediction and outcome access after its original scale and dependence gate failed.",
+    "v1_10": "A database-entry-time patent cohort stopped before prediction and outcome access after its original scale and dependence gate failed.",
+    "v1_11": "A comprehensive residual all-source cohort stopped before prediction and outcome access after its original scale and coverage gate failed.",
+    "adaptation_disclosed": "v1.12 pools the three previously unopened memberships and applies deterministic document-component balancing selected using structure-only covariates. This pooling decision was made after observing membership counts and before any outcome or prediction access.",
+    "information_not_seen": [
+      "individual or aggregate Kd or pKd values",
+      "outcome ranges or distributions",
+      "predictions on any v1.9, v1.10, or v1.11 pair",
+      "correlations, errors, calibration, concordance, attenuation, or decision branches"
+    ]
+  },
+  "source_cohorts": [
+    {
+      "cohort": "v1.9",
+      "role": "strict_dual_timestamp_patent",
+      "rows": 3865,
+      "source_manifest_sha256": "14adeb6402f4fe772e8d32ee0056ae12d4d39d5f947a1ec9c0cac4838fb3591b",
+      "quarantined_outcome_sha256": "5052d993563c236c7eb78d4e09b19f605feb7212c9c0c0de0682ceeeb0453fbb"
+    },
+    {
+      "cohort": "v1.10",
+      "role": "database_entry_timestamp_patent",
+      "rows": 2499,
+      "source_manifest_sha256": "ccc1a098cc839814e78739556dcca317571e891742bb3ee494709603bab6a0f8",
+      "quarantined_outcome_sha256": "09910ff1cd8ea43026be5273104dfd3a935ddbb4d520c5c9e4c146c80910e587"
+    },
+    {
+      "cohort": "v1.11",
+      "role": "database_entry_timestamp_all_source_residual",
+      "rows": 1091,
+      "source_manifest_sha256": "2896b4e12c00e50aa522b413763e3a91f91d7882713cdaf08c2527585686c653",
+      "quarantined_outcome_sha256": "0e0ddfd0190cb64205c069bce4616c78911454e145f21546d8a545919663415b"
+    }
+  ],
+  "membership": {
+    "deduplication_priority": [
+      "v1.9",
+      "v1.10",
+      "v1.11"
+    ],
+    "deduplication_key": "pair_sha256",
+    "selection_key": "SHA256('science_advances_v1_12_document_balance_v1|' + pair_sha256)",
+    "maximum_pairs_per_document_component": 25,
+    "outcome_use": false,
+    "frozen_structure_only_expectation": {
+      "unique_pairs_before_balancing": 6172,
+      "selected_pairs": 2689,
+      "exact_proteins": 340,
+      "document_components": 292,
+      "effective_document_components": 139.82945601516118,
+      "eligible_within_target_groups": 126
+    },
+    "within_target_group_rule": "At least five unique ligands and at least three Bemis-Murcko scaffolds for one exact protein."
+  },
+  "structural_adequacy_gate": {
+    "pairs": 2500,
+    "document_components": 250,
+    "effective_document_components": 100,
+    "exact_proteins": 300,
+    "eligible_within_target_groups": 100,
+    "interpretation": "These are outcome-unexposed information-support requirements for the fixed aggregate, not the unchanged gates that closed v1.9-v1.11. The structure-only adaptation and exact observed counts must be reported together; the aggregate is not a fully protocol-prespecified calendar-prospective cohort."
+  },
+  "frozen_representation": {
+    "model": "facebook/esm2_t6_8M_UR50D",
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "dimension": 320,
+    "policy": "Generate deterministic pooled embeddings after membership freeze and verify numerical equivalence against the historical frozen embedding runtime.",
+    "outcome_adaptation": false
+  },
+  "frozen_model_panel": {
+    "source_package": "science_advances_prospective_v1_8_20260802",
+    "models": [
+      "development_exact_median_v1_8",
+      "global_top5_morgan_similarity_v1_8",
+      "hgb_fusion_additive_pre2018_v1_8",
+      "ligand_mpnn_frozen_esm2_v1_8",
+      "smiles_protein_cross_attention_v1_8"
+    ],
+    "primary_nonreference_models": 4,
+    "adaptation": "No fitting, recalibration, tuning, family selection, row removal, or prediction rerun using v1.12 outcomes."
+  },
+  "primary_estimands": [
+    {
+      "name": "source_wide_spearman",
+      "definition": "Spearman correlation between observed and predicted pKd over all nonabstained frozen pairs."
+    },
+    {
+      "name": "within_target_centered_spearman",
+      "definition": "Spearman correlation after observed and predicted pKd are separately centered within eligible exact-protein groups."
+    },
+    {
+      "name": "within_target_pairwise_concordance",
+      "definition": "Macro average across eligible exact proteins of pairwise ligand-ordering concordance; ties receive one-half credit."
+    },
+    {
+      "name": "target_rank_attenuation",
+      "definition": "Source-wide Spearman minus within-target-centered Spearman within each resample."
+    }
+  ],
+  "inference": {
+    "primary_resampling_unit": "document_component_id",
+    "bootstrap_replicates": 2000,
+    "seed": 20260802,
+    "confidence_level": 0.95,
+    "simultaneous_model_control": "Maximum absolute studentized statistic across four nonreference models within each primary endpoint.",
+    "endpoint_multiplicity": "Holm correction across four primary endpoints.",
+    "source_wide_support": "Simultaneous 95-percent lower confidence bound greater than zero.",
+    "material_attenuation": "Point attenuation at least 0.10 and simultaneous 95-percent lower confidence bound greater than zero.",
+    "structural_replication_rule": "At least three of four nonreference models support positive source-wide association and material attenuation, and every model has a lower within-target-centered point estimate than its source-wide estimate."
+  },
+  "locked_sensitivities": [
+    "strict publication-and-entry post-2024 subset",
+    "exclude exact 10000 nM values",
+    "single-measurement and replicated-pair subsets",
+    "source-origin estimates and leave-one-origin-out estimates",
+    "document-component, exact-protein, scaffold, and source-origin resampling",
+    "document caps of 10, 15, and 20 applied as nested deterministic subsets",
+    "macro target-mean, support-bin, and target-family diagnostics"
+  ],
+  "decision_matrix": {
+    "composition_dominated_replication": "At least three models support positive source-wide association and material attenuation, with weaker within-target-centered association in all four.",
+    "transported_within_target_ordering": "Source-wide and within-target association are both supported without material attenuation.",
+    "no_temporal_transport": "Source-wide association is not supported in at least three models.",
+    "heterogeneous_or_inconclusive": "No other branch is satisfied; report every model and source-origin result without changing the claim."
+  },
+  "two_stage_firewall": {
+    "stage_1": "Freeze fixed source membership, deterministic balancing, models, endpoints, inference, sensitivities, and decision rules before any affinity or prediction access.",
+    "stage_2": "Freeze ESM2 representations, all predictions, runtime versions, and hashes before authorized outcome parsing.",
+    "unblinding": "Verify every source manifest, structure table, prediction, code, and quarantined-outcome hash; write an unblind receipt before parsing affinity fields."
+  },
+  "prohibited_actions": [
+    "opening, summarizing, or joining any v1.9-v1.11 outcome before stage 2 authorization",
+    "changing source membership, balancing cap, models, endpoints, thresholds, or decision rules after outcome access",
+    "dropping an unfavorable model, source origin, or locked sensitivity",
+    "calling v1.12 calendar-prospective, source-independent, wet-lab, mechanistic, therapeutic, or clinical validation",
+    "using v1.12 outcomes to tune the v1.8 panel"
+  ]
+}

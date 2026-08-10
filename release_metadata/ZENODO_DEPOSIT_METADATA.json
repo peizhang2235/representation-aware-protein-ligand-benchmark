@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "title": "Global affinity rank does not guarantee target-specific ligand ranking: hierarchy- and representation-aware validation of protein-ligand cheminformatics benchmarks",
+    "upload_type": "software",
+    "description": "Rights-bounded code, frozen protocols, predictions, aggregate results, figure-source tables, reproducibility instructions, and audit receipts for the Journal of Cheminformatics Research article 'Global affinity rank does not guarantee target-specific ligand ranking: hierarchy- and representation-aware validation of protein-ligand cheminformatics benchmarks'. BioLiP/MOAD row-level reconstruction, private source-review materials, and model weights are excluded. Original project software is released under MIT (SPDX-License-Identifier: MIT); database-derived fields retain source-specific attribution and terms.",
+    "creators": [
+      {"name": "Zhang, Pei", "affiliation": "First Medical Center of Chinese PLA General Hospital"},
+      {"name": "Yong, Zheng", "affiliation": "Beijing University of Chemical Technology"},
+      {"name": "Zhang, Shu", "affiliation": "First Medical Center of Chinese PLA General Hospital"},
+      {"name": "Wu, Shiwen", "affiliation": "First Medical Center of Chinese PLA General Hospital"}
+    ],
+    "license": "MIT",
+    "keywords": [
+      "protein-ligand affinity",
+      "machine learning",
+      "benchmark validation",
+      "hierarchical data",
+      "temporal validation",
+      "dataset shift",
+      "reproducibility",
+      "data science",
+      "molecular representation",
+      "chemical space"
+    ],
+    "publication_date": "2026-08-07",
+    "related_identifiers": [],
+    "communities": [{"identifier": "zenodo"}]
+  }
+}

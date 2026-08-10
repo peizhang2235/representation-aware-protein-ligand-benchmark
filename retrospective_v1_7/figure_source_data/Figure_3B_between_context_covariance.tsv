@@ -1,0 +1,21 @@
+source	model_id	model_label_plot	group	fraction
+BioLiP/MOAD	hgb_molecule	HGB ligand	Document component	0.926216184711909
+BioLiP/MOAD	hgb_protein	HGB protein	Document component	0.996112246191273
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	Document component	0.92936265456072
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	Document component	0.937249020508932
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	Document component	0.967391147968386
+ChEMBL37	hgb_molecule	HGB ligand	Document component	0.854884519060579
+ChEMBL37	hgb_protein	HGB protein	Document component	0.978305998812009
+ChEMBL37	hgb_fusion_additive	HGB additive	Document component	0.880898613152771
+ChEMBL37	hgb_fusion_interaction	HGB interaction	Document component	0.89362044514145
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	Document component	0.928219776780654
+BioLiP/MOAD	hgb_molecule	HGB ligand	Exact protein	0.867080198873495
+BioLiP/MOAD	hgb_protein	HGB protein	Exact protein	1
+BioLiP/MOAD	hgb_fusion_additive	HGB additive	Exact protein	0.932852122993836
+BioLiP/MOAD	hgb_fusion_interaction	HGB interaction	Exact protein	0.938415608025529
+BioLiP/MOAD	phase15_esm2_aft_frozen	Frozen ESM2-AFT	Exact protein	0.958670446499799
+ChEMBL37	hgb_molecule	HGB ligand	Exact protein	0.472704683777413
+ChEMBL37	hgb_protein	HGB protein	Exact protein	1
+ChEMBL37	hgb_fusion_additive	HGB additive	Exact protein	0.698493430934087
+ChEMBL37	hgb_fusion_interaction	HGB interaction	Exact protein	0.701055767847882
+ChEMBL37	phase15_esm2_aft_frozen	Frozen ESM2-AFT	Exact protein	0.786384872358934

@@ -1,0 +1,27 @@
+{
+  "schema_version": "science_advances_v1_13_source_registration_v1",
+  "registered_at": "2026-08-02T15:27:33Z",
+  "status": "FROZEN_SOURCE_OUTCOMES_UNOPENED",
+  "source": {
+    "name": "IUPHAR/BPS Guide to PHARMACOLOGY",
+    "short_name": "GtoPdb",
+    "release": "2026.2",
+    "release_date": "2026-06-15",
+    "official_download_page": "https://www.guidetopharmacology.org/download.jsp",
+    "official_release_notice": "https://blog.guidetopharmacology.org/2026/06/15/database-release-2026-2/",
+    "official_api_documentation": "https://www.guidetopharmacology.org/webServices.jsp",
+    "license": "Open Data Commons ODbL for the database; CC BY-SA 4.0 for contents"
+  },
+  "registered_outcome_family": "exact numerical pKd only",
+  "registered_entity_scope": "structure-resolved small molecules against single-protein targets with a resolvable protein sequence",
+  "raw_payload_policy": "download once, hash, quarantine, and never pass to prediction code",
+  "independence_definition": [
+    "non-BindingDB source release and curation process",
+    "exact canonical-small-molecule/protein-sequence pair absent from every prior-exposure ledger",
+    "stable source PMID and DOI absent from previously exposed source-document ledgers",
+    "no GtoPdb outcome used for training, model selection, threshold selection, or figure design"
+  ],
+  "future_outcome_rows_read_by_investigator_at_registration": 0,
+  "claim_boundary": "Registration establishes source identity and eligibility rules only; it contains no row-level GtoPdb affinity values or model results."
+}
+

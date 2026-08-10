@@ -1,0 +1,27 @@
+{
+  "analysis_code_lock_sha256": "4d85f9b8b6e72e6ae1a60e24b94f527c36f0cce1053b8917af610cdc9513bf8b",
+  "analysis_code_sha256": "979679bbd4e4723e7e03985a34bdb0cfe0602c4c31d32bdba0b9aac8f92a0f23",
+  "code_changes_allowed": false,
+  "created_at": "2026-08-02T14:16:25.357530+00:00",
+  "esm2_generator_sha256": "0b3da5794fb05f9eebda963ffa0febadcb249adc555eeb1f18b9d359fcc9ca61",
+  "implementation_spec_sha256": "0f05717fb8b6a516374994a68e0bd52b4bafa9bcce01cad4ebe2dd36c4bb1654",
+  "integration_test_sha256": "9c93a607433cf4347b30672fe81753b46510ea1d7f40d5b045bc24256b0c7d86",
+  "predictor_sha256": "ba712e622d682f9227638b76850c700b30597e2997e7b91710c1415cefc9c715",
+  "real_model_predictions_generated": 0,
+  "real_outcome_accessed": false,
+  "real_outcome_rows_read": 0,
+  "schema_version": "science_advances_v1_12_execution_code_lock_v1",
+  "sensitivity_code_lock_sha256": "cf29acf645ebd79b70e55eec7ade552d2d95065523d174c92294fbb09b3495f0",
+  "sensitivity_code_sha256": "24f90513f7d33d6b8ca2ef47484872b99ce9b5e7d16f0745b6ce251e0e4b5077",
+  "source_assembler_sha256": "e6add6aa6d8db77c8a71ee73ea919b43e02d03c1c662ef20b4abfdcf32c9b9a6",
+  "stage1_protocol_sha256": "65b6a843d6af793c46bab375e25e07e7f43764b03c6fe1eaa36ae7122a9b6974",
+  "stage2_firewall_sha256": "2d6b9f135a97cbf50ce93e27d2845f81857842b2654f44c8943db5af63b34ebb",
+  "status": "EXECUTION_CODE_LOCKED_BEFORE_AGGREGATE_PREDICTION_OR_OUTCOME_ACCESS",
+  "technical_tests": {
+    "analysis_unit_self_test": "PASSED",
+    "esm2_runtime": "IDENTICAL_TO_V1_11_EXCEPT NAMES; V1_11_EQUIVALENCE_PASSED_32_PROTEINS_81_WINDOWS",
+    "extended_sensitivity_self_test": "PASSED",
+    "predictor_logic": "IDENTICAL_TO_V1_11_EXCEPT_NAMES_AND_VALIDATION_DESIGN; V1_11_STRUCTURE_ONLY_TEST_PASSED",
+    "three_source_stage2_integration": "PASSED_60_PAIRS_300_PREDICTIONS"
+  }
+}

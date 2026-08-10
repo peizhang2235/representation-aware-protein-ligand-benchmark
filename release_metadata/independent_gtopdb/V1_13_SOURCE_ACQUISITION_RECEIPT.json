@@ -1,0 +1,36 @@
+{
+  "schema_version": "science_advances_v1_13_source_acquisition_receipt_v1",
+  "acquired_at": "2026-08-02",
+  "source_release": "GtoPdb 2026.2",
+  "status": "FIXED_RELEASE_FILES_ACQUIRED_IN_OUTCOME_QUARANTINE",
+  "files": [
+    {
+      "name": "interactions.csv",
+      "url": "https://www.guidetopharmacology.org/DATA/interactions.csv",
+      "sha256": "07bb605283dfc5356f309181737a4b15e7ecfe9e1dc53f9f4667163705d6a082",
+      "contains_outcomes": true
+    },
+    {
+      "name": "ligands.csv",
+      "url": "https://www.guidetopharmacology.org/DATA/ligands.csv",
+      "sha256": "daaeb79ae670f2774e8e2b31cf047a32fdbf5cd434464113db6b3382af2faf42",
+      "contains_outcomes": false
+    },
+    {
+      "name": "targets_and_families.csv",
+      "url": "https://www.guidetopharmacology.org/DATA/targets_and_families.csv",
+      "sha256": "1be2b880391bd0b523c027ca7b3767e176507374526184793ab91302b7272dfd",
+      "contains_outcomes": false
+    },
+    {
+      "name": "GtP_to_UniProt_mapping.csv",
+      "url": "https://www.guidetopharmacology.org/DATA/GtP_to_UniProt_mapping.csv",
+      "sha256": "9a931ac36b5ccf8f2acb46ec8b03b6de6cd2724f3047d03989ecdba9fb141eec",
+      "contains_outcomes": false
+    }
+  ],
+  "excluded_partial_file": "all_ligands.sdf.partial_download_not_used",
+  "investigator_row_level_outcomes_opened": 0,
+  "next_gate": "metadata-only structure, sequence, reference, and overlap feasibility"
+}
+

@@ -1,0 +1,9 @@
+candidate	reference	cold_category	paired_documents	mae_difference_candidate_minus_reference	ci_95_low	ci_95_high	bootstrap_replicates	reference_label	category_label
+source_balanced_provenance_context	core_reference	protein_identity_cold	71	-0.0640868454357843	-0.129034604045062	-0.000851214034927033	2000	Core reference	Protein cold
+source_balanced_provenance_context	core_reference	strict_double_cold	152	-0.00707662856203126	-0.0489805967837869	0.0369050500020171	2000	Core reference	Double cold
+source_balanced_provenance_context	source_balanced_reference	protein_identity_cold	71	-0.0132233826265416	-0.048521015104473	0.0220206639679023	2000	Source-balanced	Protein cold
+source_balanced_provenance_context	source_balanced_reference	strict_double_cold	152	-0.018170372039545	-0.0484168012234985	0.00968277169312475	2000	Source-balanced	Double cold
+source_balanced_provenance_context	source_balanced_provenance	protein_identity_cold	71	-0.0187858881723089	-0.051381886131117	0.0141549948746995	2000	Coarse provenance	Protein cold
+source_balanced_provenance_context	source_balanced_provenance	strict_double_cold	152	-0.0107791114418377	-0.0322977591155765	0.0106038681561961	2000	Coarse provenance	Double cold
+source_balanced_provenance_context	source_balanced_provenance_context_permuted_context	protein_identity_cold	71	0.0131885725062513	-0.00813448992771694	0.0358206734429918	2000	Joint permutation	Protein cold
+source_balanced_provenance_context	source_balanced_provenance_context_permuted_context	strict_double_cold	152	-0.0107253012047221	-0.0279066531629184	0.00687804606909815	2000	Joint permutation	Double cold

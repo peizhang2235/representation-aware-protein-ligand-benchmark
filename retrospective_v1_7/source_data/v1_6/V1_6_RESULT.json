@@ -1,0 +1,58 @@
+{
+  "best_model_identity_stable_across_sources": false,
+  "best_nonreference_model_identity_across_sources": [
+    "hgb_fusion_interaction",
+    "hgb_molecule"
+  ],
+  "claim_boundary": "Post-unblinding retrospective robustness analysis. It can test model-specification dependence of the observed transport failure but cannot rescue, replace, or reclassify the v1.5 one-time blind result.",
+  "confirmatory_status": false,
+  "development_median_pkd": 6.174574367411814,
+  "external_pairs": 26818,
+  "external_sources": 2,
+  "generated_at": "2026-08-01T23:58:20.388722+00:00",
+  "model_specifications": 6,
+  "overall_specification_consistency": [
+    {
+      "best_model_all": "hgb_molecule",
+      "best_model_all_mae": 1.2932046555815986,
+      "best_nonreference_mae": 1.2932046555815986,
+      "best_nonreference_model": "hgb_molecule",
+      "fraction_beating_median_mae": 1.0,
+      "fraction_positive_spearman": 1.0,
+      "fraction_with_positive_r2": 0.8,
+      "models_beating_median_mae": 5,
+      "models_with_positive_r2": 4,
+      "n": 1382,
+      "nonreference_mae_range": 0.34016722707676417,
+      "nonreference_models": 5,
+      "nonreference_spearman_range": 0.20846464007401216,
+      "positive_spearman_models": 5,
+      "source": "BioLiP/MOAD",
+      "stratum": "overall"
+    },
+    {
+      "best_model_all": "hgb_fusion_interaction",
+      "best_model_all_mae": 1.1487209409169228,
+      "best_nonreference_mae": 1.1487209409169228,
+      "best_nonreference_model": "hgb_fusion_interaction",
+      "fraction_beating_median_mae": 0.4,
+      "fraction_positive_spearman": 1.0,
+      "fraction_with_positive_r2": 0.4,
+      "models_beating_median_mae": 2,
+      "models_with_positive_r2": 2,
+      "n": 25436,
+      "nonreference_mae_range": 0.07532172519185343,
+      "nonreference_models": 5,
+      "nonreference_spearman_range": 0.09698006412680375,
+      "positive_spearman_models": 5,
+      "source": "ChEMBL37",
+      "stratum": "overall"
+    }
+  ],
+  "point_utility_vs_median_is_model_robust": false,
+  "positive_rank_signal_is_model_robust": true,
+  "schema_version": "science_advances_v1_6_multimodel_result_v1",
+  "status": "retrospective_multimodel_complete_v1_5_blind_result_unchanged",
+  "v1_5_status": "restricted_source_shift_transport_failed",
+  "v1_5_status_modified": false
+}

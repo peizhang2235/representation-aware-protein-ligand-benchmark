@@ -1,0 +1,48 @@
+{
+  "schema_version": "science_advances_v1_12_predictions_frozen_receipt_v1",
+  "created_at": "2026-08-02T14:25:16.307667+00:00",
+  "status": "PREDICTIONS_FROZEN_OUTCOMES_UNOPENED",
+  "validation_design": "retrospective_outcome_blind_temporal_aggregate",
+  "calendar_prospective": false,
+  "outcome_blind_temporal_stage2_eligible": true,
+  "model_panel_source": "FROZEN_MODEL_REGISTRY_NOT_DISTRIBUTED",
+  "blind_pairs": 2689,
+  "prediction_rows": 13445,
+  "model_ids": [
+    "development_exact_median_v1_8",
+    "global_top5_morgan_similarity_v1_8",
+    "hgb_fusion_additive_pre2018_v1_8",
+    "ligand_mpnn_frozen_esm2_v1_8",
+    "smiles_protein_cross_attention_v1_8"
+  ],
+  "abstention_counts": {
+    "development_exact_median_v1_8": 0,
+    "global_top5_morgan_similarity_v1_8": 0,
+    "hgb_fusion_additive_pre2018_v1_8": 0,
+    "ligand_mpnn_frozen_esm2_v1_8": 0,
+    "smiles_protein_cross_attention_v1_8": 0
+  },
+  "source_manifest_sha256": "f3918d4f840ee33a3d8e046b1458239902a778ba50a848758c893107dfcf6ebc",
+  "blind_structure_table_sha256": "3ec81bc34c3a8689434d203f276d03b9b49fa44b8beab91ab7e23e8baef8237d",
+  "future_esm2_embeddings_sha256": "ccefe5e14a85ff5c0f3abfc7cb0bb68f3a3ffae5e0c7649ae87f27d5ac1be666",
+  "model_artifact_sha256": {
+    "local": "e0f3062665b88466bb3a66708262a814bbdb4f59eb7d794b16624ea0d80d8a5b",
+    "hgb": "be97f6bf88b7608b097d476729b0ee32b96c42976a41c2d5ab8c6b47bc6a85ae",
+    "graph": "7b3e0a00d0324b3dbbedac7f50c10322da25e30ecb99189b1ef4f931957a9646",
+    "joint": "fd4dfb89c69d54c125060b9ed89d8c5b860b82c80ee93b5bf335e12f58ace3ef"
+  },
+  "prediction_file": "predictions_frozen/V1_12_FROZEN_PREDICTIONS.tsv",
+  "prediction_file_sha256": "691eba39813ef899ff00d77bdd16f2b8b8e5673dc133a42aee6bd0636cced883",
+  "prediction_code_sha256": "ba712e622d682f9227638b76850c700b30597e2997e7b91710c1415cefc9c715",
+  "runtime": {
+    "python": "3.9.6",
+    "numpy": "1.26.3",
+    "pandas": "2.2.0",
+    "scikit_learn": "1.4.2",
+    "torch": "2.1.2",
+    "rdkit": "2023.09.5"
+  },
+  "future_outcome_rows_read": 0,
+  "outcome_access_authorized": false,
+  "rerun_allowed": false
+}

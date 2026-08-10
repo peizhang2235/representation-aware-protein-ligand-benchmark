@@ -1,0 +1,973 @@
+document_id	cold_category	reference	delta	category_label
+DOI:10.1002/cbic.200500089	strict_double_cold	Core	0.0337034293686518	Double
+DOI:10.1002/cbic.200800704	pair_cold_entities_seen	Core	-0.0287900523233716	Pair
+DOI:10.1002/cbic.200800704	scaffold_cold	Core	0.181567187880904	Scaffold
+DOI:10.1002/cbic.200900537	protein_identity_cold	Core	-0.517749590054175	Protein
+DOI:10.1002/cbic.200900537	strict_double_cold	Core	-0.552242266992335	Double
+DOI:10.1002/cbic.200900721	strict_double_cold	Core	0.0138796055305561	Double
+DOI:10.1002/cbic.201000413	scaffold_cold	Core	0.381091459644298	Scaffold
+DOI:10.1002/cbic.201200521	protein_identity_cold	Core	0.251890792911153	Protein
+DOI:10.1002/cbic.201200524	strict_double_cold	Core	0.0232829922193664	Double
+DOI:10.1002/cbic.201300613	scaffold_cold	Core	-0.391050754248976	Scaffold
+DOI:10.1002/cbic.201402512	strict_double_cold	Core	-0.142911305126989	Double
+DOI:10.1002/cbic.201402579	strict_double_cold	Core	0.338749038029943	Double
+DOI:10.1002/cbic.201402579	protein_identity_cold	Core	0.389362355377711	Protein
+DOI:10.1002/cbic.201402673	strict_double_cold	Core	0.0049754324607904	Double
+DOI:10.1002/cbic.201600673	strict_double_cold	Core	-0.388145264133489	Double
+DOI:10.1002/cbic.201600697	strict_double_cold	Core	0.431479201486695	Double
+DOI:10.1002/pro.5560071201	scaffold_cold	Core	0.0847108829531363	Scaffold
+DOI:10.1006/jmbi.2000.4032	strict_double_cold	Core	-0.0846922565980639	Double
+DOI:10.1016/j.bioorg.2006.11.002	strict_double_cold	Core	-0.0605892601453064	Double
+DOI:10.1016/j.bioorg.2007.03.001	scaffold_cold	Core	-0.0934707034386427	Scaffold
+DOI:10.1016/j.bioorg.2017.02.006	scaffold_cold	Core	-0.0255544563776368	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	scaffold_cold	Core	0.556168005414319	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	strict_double_cold	Core	0.011712081337066	Double
+DOI:10.1016/j.bmc.2006.07.028	strict_double_cold	Core	0.394923480986456	Double
+DOI:10.1016/j.bmc.2007.01.044	strict_double_cold	Core	0.170612138300326	Double
+DOI:10.1016/j.bmc.2007.01.044	protein_identity_cold	Core	0.0274645156193871	Protein
+DOI:10.1016/j.bmc.2007.02.010	scaffold_cold	Core	-0.0405287821019582	Scaffold
+DOI:10.1016/j.bmcl.2004.11.010	scaffold_cold	Core	-0.0123275852020389	Scaffold
+DOI:10.1016/j.bmcl.2008.06.070	protein_identity_cold	Core	0.312490573714736	Protein
+DOI:10.1016/j.bmcl.2008.06.070	strict_double_cold	Core	0.390642119349128	Double
+DOI:10.1016/j.ccr.2006.12.017	strict_double_cold	Core	-0.319172929367589	Double
+DOI:10.1016/j.chembiol.2004.11.007	strict_double_cold	Core	0.0109469097032187	Double
+DOI:10.1016/j.chembiol.2006.06.007	strict_double_cold	Core	-0.0578563256718127	Double
+DOI:10.1016/j.chembiol.2007.10.011	scaffold_cold	Core	-0.116840698325531	Scaffold
+DOI:10.1016/j.chembiol.2007.10.011	pair_cold_entities_seen	Core	-0.138701545965182	Pair
+DOI:10.1016/j.chembiol.2007.12.013	protein_identity_cold	Core	-0.0927474132788739	Protein
+DOI:10.1016/j.chembiol.2007.12.013	strict_double_cold	Core	0.134544286873858	Double
+DOI:10.1016/j.chembiol.2010.01.008	scaffold_cold	Core	0.325206145322443	Scaffold
+DOI:10.1016/j.chembiol.2010.01.008	strict_double_cold	Core	0.171107685677243	Double
+DOI:10.1016/j.chembiol.2010.02.007	scaffold_cold	Core	-0.0950599667088998	Scaffold
+DOI:10.1016/j.chembiol.2010.02.007	strict_double_cold	Core	-0.121720654391116	Double
+DOI:10.1016/j.chembiol.2011.02.011	strict_double_cold	Core	-0.378703157768696	Double
+DOI:10.1016/j.chembiol.2011.05.010	strict_double_cold	Core	0.0491424213864312	Double
+DOI:10.1016/j.chembiol.2011.05.010	scaffold_cold	Core	0.277584529249554	Scaffold
+DOI:10.1016/j.chembiol.2016.06.017	protein_identity_cold	Core	-0.299123276825149	Protein
+DOI:10.1016/j.chembiol.2016.06.017	strict_double_cold	Core	-0.0905906168165931	Double
+DOI:10.1016/j.chembiol.2016.10.008	strict_double_cold	Core	0.0019974813291869	Double
+DOI:10.1016/j.chembiol.2016.12.011	strict_double_cold	Core	-0.588232634149777	Double
+DOI:10.1016/j.chembiol.2017.01.006	strict_double_cold	Core	-0.0145974284443425	Double
+DOI:10.1016/s1074-5521(02)00125-4	strict_double_cold	Core	0.0533894725446776	Double
+DOI:10.1016/s1074-5521(02)00125-4	protein_identity_cold	Core	0.260001745441179	Protein
+DOI:10.1016/s1074-5521(97)90194-0	scaffold_cold	Core	-0.0172128152831663	Scaffold
+DOI:10.1016/s1074-5521(98)90083-7	protein_identity_cold	Core	-0.146135813719966	Protein
+DOI:10.1016/s1074-5521(98)90083-7	strict_double_cold	Core	-0.210251278231782	Double
+DOI:10.1016/s1074-5521(98)90168-5	strict_double_cold	Core	-0.106401616512379	Double
+DOI:10.1016/s1097-2765(05)00089-4	strict_double_cold	Core	-0.0485446356548265	Double
+DOI:10.1016/s1097-2765(05)00089-4	protein_identity_cold	Core	0.284745432541429	Protein
+DOI:10.1021/acs.biochem.5b00431	strict_double_cold	Core	0.104487688871701	Double
+DOI:10.1021/acs.biochem.5b00431	protein_identity_cold	Core	-0.505354601243	Protein
+DOI:10.1021/acs.biochem.5b01325	strict_double_cold	Core	-0.258673910273409	Double
+DOI:10.1021/acs.biochem.6b00638	strict_double_cold	Core	0.19579324726948	Double
+DOI:10.1021/acs.biochem.6b00954	strict_double_cold	Core	-0.630658055987917	Double
+DOI:10.1021/acs.biochem.6b01019	strict_double_cold	Core	-0.330492949724744	Double
+DOI:10.1021/acs.biochem.6b01019	protein_identity_cold	Core	-0.501278169499021	Protein
+DOI:10.1021/acs.biochem.6b01152	strict_double_cold	Core	0.333278437548891	Double
+DOI:10.1021/acs.biochem.6b01267	strict_double_cold	Core	-0.214161928244034	Double
+DOI:10.1021/acs.biochem.6b01308	protein_identity_cold	Core	-0.0227320244566172	Protein
+DOI:10.1021/acs.biochem.7b00041	protein_identity_cold	Core	-0.428340891535852	Protein
+DOI:10.1021/acs.biochem.7b00041	strict_double_cold	Core	-0.446013331233802	Double
+DOI:10.1021/acs.biochem.7b00078	protein_identity_cold	Core	-0.292305587883986	Protein
+DOI:10.1021/acs.jmedchem.1c01307	strict_double_cold	Core	-0.0335194716272468	Double
+DOI:10.1021/acschembio.5b00291	strict_double_cold	Core	0.217839521654961	Double
+DOI:10.1021/acschembio.5b00370	strict_double_cold	Core	-0.0754092198637427	Double
+DOI:10.1021/acschembio.5b00398	strict_double_cold	Core	-0.123887565164886	Double
+DOI:10.1021/acschembio.5b00839	strict_double_cold	Core	0.109807037466325	Double
+DOI:10.1021/acschembio.5b01018	pair_cold_entities_seen	Core	-0.0989421874110377	Pair
+DOI:10.1021/acschembio.5b01018	scaffold_cold	Core	-0.134347426169429	Scaffold
+DOI:10.1021/acschembio.6b00156	strict_double_cold	Core	-0.0408722900798735	Double
+DOI:10.1021/acschembio.6b00555	protein_identity_cold	Core	-0.0754266869075792	Protein
+DOI:10.1021/acschembio.6b00646	strict_double_cold	Core	-0.0803688201277208	Double
+DOI:10.1021/acschembio.6b00646	protein_identity_cold	Core	-0.126779359919312	Protein
+DOI:10.1021/acschembio.6b00709	pair_cold_entities_seen	Core	0.052715234793768	Pair
+DOI:10.1021/acschembio.6b00709	scaffold_cold	Core	0.0117056041370714	Scaffold
+DOI:10.1021/acschembio.6b00720	strict_double_cold	Core	-0.0110631073242046	Double
+DOI:10.1021/acschembio.6b00747	scaffold_cold	Core	0.0873699040653738	Scaffold
+DOI:10.1021/acschembio.6b00962	scaffold_cold	Core	-0.0125390083792845	Scaffold
+DOI:10.1021/acschembio.6b00962	strict_double_cold	Core	0.119297354667779	Double
+DOI:10.1021/acschembio.7b00062	strict_double_cold	Core	-0.181173051606855	Double
+DOI:10.1021/acschembio.7b00062	protein_identity_cold	Core	-0.186709801417826	Protein
+DOI:10.1021/acschembio.7b00091	strict_double_cold	Core	0.111628903590617	Double
+DOI:10.1021/bi000930v	pair_cold_entities_seen	Core	0.178984170896257	Pair
+DOI:10.1021/bi000930v	scaffold_cold	Core	-0.123239132693426	Scaffold
+DOI:10.1021/bi00405a032	strict_double_cold	Core	0.329606345248583	Double
+DOI:10.1021/bi030031h	protein_identity_cold	Core	-0.157226548525146	Protein
+DOI:10.1021/bi047692e	scaffold_cold	Core	-0.102144571019844	Scaffold
+DOI:10.1021/bi1005283	strict_double_cold	Core	0.141699528908755	Double
+DOI:10.1021/bi1006354	strict_double_cold	Core	0.3123373465622	Double
+DOI:10.1021/bi1006354	protein_identity_cold	Core	-0.227351438676215	Protein
+DOI:10.1021/bi1017182	strict_double_cold	Core	-0.118256836584127	Double
+DOI:10.1021/bi300514j	strict_double_cold	Core	0.168572320108638	Double
+DOI:10.1021/bi400740x	protein_identity_cold	Core	-0.0734216203017374	Protein
+DOI:10.1021/bi5004519	strict_double_cold	Core	0.038659801808617	Double
+DOI:10.1021/bi500561h	strict_double_cold	Core	0.112326155873994	Double
+DOI:10.1021/bi500561h	scaffold_cold	Core	0.268276294399678	Scaffold
+DOI:10.1021/bi500887n	strict_double_cold	Core	-0.0920217612353633	Double
+DOI:10.1021/bi7018282	strict_double_cold	Core	0.536934068434916	Double
+DOI:10.1021/bi9005896	strict_double_cold	Core	-0.176148085546166	Double
+DOI:10.1021/cb200508b	strict_double_cold	Core	0.470220051959745	Double
+DOI:10.1021/cb300671s	scaffold_cold	Core	0.00490472078179573	Scaffold
+DOI:10.1021/cb400075f	scaffold_cold	Core	0.0290708856333262	Scaffold
+DOI:10.1021/cb4002552	strict_double_cold	Core	0.178348815737084	Double
+DOI:10.1021/cb400371r	protein_identity_cold	Core	0.0886044465879555	Protein
+DOI:10.1021/cb400371r	strict_double_cold	Core	0.269304536941947	Double
+DOI:10.1021/cb400407c	scaffold_cold	Core	-0.0734170497261883	Scaffold
+DOI:10.1021/cb500355c	strict_double_cold	Core	-0.0110392272177287	Double
+DOI:10.1021/cb5005178	strict_double_cold	Core	0.0574230109825504	Double
+DOI:10.1021/cb5005178	protein_identity_cold	Core	0.0780422785313503	Protein
+DOI:10.1021/cb500820b	pair_cold_entities_seen	Core	0.168857457440299	Pair
+DOI:10.1021/cb500820b	scaffold_cold	Core	-0.242307746294172	Scaffold
+DOI:10.1021/cb500917m	strict_double_cold	Core	0.0783941533272894	Double
+DOI:10.1021/cb600311v	strict_double_cold	Core	-0.0432854067263628	Double
+DOI:10.1021/cb700025j	scaffold_cold	Core	-0.0109872192958306	Scaffold
+DOI:10.1021/cb700166z	strict_double_cold	Core	0.517929764935014	Double
+DOI:10.1021/cb800162x	scaffold_cold	Core	-0.549204897870837	Scaffold
+DOI:10.1021/cc0501561	strict_double_cold	Core	-0.309008516407311	Double
+DOI:10.1021/ja011034p	pair_cold_entities_seen	Core	-0.135689228133701	Pair
+DOI:10.1021/ja057257n	pair_cold_entities_seen	Core	-0.0218027555667334	Pair
+DOI:10.1021/ja057257n	scaffold_cold	Core	-0.0542654311482463	Scaffold
+DOI:10.1021/jm030120s	pair_cold_entities_seen	Core	-0.281662566269185	Pair
+DOI:10.1021/jm030121k	pair_cold_entities_seen	Core	0.160769022231777	Pair
+DOI:10.1021/jm030121k	scaffold_cold	Core	0.235775311811172	Scaffold
+DOI:10.1021/jm040037k	scaffold_cold	Core	0.129504202306365	Scaffold
+DOI:10.1021/jm049137g	scaffold_cold	Core	0.551361799835135	Scaffold
+DOI:10.1021/jm050921q	protein_identity_cold	Core	0.135356962775811	Protein
+DOI:10.1021/jm050921q	strict_double_cold	Core	0.232867819016571	Double
+DOI:10.1021/jm061465o	protein_identity_cold	Core	0.113721618586334	Protein
+DOI:10.1021/jm070332f	protein_identity_cold	Core	0.113721618586335	Protein
+DOI:10.1021/jm0704550	strict_double_cold	Core	-0.0649229914875091	Double
+DOI:10.1021/jm070487n	strict_double_cold	Core	0.615965417437785	Double
+DOI:10.1021/jm101625x	protein_identity_cold	Core	0.0366479233064905	Protein
+DOI:10.1021/jm101625x	strict_double_cold	Core	0.13359299574605	Double
+DOI:10.1021/jm201734r	strict_double_cold	Core	-0.0889493682240447	Double
+DOI:10.1021/jm201734r	protein_identity_cold	Core	0.186655040057772	Protein
+DOI:10.1021/jm701266y	scaffold_cold	Core	-0.252600138023768	Scaffold
+DOI:10.1021/jm701266y	pair_cold_entities_seen	Core	-0.306252064418752	Pair
+DOI:10.1021/jm800571m	strict_double_cold	Core	-0.217840590951981	Double
+DOI:10.1021/jm800797n	strict_double_cold	Core	0.250940941939584	Double
+DOI:10.1021/jm800797n	protein_identity_cold	Core	0.0853526856646743	Protein
+DOI:10.1021/jm8011849	strict_double_cold	Core	-0.192632710667493	Double
+DOI:10.1021/jm801475n	strict_double_cold	Core	-0.208177966288357	Double
+DOI:10.1021/jm801475n	protein_identity_cold	Core	-0.275209811476929	Protein
+DOI:10.1021/jm801627a	protein_identity_cold	Core	0.0811378839238581	Protein
+DOI:10.1021/jm801627a	strict_double_cold	Core	-0.0868710440693011	Double
+DOI:10.1021/jm801643b	scaffold_cold	Core	-0.00747492221197277	Scaffold
+DOI:10.1021/jm900128w	strict_double_cold	Core	-0.315249929610614	Double
+DOI:10.1021/jm9002928	pair_cold_entities_seen	Core	0.232476196216544	Pair
+DOI:10.1021/jm9002928	scaffold_cold	Core	-0.0290752943370005	Scaffold
+DOI:10.1021/jm900472s	scaffold_cold	Core	0.0729269443800047	Scaffold
+DOI:10.1038/nchembio.1246	scaffold_cold	Core	0.0899849400818749	Scaffold
+DOI:10.1038/nchembio.162	pair_cold_entities_seen	Core	0.0587894060168427	Pair
+DOI:10.1038/nchembio.162	scaffold_cold	Core	-0.203028832032193	Scaffold
+DOI:10.1038/nchembio.1629	scaffold_cold	Core	-0.178864599838297	Scaffold
+DOI:10.1038/nchembio.2134	strict_double_cold	Core	0.0660645428932117	Double
+DOI:10.1038/nchembio.2208	strict_double_cold	Core	0.349029894358294	Double
+DOI:10.1038/nchembio.2209	strict_double_cold	Core	0.299843026769717	Double
+DOI:10.1038/nchembio.2304	scaffold_cold	Core	0.116126035217981	Scaffold
+DOI:10.1038/nchembio.2306	scaffold_cold	Core	-0.46864867642941	Scaffold
+DOI:10.1038/nchembio.481	strict_double_cold	Core	-0.444379272167198	Double
+DOI:10.1038/nsb770	scaffold_cold	Core	-0.0936320071175451	Scaffold
+DOI:10.1038/sj.bjp.0706048	strict_double_cold	Core	-0.114059119326072	Double
+DOI:10.1038/sj.bjp.0706048	protein_identity_cold	Core	-0.121845640989947	Protein
+DOI:10.1073/pnas.0504952102	scaffold_cold	Core	0.0950364344284895	Scaffold
+DOI:10.1073/pnas.0504952102	pair_cold_entities_seen	Core	-0.0475705580163628	Pair
+DOI:10.1073/pnas.0709662105	strict_double_cold	Core	-0.342533496631842	Double
+DOI:10.1074/jbc.m109.017632	strict_double_cold	Core	0.490928721793785	Double
+DOI:10.1074/jbc.m109.017632	protein_identity_cold	Core	0.0155749213740061	Protein
+DOI:10.1074/jbc.m109.067967	strict_double_cold	Core	-0.233467087253749	Double
+DOI:10.1074/jbc.m110.164293	strict_double_cold	Core	0.157360752528928	Double
+DOI:10.1074/jbc.m110.164293	protein_identity_cold	Core	-0.314256089297959	Protein
+DOI:10.1074/jbc.m110.181594	protein_identity_cold	Core	-0.300935772773917	Protein
+DOI:10.1074/jbc.m111.290619	protein_identity_cold	Core	-0.112409747932242	Protein
+DOI:10.1074/jbc.m112.414516	strict_double_cold	Core	0.257517421174148	Double
+DOI:10.1074/jbc.m112.442335	strict_double_cold	Core	0.18134855093132	Double
+DOI:10.1074/jbc.m113.479303	protein_identity_cold	Core	0.246345329877414	Protein
+DOI:10.1074/jbc.m113.487777	strict_double_cold	Core	-0.0454526741530915	Double
+DOI:10.1074/jbc.m113.489153	strict_double_cold	Core	-0.115362430488406	Double
+DOI:10.1074/jbc.m113.490706	strict_double_cold	Core	-0.174480372258926	Double
+DOI:10.1074/jbc.m113.490706	protein_identity_cold	Core	-0.223540540261185	Protein
+DOI:10.1074/jbc.m113.493569	scaffold_cold	Core	0.194189145254008	Scaffold
+DOI:10.1074/jbc.m113.493767	strict_double_cold	Core	0.308662787659815	Double
+DOI:10.1074/jbc.m113.497990	scaffold_cold	Core	-0.0749242380859434	Scaffold
+DOI:10.1074/jbc.m113.497990	strict_double_cold	Core	-0.00730863226588194	Double
+DOI:10.1074/jbc.m113.501353	strict_double_cold	Core	0.183550917530977	Double
+DOI:10.1074/jbc.m113.501353	protein_identity_cold	Core	-0.0971378033251895	Protein
+DOI:10.1074/jbc.m113.503714	strict_double_cold	Core	-0.000626684964643265	Double
+DOI:10.1074/jbc.m113.505503	pair_cold_entities_seen	Core	-0.227365133288803	Pair
+DOI:10.1074/jbc.m113.507756	protein_identity_cold	Core	-0.121447611817229	Protein
+DOI:10.1074/jbc.m113.507756	strict_double_cold	Core	-0.0934143577734518	Double
+DOI:10.1074/jbc.m113.510743	strict_double_cold	Core	0.357866820673355	Double
+DOI:10.1074/jbc.m113.514646	strict_double_cold	Core	-0.19622457288086	Double
+DOI:10.1074/jbc.m113.519421	strict_double_cold	Core	0.078796850633025	Double
+DOI:10.1074/jbc.m113.521708	strict_double_cold	Core	-0.173970856450372	Double
+DOI:10.1074/jbc.m113.523183	strict_double_cold	Core	-0.241930759777334	Double
+DOI:10.1074/jbc.m113.528695	scaffold_cold	Core	0.620482613236212	Scaffold
+DOI:10.1074/jbc.m113.533885	strict_double_cold	Core	0.0178299431595844	Double
+DOI:10.1074/jbc.m113.534859	protein_identity_cold	Core	0.00376746174990722	Protein
+DOI:10.1074/jbc.m114.553248	strict_double_cold	Core	0.198201038286867	Double
+DOI:10.1074/jbc.m114.555052	strict_double_cold	Core	-0.225483555732013	Double
+DOI:10.1074/jbc.m114.559062	pair_cold_entities_seen	Core	-0.689480838711835	Pair
+DOI:10.1074/jbc.m114.564278	strict_double_cold	Core	-0.249531366037982	Double
+DOI:10.1074/jbc.m114.564278	protein_identity_cold	Core	-0.171193272993671	Protein
+DOI:10.1074/jbc.m114.566729	strict_double_cold	Core	0.0635160472418649	Double
+DOI:10.1074/jbc.m114.569707	scaffold_cold	Core	-0.00104618045317021	Scaffold
+DOI:10.1074/jbc.m114.571216	protein_identity_cold	Core	0.406097040147629	Protein
+DOI:10.1074/jbc.m114.571737	strict_double_cold	Core	0.094663466174915	Double
+DOI:10.1074/jbc.m702316200	strict_double_cold	Core	0.14735608226301	Double
+DOI:10.1074/jbc.m707463200	strict_double_cold	Core	-0.154140513482299	Double
+DOI:10.1074/jbc.m707463200	scaffold_cold	Core	-0.616248235061117	Scaffold
+DOI:10.1111/cbdd.12050	protein_identity_cold	Core	0.00778572268290905	Protein
+DOI:10.1111/cbdd.12050	strict_double_cold	Core	0.105373766059557	Double
+DOI:10.1111/cbdd.12161	strict_double_cold	Core	0.0765440148502894	Double
+DOI:10.1111/cbdd.12728	strict_double_cold	Core	0.02441804492313	Double
+DOI:10.1111/cbdd.12801	strict_double_cold	Core	0.626442183783836	Double
+DOI:10.1111/j.1747-0285.2007.00535.x	scaffold_cold	Core	-0.0698398891101353	Scaffold
+DOI:10.1111/j.1747-0285.2008.00719.x	strict_double_cold	Core	-0.196232723823905	Double
+DOI:10.1111/j.1747-0285.2010.01010.x	strict_double_cold	Core	0.0911935868974858	Double
+DOI:10.1128/aac.00311-07	strict_double_cold	Core	0.158303032078401	Double
+DOI:10.1128/aac.00311-07	protein_identity_cold	Core	0.0927563064481465	Protein
+DOI:10.3109/14756366.2012.680063	strict_double_cold	Core	-0.136030025755736	Double
+DOI:10.3109/14756366.2012.757223	scaffold_cold	Core	0.0406595781471807	Scaffold
+DOI:10.3109/14756366.2012.757223	pair_cold_entities_seen	Core	0.155123567542475	Pair
+DOI:10.3109/14756366.2012.757223	strict_double_cold	Core	-0.0966953663684691	Double
+DOI:10.3109/14756366.2012.757223	protein_identity_cold	Core	-0.0711868353917629	Protein
+PMID:2547766	protein_identity_cold	Core	0.321722556223583	Protein
+PMID:3009454	strict_double_cold	Core	0.324841901870395	Double
+PMID:3549712	protein_identity_cold	Core	-0.197897679671309	Protein
+PMID:3549712	strict_double_cold	Core	-0.198352708818069	Double
+ROW:60076	scaffold_cold	Core	-0.0595929238979922	Scaffold
+ROW:60077	scaffold_cold	Core	-0.0192599571776813	Scaffold
+ROW:60078	pair_cold_entities_seen	Core	-0.0177372535351694	Pair
+ROW:60079	pair_cold_entities_seen	Core	0.182615214751215	Pair
+ROW:60080	pair_cold_entities_seen	Core	-0.222502355451914	Pair
+ROW:60081	scaffold_cold	Core	-0.0820253080787115	Scaffold
+ROW:60082	pair_cold_entities_seen	Core	-0.20415665450549	Pair
+ROW:60083	pair_cold_entities_seen	Core	0.055684892851931	Pair
+ROW:60084	pair_cold_entities_seen	Core	-0.180688317277499	Pair
+ROW:60086	pair_cold_entities_seen	Core	0.0170971138094919	Pair
+ROW:60087	pair_cold_entities_seen	Core	0.0814300681387213	Pair
+DOI:10.1002/cbic.201200524	protein_identity_cold	Core	0.0605939200556317	Protein
+DOI:10.1002/cbic.201402512	scaffold_cold	Core	0.00780461878290728	Scaffold
+DOI:10.1002/cbic.201600673	scaffold_cold	Core	0.278696382013103	Scaffold
+DOI:10.1006/jmbi.2000.4032	protein_identity_cold	Core	-0.109294368868151	Protein
+DOI:10.1016/j.bmcl.2004.11.010	strict_double_cold	Core	-0.228630384010073	Double
+DOI:10.1021/acs.biochem.6b00954	scaffold_cold	Core	-0.288603871615715	Scaffold
+DOI:10.1021/acschembio.5b01018	strict_double_cold	Core	0.538602699629797	Double
+DOI:10.1021/bi00405a032	protein_identity_cold	Core	-0.312206543547538	Protein
+DOI:10.1021/bi5004519	protein_identity_cold	Core	-0.0687135714922329	Protein
+DOI:10.1021/cb200508b	scaffold_cold	Core	-0.438824221446784	Scaffold
+DOI:10.1021/cb300671s	strict_double_cold	Core	-0.132991677675977	Double
+DOI:10.1021/cb400407c	strict_double_cold	Core	-0.0315910503506711	Double
+DOI:10.1021/cc0501561	scaffold_cold	Core	0.017294751481502	Scaffold
+DOI:10.1021/jm040037k	strict_double_cold	Core	-0.145459903713965	Double
+DOI:10.1021/jm800571m	protein_identity_cold	Core	-0.159058645854305	Protein
+DOI:10.1021/jm801643b	pair_cold_entities_seen	Core	-0.0258384602629145	Pair
+DOI:10.1073/pnas.0504952102	strict_double_cold	Core	-0.0128180672148976	Double
+DOI:10.1074/jbc.m110.181594	strict_double_cold	Core	-0.321774767965557	Double
+DOI:10.1074/jbc.m112.442335	protein_identity_cold	Core	-0.191773320376062	Protein
+DOI:10.1074/jbc.m113.493569	strict_double_cold	Core	-0.0581278284085851	Double
+DOI:10.1074/jbc.m113.514646	pair_cold_entities_seen	Core	-0.155885771534172	Pair
+DOI:10.1074/jbc.m113.528695	strict_double_cold	Core	0.0705941825562093	Double
+DOI:10.1074/jbc.m113.534859	strict_double_cold	Core	-0.452416793371517	Double
+DOI:10.1074/jbc.m114.553248	protein_identity_cold	Core	0.146690122325435	Protein
+DOI:10.1074/jbc.m114.559062	protein_identity_cold	Core	0.233479554754207	Protein
+DOI:10.1074/jbc.m114.559062	strict_double_cold	Core	0.176267111208734	Double
+DOI:10.1074/jbc.m114.569707	strict_double_cold	Core	0.0266321742759321	Double
+ROW:60082	scaffold_cold	Core	0.0775328124228869	Scaffold
+ROW:60084	scaffold_cold	Core	-0.222751909806174	Scaffold
+DOI:10.1002/cbic.201000413	strict_double_cold	Core	-0.178948699725008	Double
+DOI:10.1002/cbic.201300613	strict_double_cold	Core	-0.258363113019668	Double
+DOI:10.1002/cbic.201402579	scaffold_cold	Core	-0.393408981783344	Scaffold
+DOI:10.1002/cbic.201402579	pair_cold_entities_seen	Core	0.00207956959454994	Pair
+DOI:10.1002/cbic.201600697	scaffold_cold	Core	0.0491451334997146	Scaffold
+DOI:10.1016/j.bmc.2006.07.028	protein_identity_cold	Core	-0.111330484989182	Protein
+DOI:10.1016/j.bmc.2007.02.010	strict_double_cold	Core	-0.645347659559839	Double
+DOI:10.1016/j.chembiol.2007.10.011	strict_double_cold	Core	0.391655563329684	Double
+DOI:10.1016/j.chembiol.2007.10.011	protein_identity_cold	Core	-0.246251389284987	Protein
+DOI:10.1016/s1074-5521(98)90168-5	protein_identity_cold	Core	-0.303655688167233	Protein
+DOI:10.1021/acs.biochem.5b01325	protein_identity_cold	Core	-0.322540427649648	Protein
+DOI:10.1021/acschembio.5b00370	scaffold_cold	Core	0.274858780767134	Scaffold
+DOI:10.1021/bi500561h	protein_identity_cold	Core	-0.0671272994577491	Protein
+DOI:10.1021/bi500561h	pair_cold_entities_seen	Core	0.445266362708713	Pair
+DOI:10.1021/cb200508b	pair_cold_entities_seen	Core	0.00697890082442681	Pair
+DOI:10.1021/jm701266y	strict_double_cold	Core	-0.198514339889651	Double
+DOI:10.1021/jm701266y	protein_identity_cold	Core	-0.864501298687876	Protein
+DOI:10.1021/jm800797n	scaffold_cold	Core	0.192043256111621	Scaffold
+DOI:10.1021/jm800797n	pair_cold_entities_seen	Core	0.148920762472614	Pair
+DOI:10.1021/jm801643b	protein_identity_cold	Core	0.218446559853843	Protein
+DOI:10.1021/jm801643b	strict_double_cold	Core	0.185350096224067	Double
+DOI:10.1021/jm9002928	protein_identity_cold	Core	0.665402782607657	Protein
+DOI:10.1021/jm9002928	strict_double_cold	Core	0.292544902332715	Double
+DOI:10.1038/nchembio.162	protein_identity_cold	Core	0.728597289189536	Protein
+DOI:10.1038/nchembio.2304	strict_double_cold	Core	0.108779843360457	Double
+DOI:10.1074/jbc.m110.164293	scaffold_cold	Core	0.101446373173561	Scaffold
+DOI:10.1074/jbc.m110.164293	pair_cold_entities_seen	Core	-0.734264564410809	Pair
+DOI:10.1074/jbc.m114.571216	strict_double_cold	Core	-0.662932923250531	Double
+DOI:10.1111/cbdd.12161	protein_identity_cold	Core	-0.286170023365616	Protein
+DOI:10.1016/j.bioorg.2017.02.006	pair_cold_entities_seen	Core	-0.0778086696172547	Pair
+DOI:10.1016/j.chembiol.2006.06.007	scaffold_cold	Core	0.396406342174533	Scaffold
+DOI:10.1021/acschembio.6b00709	protein_identity_cold	Core	-0.0692512176567375	Protein
+DOI:10.1021/acschembio.6b00709	strict_double_cold	Core	0.148976385131595	Double
+DOI:10.1021/cb400075f	strict_double_cold	Core	0.324235753531084	Double
+DOI:10.1021/cb500820b	protein_identity_cold	Core	-0.297463058638641	Protein
+DOI:10.1021/cb500820b	strict_double_cold	Core	-0.149300003695759	Double
+DOI:10.1021/jm030120s	scaffold_cold	Core	-0.121155311670513	Scaffold
+DOI:10.1021/jm049137g	strict_double_cold	Core	1.11022302462516e-16	Double
+DOI:10.1021/jm061465o	strict_double_cold	Core	-0.625390630185612	Double
+DOI:10.1021/jm070332f	strict_double_cold	Core	-0.625390630185612	Double
+DOI:10.1038/nchembio.162	strict_double_cold	Core	0.832624407328988	Double
+DOI:10.1073/pnas.0504952102	protein_identity_cold	Core	-0.704723312609275	Protein
+DOI:10.1021/bi000930v	protein_identity_cold	Core	-0.175279874007178	Protein
+DOI:10.1021/bi000930v	strict_double_cold	Core	-1.02088228258349	Double
+DOI:10.1021/ja011034p	scaffold_cold	Core	-0.727662526903541	Scaffold
+DOI:10.1074/jbc.m113.505503	protein_identity_cold	Core	-0.193537312028555	Protein
+DOI:10.1074/jbc.m114.559062	scaffold_cold	Core	-1.03666410157907	Scaffold
+DOI:10.1002/cbic.200500089	strict_double_cold	Coarse provenance	0.0512098925770418	Double
+DOI:10.1002/cbic.200800704	pair_cold_entities_seen	Coarse provenance	0.171262387100736	Pair
+DOI:10.1002/cbic.200800704	scaffold_cold	Coarse provenance	0.0335854574059751	Scaffold
+DOI:10.1002/cbic.200900537	protein_identity_cold	Coarse provenance	0.0171255044071983	Protein
+DOI:10.1002/cbic.200900537	strict_double_cold	Coarse provenance	0.098712871496081	Double
+DOI:10.1002/cbic.200900721	strict_double_cold	Coarse provenance	0.0585607306711251	Double
+DOI:10.1002/cbic.201000413	scaffold_cold	Coarse provenance	-0.144568711899383	Scaffold
+DOI:10.1002/cbic.201200521	protein_identity_cold	Coarse provenance	-0.0517691963678525	Protein
+DOI:10.1002/cbic.201200524	strict_double_cold	Coarse provenance	-0.0215558410887048	Double
+DOI:10.1002/cbic.201300613	scaffold_cold	Coarse provenance	0.0893503160892477	Scaffold
+DOI:10.1002/cbic.201402512	strict_double_cold	Coarse provenance	-0.0883693852145593	Double
+DOI:10.1002/cbic.201402579	strict_double_cold	Coarse provenance	0.0142537733397915	Double
+DOI:10.1002/cbic.201402579	protein_identity_cold	Coarse provenance	0.121253963781311	Protein
+DOI:10.1002/cbic.201402673	strict_double_cold	Coarse provenance	-0.00977260013973454	Double
+DOI:10.1002/cbic.201600673	strict_double_cold	Coarse provenance	-0.0505319139166542	Double
+DOI:10.1002/cbic.201600697	strict_double_cold	Coarse provenance	0.0724903728883238	Double
+DOI:10.1002/pro.5560071201	scaffold_cold	Coarse provenance	-0.0951415286847969	Scaffold
+DOI:10.1006/jmbi.2000.4032	strict_double_cold	Coarse provenance	-0.0106264512585194	Double
+DOI:10.1016/j.bioorg.2006.11.002	strict_double_cold	Coarse provenance	0.018904675762934	Double
+DOI:10.1016/j.bioorg.2007.03.001	scaffold_cold	Coarse provenance	-0.119936356153224	Scaffold
+DOI:10.1016/j.bioorg.2017.02.006	scaffold_cold	Coarse provenance	0.00516705626070599	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	scaffold_cold	Coarse provenance	0.0882891970415124	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	strict_double_cold	Coarse provenance	0.203086115750169	Double
+DOI:10.1016/j.bmc.2006.07.028	strict_double_cold	Coarse provenance	0.127542170623577	Double
+DOI:10.1016/j.bmc.2007.01.044	strict_double_cold	Coarse provenance	-0.0148414571011954	Double
+DOI:10.1016/j.bmc.2007.01.044	protein_identity_cold	Coarse provenance	0.00515916323803203	Protein
+DOI:10.1016/j.bmc.2007.02.010	scaffold_cold	Coarse provenance	-0.0555129896693387	Scaffold
+DOI:10.1016/j.bmcl.2004.11.010	scaffold_cold	Coarse provenance	0.0311676843261428	Scaffold
+DOI:10.1016/j.bmcl.2008.06.070	protein_identity_cold	Coarse provenance	-0.00537293823013756	Protein
+DOI:10.1016/j.bmcl.2008.06.070	strict_double_cold	Coarse provenance	0.0552859225495988	Double
+DOI:10.1016/j.ccr.2006.12.017	strict_double_cold	Coarse provenance	0.0745988548260097	Double
+DOI:10.1016/j.chembiol.2004.11.007	strict_double_cold	Coarse provenance	0.00398078995998237	Double
+DOI:10.1016/j.chembiol.2006.06.007	strict_double_cold	Coarse provenance	-0.153615185321298	Double
+DOI:10.1016/j.chembiol.2007.10.011	scaffold_cold	Coarse provenance	0.0275026569837718	Scaffold
+DOI:10.1016/j.chembiol.2007.10.011	pair_cold_entities_seen	Coarse provenance	-0.0578682366259279	Pair
+DOI:10.1016/j.chembiol.2007.12.013	protein_identity_cold	Coarse provenance	-0.0760152568036937	Protein
+DOI:10.1016/j.chembiol.2007.12.013	strict_double_cold	Coarse provenance	0.00773917007731286	Double
+DOI:10.1016/j.chembiol.2010.01.008	scaffold_cold	Coarse provenance	-0.147925770921877	Scaffold
+DOI:10.1016/j.chembiol.2010.01.008	strict_double_cold	Coarse provenance	-0.0117459249016417	Double
+DOI:10.1016/j.chembiol.2010.02.007	scaffold_cold	Coarse provenance	0.110826307066766	Scaffold
+DOI:10.1016/j.chembiol.2010.02.007	strict_double_cold	Coarse provenance	-0.0538900986948221	Double
+DOI:10.1016/j.chembiol.2011.02.011	strict_double_cold	Coarse provenance	-0.151486176206773	Double
+DOI:10.1016/j.chembiol.2011.05.010	strict_double_cold	Coarse provenance	-0.077399014601386	Double
+DOI:10.1016/j.chembiol.2011.05.010	scaffold_cold	Coarse provenance	0.15415977133803	Scaffold
+DOI:10.1016/j.chembiol.2016.06.017	protein_identity_cold	Coarse provenance	-0.10955450633992	Protein
+DOI:10.1016/j.chembiol.2016.06.017	strict_double_cold	Coarse provenance	-0.0857176840402092	Double
+DOI:10.1016/j.chembiol.2016.10.008	strict_double_cold	Coarse provenance	0.00542922134337139	Double
+DOI:10.1016/j.chembiol.2016.12.011	strict_double_cold	Coarse provenance	-0.194958586422421	Double
+DOI:10.1016/j.chembiol.2017.01.006	strict_double_cold	Coarse provenance	-0.0239090025536201	Double
+DOI:10.1016/s1074-5521(02)00125-4	strict_double_cold	Coarse provenance	-0.0558979355184129	Double
+DOI:10.1016/s1074-5521(02)00125-4	protein_identity_cold	Coarse provenance	0.0561992326512421	Protein
+DOI:10.1016/s1074-5521(97)90194-0	scaffold_cold	Coarse provenance	0.0840120379308068	Scaffold
+DOI:10.1016/s1074-5521(98)90083-7	protein_identity_cold	Coarse provenance	0.100240045344603	Protein
+DOI:10.1016/s1074-5521(98)90083-7	strict_double_cold	Coarse provenance	-0.0446381847149723	Double
+DOI:10.1016/s1074-5521(98)90168-5	strict_double_cold	Coarse provenance	0.0537476108177896	Double
+DOI:10.1016/s1097-2765(05)00089-4	strict_double_cold	Coarse provenance	-0.0379681276430807	Double
+DOI:10.1016/s1097-2765(05)00089-4	protein_identity_cold	Coarse provenance	-0.126654577951623	Protein
+DOI:10.1021/acs.biochem.5b00431	strict_double_cold	Coarse provenance	0.054202369371901	Double
+DOI:10.1021/acs.biochem.5b00431	protein_identity_cold	Coarse provenance	-0.211764450200371	Protein
+DOI:10.1021/acs.biochem.5b01325	strict_double_cold	Coarse provenance	-0.0620941966500371	Double
+DOI:10.1021/acs.biochem.6b00638	strict_double_cold	Coarse provenance	0.122218887602104	Double
+DOI:10.1021/acs.biochem.6b00954	strict_double_cold	Coarse provenance	-0.102604749599686	Double
+DOI:10.1021/acs.biochem.6b01019	strict_double_cold	Coarse provenance	-0.0112719275197219	Double
+DOI:10.1021/acs.biochem.6b01019	protein_identity_cold	Coarse provenance	-0.19076117229141	Protein
+DOI:10.1021/acs.biochem.6b01152	strict_double_cold	Coarse provenance	0.0492839388638242	Double
+DOI:10.1021/acs.biochem.6b01267	strict_double_cold	Coarse provenance	-0.087939064317827	Double
+DOI:10.1021/acs.biochem.6b01308	protein_identity_cold	Coarse provenance	0.0546178383217882	Protein
+DOI:10.1021/acs.biochem.7b00041	protein_identity_cold	Coarse provenance	0.0176437846119904	Protein
+DOI:10.1021/acs.biochem.7b00041	strict_double_cold	Coarse provenance	-0.0168014642329752	Double
+DOI:10.1021/acs.biochem.7b00078	protein_identity_cold	Coarse provenance	-0.0926421816967895	Protein
+DOI:10.1021/acs.jmedchem.1c01307	strict_double_cold	Coarse provenance	0.0396113544377212	Double
+DOI:10.1021/acschembio.5b00291	strict_double_cold	Coarse provenance	0.174658801641276	Double
+DOI:10.1021/acschembio.5b00370	strict_double_cold	Coarse provenance	-0.23983686395809	Double
+DOI:10.1021/acschembio.5b00398	strict_double_cold	Coarse provenance	-0.120985399383402	Double
+DOI:10.1021/acschembio.5b00839	strict_double_cold	Coarse provenance	0.0777855205900086	Double
+DOI:10.1021/acschembio.5b01018	pair_cold_entities_seen	Coarse provenance	0.0130817465405269	Pair
+DOI:10.1021/acschembio.5b01018	scaffold_cold	Coarse provenance	0.0187660055649829	Scaffold
+DOI:10.1021/acschembio.6b00156	strict_double_cold	Coarse provenance	0.0218013602544256	Double
+DOI:10.1021/acschembio.6b00555	protein_identity_cold	Coarse provenance	0.0671069034521236	Protein
+DOI:10.1021/acschembio.6b00646	strict_double_cold	Coarse provenance	-0.0926786685129948	Double
+DOI:10.1021/acschembio.6b00646	protein_identity_cold	Coarse provenance	-0.102838595113184	Protein
+DOI:10.1021/acschembio.6b00709	pair_cold_entities_seen	Coarse provenance	0.122763038552245	Pair
+DOI:10.1021/acschembio.6b00709	scaffold_cold	Coarse provenance	-0.0171952965480703	Scaffold
+DOI:10.1021/acschembio.6b00720	strict_double_cold	Coarse provenance	-0.0131663745856517	Double
+DOI:10.1021/acschembio.6b00747	scaffold_cold	Coarse provenance	-0.0268471355824658	Scaffold
+DOI:10.1021/acschembio.6b00962	scaffold_cold	Coarse provenance	0.0314405249286713	Scaffold
+DOI:10.1021/acschembio.6b00962	strict_double_cold	Coarse provenance	0.0596658460079939	Double
+DOI:10.1021/acschembio.7b00062	strict_double_cold	Coarse provenance	0.0487739323097349	Double
+DOI:10.1021/acschembio.7b00062	protein_identity_cold	Coarse provenance	0.000242108052856349	Protein
+DOI:10.1021/acschembio.7b00091	strict_double_cold	Coarse provenance	-0.0992919977448944	Double
+DOI:10.1021/bi000930v	pair_cold_entities_seen	Coarse provenance	-0.0171475155473469	Pair
+DOI:10.1021/bi000930v	scaffold_cold	Coarse provenance	-0.0669537089931791	Scaffold
+DOI:10.1021/bi00405a032	strict_double_cold	Coarse provenance	-0.0388184286984587	Double
+DOI:10.1021/bi030031h	protein_identity_cold	Coarse provenance	-0.0713703698777612	Protein
+DOI:10.1021/bi047692e	scaffold_cold	Coarse provenance	-0.0797875627603901	Scaffold
+DOI:10.1021/bi1005283	strict_double_cold	Coarse provenance	-0.11472064210328	Double
+DOI:10.1021/bi1006354	strict_double_cold	Coarse provenance	0.0259341942984695	Double
+DOI:10.1021/bi1006354	protein_identity_cold	Coarse provenance	-0.0623174152386977	Protein
+DOI:10.1021/bi1017182	strict_double_cold	Coarse provenance	-0.314047299211879	Double
+DOI:10.1021/bi300514j	strict_double_cold	Coarse provenance	0.183608390854412	Double
+DOI:10.1021/bi400740x	protein_identity_cold	Coarse provenance	-0.0179039519376992	Protein
+DOI:10.1021/bi5004519	strict_double_cold	Coarse provenance	-0.141402008915639	Double
+DOI:10.1021/bi500561h	strict_double_cold	Coarse provenance	0.0828788437458009	Double
+DOI:10.1021/bi500561h	scaffold_cold	Coarse provenance	0.0742121403113791	Scaffold
+DOI:10.1021/bi500887n	strict_double_cold	Coarse provenance	0.0496292877388824	Double
+DOI:10.1021/bi7018282	strict_double_cold	Coarse provenance	0.153633829771666	Double
+DOI:10.1021/bi9005896	strict_double_cold	Coarse provenance	-0.00123509358973678	Double
+DOI:10.1021/cb200508b	strict_double_cold	Coarse provenance	-0.0581685834927683	Double
+DOI:10.1021/cb300671s	scaffold_cold	Coarse provenance	-0.148923767527301	Scaffold
+DOI:10.1021/cb400075f	scaffold_cold	Coarse provenance	0.111633552317628	Scaffold
+DOI:10.1021/cb4002552	strict_double_cold	Coarse provenance	-0.0536142144474941	Double
+DOI:10.1021/cb400371r	protein_identity_cold	Coarse provenance	0.0171322459804914	Protein
+DOI:10.1021/cb400371r	strict_double_cold	Coarse provenance	0.069380118976747	Double
+DOI:10.1021/cb400407c	scaffold_cold	Coarse provenance	0.0989743865569772	Scaffold
+DOI:10.1021/cb500355c	strict_double_cold	Coarse provenance	0.0438688790473895	Double
+DOI:10.1021/cb5005178	strict_double_cold	Coarse provenance	-0.0233968763816778	Double
+DOI:10.1021/cb5005178	protein_identity_cold	Coarse provenance	-0.0387107119460777	Protein
+DOI:10.1021/cb500820b	pair_cold_entities_seen	Coarse provenance	0.131309143082344	Pair
+DOI:10.1021/cb500820b	scaffold_cold	Coarse provenance	-0.126923094582295	Scaffold
+DOI:10.1021/cb500917m	strict_double_cold	Coarse provenance	0.0478759632072315	Double
+DOI:10.1021/cb600311v	strict_double_cold	Coarse provenance	0.112968146222857	Double
+DOI:10.1021/cb700025j	scaffold_cold	Coarse provenance	-0.0583108580060673	Scaffold
+DOI:10.1021/cb700166z	strict_double_cold	Coarse provenance	-0.00361578027694274	Double
+DOI:10.1021/cb800162x	scaffold_cold	Coarse provenance	-0.185485825430653	Scaffold
+DOI:10.1021/cc0501561	strict_double_cold	Coarse provenance	-0.0503444172241241	Double
+DOI:10.1021/ja011034p	pair_cold_entities_seen	Coarse provenance	0.0512883540831404	Pair
+DOI:10.1021/ja057257n	pair_cold_entities_seen	Coarse provenance	0.045871875808635	Pair
+DOI:10.1021/ja057257n	scaffold_cold	Coarse provenance	0.0169231465250742	Scaffold
+DOI:10.1021/jm030120s	pair_cold_entities_seen	Coarse provenance	-0.0337257898351812	Pair
+DOI:10.1021/jm030121k	pair_cold_entities_seen	Coarse provenance	0.175396918173701	Pair
+DOI:10.1021/jm030121k	scaffold_cold	Coarse provenance	0.133414486217268	Scaffold
+DOI:10.1021/jm040037k	scaffold_cold	Coarse provenance	-0.0269834465226059	Scaffold
+DOI:10.1021/jm049137g	scaffold_cold	Coarse provenance	0.0747855828502146	Scaffold
+DOI:10.1021/jm050921q	protein_identity_cold	Coarse provenance	0.125373215997965	Protein
+DOI:10.1021/jm050921q	strict_double_cold	Coarse provenance	0.0541551174218488	Double
+DOI:10.1021/jm061465o	protein_identity_cold	Coarse provenance	0.0874739853310944	Protein
+DOI:10.1021/jm070332f	protein_identity_cold	Coarse provenance	0.0874739853310945	Protein
+DOI:10.1021/jm0704550	strict_double_cold	Coarse provenance	-0.0217576919135659	Double
+DOI:10.1021/jm070487n	strict_double_cold	Coarse provenance	0.0687297620135452	Double
+DOI:10.1021/jm101625x	protein_identity_cold	Coarse provenance	-0.0127070485231989	Protein
+DOI:10.1021/jm101625x	strict_double_cold	Coarse provenance	-0.00413713713569457	Double
+DOI:10.1021/jm201734r	strict_double_cold	Coarse provenance	-0.0167877886111387	Double
+DOI:10.1021/jm201734r	protein_identity_cold	Coarse provenance	-0.0734107303254964	Protein
+DOI:10.1021/jm701266y	scaffold_cold	Coarse provenance	-0.119367657163383	Scaffold
+DOI:10.1021/jm701266y	pair_cold_entities_seen	Coarse provenance	-0.0840622953754717	Pair
+DOI:10.1021/jm800571m	strict_double_cold	Coarse provenance	-0.0338898979399139	Double
+DOI:10.1021/jm800797n	strict_double_cold	Coarse provenance	-0.0110894468278632	Double
+DOI:10.1021/jm800797n	protein_identity_cold	Coarse provenance	-0.0465675556270999	Protein
+DOI:10.1021/jm8011849	strict_double_cold	Coarse provenance	-0.0810794522830055	Double
+DOI:10.1021/jm801475n	strict_double_cold	Coarse provenance	0.0755329498119863	Double
+DOI:10.1021/jm801475n	protein_identity_cold	Coarse provenance	-0.0198114594397569	Protein
+DOI:10.1021/jm801627a	protein_identity_cold	Coarse provenance	0.0130885839783085	Protein
+DOI:10.1021/jm801627a	strict_double_cold	Coarse provenance	-0.142611325638356	Double
+DOI:10.1021/jm801643b	scaffold_cold	Coarse provenance	-0.0676768150294515	Scaffold
+DOI:10.1021/jm900128w	strict_double_cold	Coarse provenance	-0.349736325903772	Double
+DOI:10.1021/jm9002928	pair_cold_entities_seen	Coarse provenance	-0.104079544824517	Pair
+DOI:10.1021/jm9002928	scaffold_cold	Coarse provenance	-0.00572014030438783	Scaffold
+DOI:10.1021/jm900472s	scaffold_cold	Coarse provenance	-0.0640939286781116	Scaffold
+DOI:10.1038/nchembio.1246	scaffold_cold	Coarse provenance	0.110136609195248	Scaffold
+DOI:10.1038/nchembio.162	pair_cold_entities_seen	Coarse provenance	-0.203587698941976	Pair
+DOI:10.1038/nchembio.162	scaffold_cold	Coarse provenance	0.0394943573115641	Scaffold
+DOI:10.1038/nchembio.1629	scaffold_cold	Coarse provenance	-0.0867437416788301	Scaffold
+DOI:10.1038/nchembio.2134	strict_double_cold	Coarse provenance	-0.0393662814707741	Double
+DOI:10.1038/nchembio.2208	strict_double_cold	Coarse provenance	-0.0539945277059519	Double
+DOI:10.1038/nchembio.2209	strict_double_cold	Coarse provenance	-0.0268105264464771	Double
+DOI:10.1038/nchembio.2304	scaffold_cold	Coarse provenance	-0.0714903613521081	Scaffold
+DOI:10.1038/nchembio.2306	scaffold_cold	Coarse provenance	0.0533813063602763	Scaffold
+DOI:10.1038/nchembio.481	strict_double_cold	Coarse provenance	-0.100301471896828	Double
+DOI:10.1038/nsb770	scaffold_cold	Coarse provenance	-0.0310829200892021	Scaffold
+DOI:10.1038/sj.bjp.0706048	strict_double_cold	Coarse provenance	-0.015811271105865	Double
+DOI:10.1038/sj.bjp.0706048	protein_identity_cold	Coarse provenance	-0.0426751622492225	Protein
+DOI:10.1073/pnas.0504952102	scaffold_cold	Coarse provenance	-0.0226761688476446	Scaffold
+DOI:10.1073/pnas.0504952102	pair_cold_entities_seen	Coarse provenance	0.0270877867902904	Pair
+DOI:10.1073/pnas.0709662105	strict_double_cold	Coarse provenance	0.120032331045509	Double
+DOI:10.1074/jbc.m109.017632	strict_double_cold	Coarse provenance	-0.248153131025212	Double
+DOI:10.1074/jbc.m109.017632	protein_identity_cold	Coarse provenance	-0.101144491145567	Protein
+DOI:10.1074/jbc.m109.067967	strict_double_cold	Coarse provenance	-0.0521716446121816	Double
+DOI:10.1074/jbc.m110.164293	strict_double_cold	Coarse provenance	-0.320173918513851	Double
+DOI:10.1074/jbc.m110.164293	protein_identity_cold	Coarse provenance	0.00667245775566658	Protein
+DOI:10.1074/jbc.m110.181594	protein_identity_cold	Coarse provenance	-0.0410758751500112	Protein
+DOI:10.1074/jbc.m111.290619	protein_identity_cold	Coarse provenance	-0.0613051232801151	Protein
+DOI:10.1074/jbc.m112.414516	strict_double_cold	Coarse provenance	0.163068602295217	Double
+DOI:10.1074/jbc.m112.442335	strict_double_cold	Coarse provenance	-0.0258173971575252	Double
+DOI:10.1074/jbc.m113.479303	protein_identity_cold	Coarse provenance	0.187298102511599	Protein
+DOI:10.1074/jbc.m113.487777	strict_double_cold	Coarse provenance	0.16044426910266	Double
+DOI:10.1074/jbc.m113.489153	strict_double_cold	Coarse provenance	0.158157114083209	Double
+DOI:10.1074/jbc.m113.490706	strict_double_cold	Coarse provenance	0.0849405796165503	Double
+DOI:10.1074/jbc.m113.490706	protein_identity_cold	Coarse provenance	-0.0209111348430312	Protein
+DOI:10.1074/jbc.m113.493569	scaffold_cold	Coarse provenance	0.0339537376640604	Scaffold
+DOI:10.1074/jbc.m113.493767	strict_double_cold	Coarse provenance	0.00976766499419149	Double
+DOI:10.1074/jbc.m113.497990	scaffold_cold	Coarse provenance	0.00867940906667862	Scaffold
+DOI:10.1074/jbc.m113.497990	strict_double_cold	Coarse provenance	0.0868750907100081	Double
+DOI:10.1074/jbc.m113.501353	strict_double_cold	Coarse provenance	0.142238095296616	Double
+DOI:10.1074/jbc.m113.501353	protein_identity_cold	Coarse provenance	-0.191376967079744	Protein
+DOI:10.1074/jbc.m113.503714	strict_double_cold	Coarse provenance	0.17089855931968	Double
+DOI:10.1074/jbc.m113.505503	pair_cold_entities_seen	Coarse provenance	-0.00283440552579487	Pair
+DOI:10.1074/jbc.m113.507756	protein_identity_cold	Coarse provenance	0.0806818628280814	Protein
+DOI:10.1074/jbc.m113.507756	strict_double_cold	Coarse provenance	0.0346137543880173	Double
+DOI:10.1074/jbc.m113.510743	strict_double_cold	Coarse provenance	0.450381509722229	Double
+DOI:10.1074/jbc.m113.514646	strict_double_cold	Coarse provenance	-0.233548286265349	Double
+DOI:10.1074/jbc.m113.519421	strict_double_cold	Coarse provenance	0.0312543027130002	Double
+DOI:10.1074/jbc.m113.521708	strict_double_cold	Coarse provenance	-0.0315942109492694	Double
+DOI:10.1074/jbc.m113.523183	strict_double_cold	Coarse provenance	-0.108025937414741	Double
+DOI:10.1074/jbc.m113.528695	scaffold_cold	Coarse provenance	0.414107380956337	Scaffold
+DOI:10.1074/jbc.m113.533885	strict_double_cold	Coarse provenance	-0.0209143869896238	Double
+DOI:10.1074/jbc.m113.534859	protein_identity_cold	Coarse provenance	-0.380878083297938	Protein
+DOI:10.1074/jbc.m114.553248	strict_double_cold	Coarse provenance	-0.0552153647674005	Double
+DOI:10.1074/jbc.m114.555052	strict_double_cold	Coarse provenance	0.053532908220554	Double
+DOI:10.1074/jbc.m114.559062	pair_cold_entities_seen	Coarse provenance	-0.195682467900527	Pair
+DOI:10.1074/jbc.m114.564278	strict_double_cold	Coarse provenance	0.0134396551256465	Double
+DOI:10.1074/jbc.m114.564278	protein_identity_cold	Coarse provenance	0.139202237759252	Protein
+DOI:10.1074/jbc.m114.566729	strict_double_cold	Coarse provenance	-0.0827182278355657	Double
+DOI:10.1074/jbc.m114.569707	scaffold_cold	Coarse provenance	-0.0658591557667061	Scaffold
+DOI:10.1074/jbc.m114.571216	protein_identity_cold	Coarse provenance	-0.0705444814677415	Protein
+DOI:10.1074/jbc.m114.571737	strict_double_cold	Coarse provenance	-0.0392208991431438	Double
+DOI:10.1074/jbc.m702316200	strict_double_cold	Coarse provenance	0.125223534156451	Double
+DOI:10.1074/jbc.m707463200	strict_double_cold	Coarse provenance	-0.0822889082307572	Double
+DOI:10.1074/jbc.m707463200	scaffold_cold	Coarse provenance	-0.760432151818556	Scaffold
+DOI:10.1111/cbdd.12050	protein_identity_cold	Coarse provenance	0.0512763137250126	Protein
+DOI:10.1111/cbdd.12050	strict_double_cold	Coarse provenance	0.0881562690649915	Double
+DOI:10.1111/cbdd.12161	strict_double_cold	Coarse provenance	-0.0470875059439478	Double
+DOI:10.1111/cbdd.12728	strict_double_cold	Coarse provenance	0.0447888152632589	Double
+DOI:10.1111/cbdd.12801	strict_double_cold	Coarse provenance	0.0498297508728065	Double
+DOI:10.1111/j.1747-0285.2007.00535.x	scaffold_cold	Coarse provenance	0.111078830103265	Scaffold
+DOI:10.1111/j.1747-0285.2008.00719.x	strict_double_cold	Coarse provenance	-0.0430942738337216	Double
+DOI:10.1111/j.1747-0285.2010.01010.x	strict_double_cold	Coarse provenance	0.0940265630352058	Double
+DOI:10.1128/aac.00311-07	strict_double_cold	Coarse provenance	-0.0966178397014928	Double
+DOI:10.1128/aac.00311-07	protein_identity_cold	Coarse provenance	-0.152848174995285	Protein
+DOI:10.3109/14756366.2012.680063	strict_double_cold	Coarse provenance	0.0544661036312936	Double
+DOI:10.3109/14756366.2012.757223	scaffold_cold	Coarse provenance	0.0256371981231179	Scaffold
+DOI:10.3109/14756366.2012.757223	pair_cold_entities_seen	Coarse provenance	-0.0823363849008478	Pair
+DOI:10.3109/14756366.2012.757223	strict_double_cold	Coarse provenance	0.0302744816684821	Double
+DOI:10.3109/14756366.2012.757223	protein_identity_cold	Coarse provenance	-0.188108300211059	Protein
+PMID:2547766	protein_identity_cold	Coarse provenance	0.287363087914763	Protein
+PMID:3009454	strict_double_cold	Coarse provenance	0.0712631214649614	Double
+PMID:3549712	protein_identity_cold	Coarse provenance	0.0348640225714906	Protein
+PMID:3549712	strict_double_cold	Coarse provenance	0.0280405090677656	Double
+ROW:60076	scaffold_cold	Coarse provenance	0.230924901396026	Scaffold
+ROW:60077	scaffold_cold	Coarse provenance	-0.00620384525156215	Scaffold
+ROW:60078	pair_cold_entities_seen	Coarse provenance	0.107195797778328	Pair
+ROW:60079	pair_cold_entities_seen	Coarse provenance	0.258735845286566	Pair
+ROW:60080	pair_cold_entities_seen	Coarse provenance	0.021502631100762	Pair
+ROW:60081	scaffold_cold	Coarse provenance	0.0264933667037053	Scaffold
+ROW:60082	pair_cold_entities_seen	Coarse provenance	0.0179087955973837	Pair
+ROW:60083	pair_cold_entities_seen	Coarse provenance	0.0273866284987095	Pair
+ROW:60084	pair_cold_entities_seen	Coarse provenance	-0.0705003715164828	Pair
+ROW:60086	pair_cold_entities_seen	Coarse provenance	-0.0518367209977925	Pair
+ROW:60087	pair_cold_entities_seen	Coarse provenance	0.0268984396128191	Pair
+DOI:10.1002/cbic.201200524	protein_identity_cold	Coarse provenance	0.233107410311397	Protein
+DOI:10.1002/cbic.201402512	scaffold_cold	Coarse provenance	5.83540664730875e-05	Scaffold
+DOI:10.1002/cbic.201600673	scaffold_cold	Coarse provenance	0.282704189249374	Scaffold
+DOI:10.1006/jmbi.2000.4032	protein_identity_cold	Coarse provenance	0.0160674805361437	Protein
+DOI:10.1016/j.bmcl.2004.11.010	strict_double_cold	Coarse provenance	-0.303945218411789	Double
+DOI:10.1021/acs.biochem.6b00954	scaffold_cold	Coarse provenance	-0.0817270513786437	Scaffold
+DOI:10.1021/acschembio.5b01018	strict_double_cold	Coarse provenance	0.234784699953986	Double
+DOI:10.1021/bi00405a032	protein_identity_cold	Coarse provenance	-0.117176607040964	Protein
+DOI:10.1021/bi5004519	protein_identity_cold	Coarse provenance	0.0945287836812581	Protein
+DOI:10.1021/cb200508b	scaffold_cold	Coarse provenance	-0.462875599861885	Scaffold
+DOI:10.1021/cb300671s	strict_double_cold	Coarse provenance	0.0921214354262072	Double
+DOI:10.1021/cb400407c	strict_double_cold	Coarse provenance	0.114774287646325	Double
+DOI:10.1021/cc0501561	scaffold_cold	Coarse provenance	-0.0480748792538382	Scaffold
+DOI:10.1021/jm040037k	strict_double_cold	Coarse provenance	0.180660694186247	Double
+DOI:10.1021/jm800571m	protein_identity_cold	Coarse provenance	0.114129641644335	Protein
+DOI:10.1021/jm801643b	pair_cold_entities_seen	Coarse provenance	-0.194624244594054	Pair
+DOI:10.1073/pnas.0504952102	strict_double_cold	Coarse provenance	-0.0188140412685623	Double
+DOI:10.1074/jbc.m110.181594	strict_double_cold	Coarse provenance	0.230303189579357	Double
+DOI:10.1074/jbc.m112.442335	protein_identity_cold	Coarse provenance	-0.230223361745263	Protein
+DOI:10.1074/jbc.m113.493569	strict_double_cold	Coarse provenance	-0.03142586348171	Double
+DOI:10.1074/jbc.m113.514646	pair_cold_entities_seen	Coarse provenance	-0.00026847048945286	Pair
+DOI:10.1074/jbc.m113.528695	strict_double_cold	Coarse provenance	0.0450864579381778	Double
+DOI:10.1074/jbc.m113.534859	strict_double_cold	Coarse provenance	-0.107721572456234	Double
+DOI:10.1074/jbc.m114.553248	protein_identity_cold	Coarse provenance	0.150064373202589	Protein
+DOI:10.1074/jbc.m114.559062	protein_identity_cold	Coarse provenance	0.0148849692255975	Protein
+DOI:10.1074/jbc.m114.559062	strict_double_cold	Coarse provenance	-0.192706216824955	Double
+DOI:10.1074/jbc.m114.569707	strict_double_cold	Coarse provenance	-0.217457495754714	Double
+ROW:60082	scaffold_cold	Coarse provenance	0.0446964254715381	Scaffold
+ROW:60084	scaffold_cold	Coarse provenance	0.0458966381252098	Scaffold
+DOI:10.1002/cbic.201000413	strict_double_cold	Coarse provenance	-0.0798848429922351	Double
+DOI:10.1002/cbic.201300613	strict_double_cold	Coarse provenance	0.0554282510743481	Double
+DOI:10.1002/cbic.201402579	scaffold_cold	Coarse provenance	0.118259952556222	Scaffold
+DOI:10.1002/cbic.201402579	pair_cold_entities_seen	Coarse provenance	-0.158741054720501	Pair
+DOI:10.1002/cbic.201600697	scaffold_cold	Coarse provenance	0.0245083708867582	Scaffold
+DOI:10.1016/j.bmc.2006.07.028	protein_identity_cold	Coarse provenance	0.215197339814244	Protein
+DOI:10.1016/j.bmc.2007.02.010	strict_double_cold	Coarse provenance	0.19503715104211	Double
+DOI:10.1016/j.chembiol.2007.10.011	strict_double_cold	Coarse provenance	0.035881102355337	Double
+DOI:10.1016/j.chembiol.2007.10.011	protein_identity_cold	Coarse provenance	-0.259832075622277	Protein
+DOI:10.1016/s1074-5521(98)90168-5	protein_identity_cold	Coarse provenance	-0.00410714710136443	Protein
+DOI:10.1021/acs.biochem.5b01325	protein_identity_cold	Coarse provenance	0.16884427991672	Protein
+DOI:10.1021/acschembio.5b00370	scaffold_cold	Coarse provenance	0.170331002869581	Scaffold
+DOI:10.1021/bi500561h	protein_identity_cold	Coarse provenance	-0.0335084342538863	Protein
+DOI:10.1021/bi500561h	pair_cold_entities_seen	Coarse provenance	0.119702661086975	Pair
+DOI:10.1021/cb200508b	pair_cold_entities_seen	Coarse provenance	-0.162211571852065	Pair
+DOI:10.1021/jm701266y	strict_double_cold	Coarse provenance	0.321067682632893	Double
+DOI:10.1021/jm701266y	protein_identity_cold	Coarse provenance	0.271333702930767	Protein
+DOI:10.1021/jm800797n	scaffold_cold	Coarse provenance	0.112272860267439	Scaffold
+DOI:10.1021/jm800797n	pair_cold_entities_seen	Coarse provenance	0.0321364367563773	Pair
+DOI:10.1021/jm801643b	protein_identity_cold	Coarse provenance	-0.0584930736382023	Protein
+DOI:10.1021/jm801643b	strict_double_cold	Coarse provenance	0.0277757541967554	Double
+DOI:10.1021/jm9002928	protein_identity_cold	Coarse provenance	-0.309394514741637	Protein
+DOI:10.1021/jm9002928	strict_double_cold	Coarse provenance	-0.0950661454217193	Double
+DOI:10.1038/nchembio.162	protein_identity_cold	Coarse provenance	-0.286574689965985	Protein
+DOI:10.1038/nchembio.2304	strict_double_cold	Coarse provenance	0.0457129132910135	Double
+DOI:10.1074/jbc.m110.164293	scaffold_cold	Coarse provenance	-0.360234742601018	Scaffold
+DOI:10.1074/jbc.m110.164293	pair_cold_entities_seen	Coarse provenance	0.265232734684014	Pair
+DOI:10.1074/jbc.m114.571216	strict_double_cold	Coarse provenance	-0.426751333203796	Double
+DOI:10.1111/cbdd.12161	protein_identity_cold	Coarse provenance	-0.066544467187829	Protein
+DOI:10.1016/j.bioorg.2017.02.006	pair_cold_entities_seen	Coarse provenance	-0.0313652479797493	Pair
+DOI:10.1016/j.chembiol.2006.06.007	scaffold_cold	Coarse provenance	0.143004946163886	Scaffold
+DOI:10.1021/acschembio.6b00709	protein_identity_cold	Coarse provenance	0.112723772163091	Protein
+DOI:10.1021/acschembio.6b00709	strict_double_cold	Coarse provenance	0.000121602788541651	Double
+DOI:10.1021/cb400075f	strict_double_cold	Coarse provenance	0.1901136533187	Double
+DOI:10.1021/cb500820b	protein_identity_cold	Coarse provenance	-0.0845807699180063	Protein
+DOI:10.1021/cb500820b	strict_double_cold	Coarse provenance	-0.0758337647178253	Double
+DOI:10.1021/jm030120s	scaffold_cold	Coarse provenance	-0.110912302283733	Scaffold
+DOI:10.1021/jm049137g	strict_double_cold	Coarse provenance	1.11022302462516e-16	Double
+DOI:10.1021/jm061465o	strict_double_cold	Coarse provenance	-0.417336340369481	Double
+DOI:10.1021/jm070332f	strict_double_cold	Coarse provenance	-0.417336340369481	Double
+DOI:10.1038/nchembio.162	strict_double_cold	Coarse provenance	-0.435540711767413	Double
+DOI:10.1073/pnas.0504952102	protein_identity_cold	Coarse provenance	-0.40616847447762	Protein
+DOI:10.1021/bi000930v	protein_identity_cold	Coarse provenance	0.0865283613893109	Protein
+DOI:10.1021/bi000930v	strict_double_cold	Coarse provenance	-0.197954481832375	Double
+DOI:10.1021/ja011034p	scaffold_cold	Coarse provenance	-0.413353485145587	Scaffold
+DOI:10.1074/jbc.m113.505503	protein_identity_cold	Coarse provenance	0.0489467067281646	Protein
+DOI:10.1074/jbc.m114.559062	scaffold_cold	Coarse provenance	-0.540996317201953	Scaffold
+DOI:10.1002/cbic.200500089	strict_double_cold	Joint permutation	-0.0219363031002369	Double
+DOI:10.1002/cbic.200800704	pair_cold_entities_seen	Joint permutation	0.22916662991336	Pair
+DOI:10.1002/cbic.200800704	scaffold_cold	Joint permutation	0.122142523296156	Scaffold
+DOI:10.1002/cbic.200900537	protein_identity_cold	Joint permutation	0.0180050748651088	Protein
+DOI:10.1002/cbic.200900537	strict_double_cold	Joint permutation	0.0124803896528345	Double
+DOI:10.1002/cbic.200900721	strict_double_cold	Joint permutation	0.00838636399188435	Double
+DOI:10.1002/cbic.201000413	scaffold_cold	Joint permutation	0.0959087216742868	Scaffold
+DOI:10.1002/cbic.201200521	protein_identity_cold	Joint permutation	0.042112436765118	Protein
+DOI:10.1002/cbic.201200524	strict_double_cold	Joint permutation	0.0261978591051559	Double
+DOI:10.1002/cbic.201300613	scaffold_cold	Joint permutation	-0.16300323873955	Scaffold
+DOI:10.1002/cbic.201402512	strict_double_cold	Joint permutation	0.0684626303111278	Double
+DOI:10.1002/cbic.201402579	strict_double_cold	Joint permutation	0.0430703033829265	Double
+DOI:10.1002/cbic.201402579	protein_identity_cold	Joint permutation	0.0196523920473473	Protein
+DOI:10.1002/cbic.201402673	strict_double_cold	Joint permutation	-0.0103016672077215	Double
+DOI:10.1002/cbic.201600673	strict_double_cold	Joint permutation	0.0296672385546137	Double
+DOI:10.1002/cbic.201600697	strict_double_cold	Joint permutation	0.113581963379939	Double
+DOI:10.1002/pro.5560071201	scaffold_cold	Joint permutation	-0.131997975822493	Scaffold
+DOI:10.1006/jmbi.2000.4032	strict_double_cold	Joint permutation	-0.0123976354470034	Double
+DOI:10.1016/j.bioorg.2006.11.002	strict_double_cold	Joint permutation	-0.102474155974706	Double
+DOI:10.1016/j.bioorg.2007.03.001	scaffold_cold	Joint permutation	-0.024335431226268	Scaffold
+DOI:10.1016/j.bioorg.2017.02.006	scaffold_cold	Joint permutation	0.0302718385779522	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	scaffold_cold	Joint permutation	0.056636544045173	Scaffold
+DOI:10.1016/j.bmc.2005.09.050	strict_double_cold	Joint permutation	0.0234563227105435	Double
+DOI:10.1016/j.bmc.2006.07.028	strict_double_cold	Joint permutation	0.0431631548653094	Double
+DOI:10.1016/j.bmc.2007.01.044	strict_double_cold	Joint permutation	0.0149104839996589	Double
+DOI:10.1016/j.bmc.2007.01.044	protein_identity_cold	Joint permutation	0.0823974024085041	Protein
+DOI:10.1016/j.bmc.2007.02.010	scaffold_cold	Joint permutation	-0.0276916307317461	Scaffold
+DOI:10.1016/j.bmcl.2004.11.010	scaffold_cold	Joint permutation	0.0330886199642571	Scaffold
+DOI:10.1016/j.bmcl.2008.06.070	protein_identity_cold	Joint permutation	-0.00264743997046786	Protein
+DOI:10.1016/j.bmcl.2008.06.070	strict_double_cold	Joint permutation	0.0180030193448653	Double
+DOI:10.1016/j.ccr.2006.12.017	strict_double_cold	Joint permutation	-0.0449137760835206	Double
+DOI:10.1016/j.chembiol.2004.11.007	strict_double_cold	Joint permutation	-0.0340709313438801	Double
+DOI:10.1016/j.chembiol.2006.06.007	strict_double_cold	Joint permutation	-0.0653875511071331	Double
+DOI:10.1016/j.chembiol.2007.10.011	scaffold_cold	Joint permutation	0.0228329618379046	Scaffold
+DOI:10.1016/j.chembiol.2007.10.011	pair_cold_entities_seen	Joint permutation	0.00656555891753134	Pair
+DOI:10.1016/j.chembiol.2007.12.013	protein_identity_cold	Joint permutation	-0.0163766570635877	Protein
+DOI:10.1016/j.chembiol.2007.12.013	strict_double_cold	Joint permutation	-0.0104341132225037	Double
+DOI:10.1016/j.chembiol.2010.01.008	scaffold_cold	Joint permutation	0.0533260114723245	Scaffold
+DOI:10.1016/j.chembiol.2010.01.008	strict_double_cold	Joint permutation	0.0148336761772091	Double
+DOI:10.1016/j.chembiol.2010.02.007	scaffold_cold	Joint permutation	0.0505080348673639	Scaffold
+DOI:10.1016/j.chembiol.2010.02.007	strict_double_cold	Joint permutation	-0.0145549827477192	Double
+DOI:10.1016/j.chembiol.2011.02.011	strict_double_cold	Joint permutation	-0.02693734489834	Double
+DOI:10.1016/j.chembiol.2011.05.010	strict_double_cold	Joint permutation	0.00357962651915062	Double
+DOI:10.1016/j.chembiol.2011.05.010	scaffold_cold	Joint permutation	0.155388594875217	Scaffold
+DOI:10.1016/j.chembiol.2016.06.017	protein_identity_cold	Joint permutation	-0.0682520826951107	Protein
+DOI:10.1016/j.chembiol.2016.06.017	strict_double_cold	Joint permutation	-0.0537697394361978	Double
+DOI:10.1016/j.chembiol.2016.10.008	strict_double_cold	Joint permutation	0.0836658741355737	Double
+DOI:10.1016/j.chembiol.2016.12.011	strict_double_cold	Joint permutation	-0.0725390565237152	Double
+DOI:10.1016/j.chembiol.2017.01.006	strict_double_cold	Joint permutation	-0.00515963038165498	Double
+DOI:10.1016/s1074-5521(02)00125-4	strict_double_cold	Joint permutation	-0.0758046005470329	Double
+DOI:10.1016/s1074-5521(02)00125-4	protein_identity_cold	Joint permutation	0.102938947755172	Protein
+DOI:10.1016/s1074-5521(97)90194-0	scaffold_cold	Joint permutation	-0.00463369878579893	Scaffold
+DOI:10.1016/s1074-5521(98)90083-7	protein_identity_cold	Joint permutation	0.146444891993718	Protein
+DOI:10.1016/s1074-5521(98)90083-7	strict_double_cold	Joint permutation	0.0547742054353786	Double
+DOI:10.1016/s1074-5521(98)90168-5	strict_double_cold	Joint permutation	-0.0444144414564031	Double
+DOI:10.1016/s1097-2765(05)00089-4	strict_double_cold	Joint permutation	0.00223824364232184	Double
+DOI:10.1016/s1097-2765(05)00089-4	protein_identity_cold	Joint permutation	0.124409619378059	Protein
+DOI:10.1021/acs.biochem.5b00431	strict_double_cold	Joint permutation	0.0604207979327173	Double
+DOI:10.1021/acs.biochem.5b00431	protein_identity_cold	Joint permutation	0.245829994763671	Protein
+DOI:10.1021/acs.biochem.5b01325	strict_double_cold	Joint permutation	-0.114943871878598	Double
+DOI:10.1021/acs.biochem.6b00638	strict_double_cold	Joint permutation	0.0434412918003983	Double
+DOI:10.1021/acs.biochem.6b00954	strict_double_cold	Joint permutation	-0.0804850549316074	Double
+DOI:10.1021/acs.biochem.6b01019	strict_double_cold	Joint permutation	-0.0513172113091098	Double
+DOI:10.1021/acs.biochem.6b01019	protein_identity_cold	Joint permutation	-0.052285438406776	Protein
+DOI:10.1021/acs.biochem.6b01152	strict_double_cold	Joint permutation	0.0351021032886221	Double
+DOI:10.1021/acs.biochem.6b01267	strict_double_cold	Joint permutation	-0.116699512700479	Double
+DOI:10.1021/acs.biochem.6b01308	protein_identity_cold	Joint permutation	0.0481672570943362	Protein
+DOI:10.1021/acs.biochem.7b00041	protein_identity_cold	Joint permutation	-0.098541025799457	Protein
+DOI:10.1021/acs.biochem.7b00041	strict_double_cold	Joint permutation	-0.0231840727755258	Double
+DOI:10.1021/acs.biochem.7b00078	protein_identity_cold	Joint permutation	-0.0292988887639486	Protein
+DOI:10.1021/acs.jmedchem.1c01307	strict_double_cold	Joint permutation	-0.0324419938398079	Double
+DOI:10.1021/acschembio.5b00291	strict_double_cold	Joint permutation	-0.00379045710771275	Double
+DOI:10.1021/acschembio.5b00370	strict_double_cold	Joint permutation	0.0254129471341584	Double
+DOI:10.1021/acschembio.5b00398	strict_double_cold	Joint permutation	-0.056976801150965	Double
+DOI:10.1021/acschembio.5b00839	strict_double_cold	Joint permutation	0.0416153308687766	Double
+DOI:10.1021/acschembio.5b01018	pair_cold_entities_seen	Joint permutation	0.00216195600175928	Pair
+DOI:10.1021/acschembio.5b01018	scaffold_cold	Joint permutation	-0.0161338663435042	Scaffold
+DOI:10.1021/acschembio.6b00156	strict_double_cold	Joint permutation	-0.057210679821866	Double
+DOI:10.1021/acschembio.6b00555	protein_identity_cold	Joint permutation	-0.0768958269361315	Protein
+DOI:10.1021/acschembio.6b00646	strict_double_cold	Joint permutation	-0.021138849238312	Double
+DOI:10.1021/acschembio.6b00646	protein_identity_cold	Joint permutation	0.0107489636234112	Protein
+DOI:10.1021/acschembio.6b00709	pair_cold_entities_seen	Joint permutation	0.0175176254625636	Pair
+DOI:10.1021/acschembio.6b00709	scaffold_cold	Joint permutation	-0.0103037137367033	Scaffold
+DOI:10.1021/acschembio.6b00720	strict_double_cold	Joint permutation	-0.0164967151691786	Double
+DOI:10.1021/acschembio.6b00747	scaffold_cold	Joint permutation	0.0234971776298315	Scaffold
+DOI:10.1021/acschembio.6b00962	scaffold_cold	Joint permutation	0.0359279307191438	Scaffold
+DOI:10.1021/acschembio.6b00962	strict_double_cold	Joint permutation	0.0027882068556307	Double
+DOI:10.1021/acschembio.7b00062	strict_double_cold	Joint permutation	0.118673992609675	Double
+DOI:10.1021/acschembio.7b00062	protein_identity_cold	Joint permutation	0.204491182911351	Protein
+DOI:10.1021/acschembio.7b00091	strict_double_cold	Joint permutation	-0.0291490252087754	Double
+DOI:10.1021/bi000930v	pair_cold_entities_seen	Joint permutation	-0.0927397805201268	Pair
+DOI:10.1021/bi000930v	scaffold_cold	Joint permutation	0.0356981388533635	Scaffold
+DOI:10.1021/bi00405a032	strict_double_cold	Joint permutation	-0.0085763984644581	Double
+DOI:10.1021/bi030031h	protein_identity_cold	Joint permutation	-0.0811581708008241	Protein
+DOI:10.1021/bi047692e	scaffold_cold	Joint permutation	-0.0370822957980965	Scaffold
+DOI:10.1021/bi1005283	strict_double_cold	Joint permutation	-0.0725284987507044	Double
+DOI:10.1021/bi1006354	strict_double_cold	Joint permutation	0.0438459779703037	Double
+DOI:10.1021/bi1006354	protein_identity_cold	Joint permutation	-0.00841175271191775	Protein
+DOI:10.1021/bi1017182	strict_double_cold	Joint permutation	0.123039492302121	Double
+DOI:10.1021/bi300514j	strict_double_cold	Joint permutation	-0.118879643832831	Double
+DOI:10.1021/bi400740x	protein_identity_cold	Joint permutation	-0.0356822815758252	Protein
+DOI:10.1021/bi5004519	strict_double_cold	Joint permutation	0.0490708168751281	Double
+DOI:10.1021/bi500561h	strict_double_cold	Joint permutation	0.00196196941550145	Double
+DOI:10.1021/bi500561h	scaffold_cold	Joint permutation	0.0787059353763618	Scaffold
+DOI:10.1021/bi500887n	strict_double_cold	Joint permutation	-0.00377246981131928	Double
+DOI:10.1021/bi7018282	strict_double_cold	Joint permutation	-0.106298573901037	Double
+DOI:10.1021/bi9005896	strict_double_cold	Joint permutation	-0.015040367013052	Double
+DOI:10.1021/cb200508b	strict_double_cold	Joint permutation	-0.00856439978555217	Double
+DOI:10.1021/cb300671s	scaffold_cold	Joint permutation	0.0527174837289418	Scaffold
+DOI:10.1021/cb400075f	scaffold_cold	Joint permutation	0.0538837615722162	Scaffold
+DOI:10.1021/cb4002552	strict_double_cold	Joint permutation	0.00131749736189886	Double
+DOI:10.1021/cb400371r	protein_identity_cold	Joint permutation	0.137045629363697	Protein
+DOI:10.1021/cb400371r	strict_double_cold	Joint permutation	-0.0459391753168282	Double
+DOI:10.1021/cb400407c	scaffold_cold	Joint permutation	0.0653232559677596	Scaffold
+DOI:10.1021/cb500355c	strict_double_cold	Joint permutation	-0.00221344002932851	Double
+DOI:10.1021/cb5005178	strict_double_cold	Joint permutation	0.0154544910548481	Double
+DOI:10.1021/cb5005178	protein_identity_cold	Joint permutation	0.0616106255039986	Protein
+DOI:10.1021/cb500820b	pair_cold_entities_seen	Joint permutation	0.0113036628166771	Pair
+DOI:10.1021/cb500820b	scaffold_cold	Joint permutation	-0.141911922679688	Scaffold
+DOI:10.1021/cb500917m	strict_double_cold	Joint permutation	0.0207839645881388	Double
+DOI:10.1021/cb600311v	strict_double_cold	Joint permutation	0.00999340298637144	Double
+DOI:10.1021/cb700025j	scaffold_cold	Joint permutation	0.0738142619637785	Scaffold
+DOI:10.1021/cb700166z	strict_double_cold	Joint permutation	0.132126069015162	Double
+DOI:10.1021/cb800162x	scaffold_cold	Joint permutation	-0.0191459762930747	Scaffold
+DOI:10.1021/cc0501561	strict_double_cold	Joint permutation	0.00792814613482312	Double
+DOI:10.1021/ja011034p	pair_cold_entities_seen	Joint permutation	-0.0197042606894671	Pair
+DOI:10.1021/ja057257n	pair_cold_entities_seen	Joint permutation	0.0582252565269518	Pair
+DOI:10.1021/ja057257n	scaffold_cold	Joint permutation	0.068826524341953	Scaffold
+DOI:10.1021/jm030120s	pair_cold_entities_seen	Joint permutation	-0.0677042125327465	Pair
+DOI:10.1021/jm030121k	pair_cold_entities_seen	Joint permutation	0.21212890365366	Pair
+DOI:10.1021/jm030121k	scaffold_cold	Joint permutation	0.149556397017483	Scaffold
+DOI:10.1021/jm040037k	scaffold_cold	Joint permutation	0.000561464879185862	Scaffold
+DOI:10.1021/jm049137g	scaffold_cold	Joint permutation	-0.0204877507743096	Scaffold
+DOI:10.1021/jm050921q	protein_identity_cold	Joint permutation	-0.00251745978335272	Protein
+DOI:10.1021/jm050921q	strict_double_cold	Joint permutation	0.0169875286837527	Double
+DOI:10.1021/jm061465o	protein_identity_cold	Joint permutation	-0.036296609180945	Protein
+DOI:10.1021/jm070332f	protein_identity_cold	Joint permutation	4.16680472777875e-05	Protein
+DOI:10.1021/jm0704550	strict_double_cold	Joint permutation	-0.0395704288547161	Double
+DOI:10.1021/jm070487n	strict_double_cold	Joint permutation	0.0620774623276935	Double
+DOI:10.1021/jm101625x	protein_identity_cold	Joint permutation	0.0430127415903958	Protein
+DOI:10.1021/jm101625x	strict_double_cold	Joint permutation	0.0661506870251095	Double
+DOI:10.1021/jm201734r	strict_double_cold	Joint permutation	-0.0773033078128789	Double
+DOI:10.1021/jm201734r	protein_identity_cold	Joint permutation	0.016458542537769	Protein
+DOI:10.1021/jm701266y	scaffold_cold	Joint permutation	0.0152243781731035	Scaffold
+DOI:10.1021/jm701266y	pair_cold_entities_seen	Joint permutation	0.0374817039220436	Pair
+DOI:10.1021/jm800571m	strict_double_cold	Joint permutation	0.0664074543196348	Double
+DOI:10.1021/jm800797n	strict_double_cold	Joint permutation	0.0295891011001093	Double
+DOI:10.1021/jm800797n	protein_identity_cold	Joint permutation	0.0108318105499893	Protein
+DOI:10.1021/jm8011849	strict_double_cold	Joint permutation	0.0714304886171396	Double
+DOI:10.1021/jm801475n	strict_double_cold	Joint permutation	0.0608114070084211	Double
+DOI:10.1021/jm801475n	protein_identity_cold	Joint permutation	-0.100762396563914	Protein
+DOI:10.1021/jm801627a	protein_identity_cold	Joint permutation	0.017146897740998	Protein
+DOI:10.1021/jm801627a	strict_double_cold	Joint permutation	-0.0403283579758357	Double
+DOI:10.1021/jm801643b	scaffold_cold	Joint permutation	0.0632524254429156	Scaffold
+DOI:10.1021/jm900128w	strict_double_cold	Joint permutation	-0.0361148079494997	Double
+DOI:10.1021/jm9002928	pair_cold_entities_seen	Joint permutation	-0.0580189466630728	Pair
+DOI:10.1021/jm9002928	scaffold_cold	Joint permutation	-0.00420878134126334	Scaffold
+DOI:10.1021/jm900472s	scaffold_cold	Joint permutation	-0.0129520126703494	Scaffold
+DOI:10.1038/nchembio.1246	scaffold_cold	Joint permutation	0.0168049907823515	Scaffold
+DOI:10.1038/nchembio.162	pair_cold_entities_seen	Joint permutation	-0.0242818414941559	Pair
+DOI:10.1038/nchembio.162	scaffold_cold	Joint permutation	0.0280790715207854	Scaffold
+DOI:10.1038/nchembio.1629	scaffold_cold	Joint permutation	0.0062387599165407	Scaffold
+DOI:10.1038/nchembio.2134	strict_double_cold	Joint permutation	0.0104370888644381	Double
+DOI:10.1038/nchembio.2208	strict_double_cold	Joint permutation	-0.0846059034233201	Double
+DOI:10.1038/nchembio.2209	strict_double_cold	Joint permutation	-0.0656174689990086	Double
+DOI:10.1038/nchembio.2304	scaffold_cold	Joint permutation	-0.141101588462152	Scaffold
+DOI:10.1038/nchembio.2306	scaffold_cold	Joint permutation	-0.0768105884597146	Scaffold
+DOI:10.1038/nchembio.481	strict_double_cold	Joint permutation	-0.252219810211036	Double
+DOI:10.1038/nsb770	scaffold_cold	Joint permutation	0.0772783228399268	Scaffold
+DOI:10.1038/sj.bjp.0706048	strict_double_cold	Joint permutation	0.026294177950648	Double
+DOI:10.1038/sj.bjp.0706048	protein_identity_cold	Joint permutation	-0.00379971182209655	Protein
+DOI:10.1073/pnas.0504952102	scaffold_cold	Joint permutation	-0.000494523567101403	Scaffold
+DOI:10.1073/pnas.0504952102	pair_cold_entities_seen	Joint permutation	-0.017480862514182	Pair
+DOI:10.1073/pnas.0709662105	strict_double_cold	Joint permutation	-0.0862087309808899	Double
+DOI:10.1074/jbc.m109.017632	strict_double_cold	Joint permutation	-0.115210409844598	Double
+DOI:10.1074/jbc.m109.017632	protein_identity_cold	Joint permutation	-0.00399515292012648	Protein
+DOI:10.1074/jbc.m109.067967	strict_double_cold	Joint permutation	0.0408267357788006	Double
+DOI:10.1074/jbc.m110.164293	strict_double_cold	Joint permutation	-0.0892637104362859	Double
+DOI:10.1074/jbc.m110.164293	protein_identity_cold	Joint permutation	0.013829280761449	Protein
+DOI:10.1074/jbc.m110.181594	protein_identity_cold	Joint permutation	-0.0518441940922427	Protein
+DOI:10.1074/jbc.m111.290619	protein_identity_cold	Joint permutation	0.00913028260555771	Protein
+DOI:10.1074/jbc.m112.414516	strict_double_cold	Joint permutation	0.0451909517592976	Double
+DOI:10.1074/jbc.m112.442335	strict_double_cold	Joint permutation	-0.127934070910843	Double
+DOI:10.1074/jbc.m113.479303	protein_identity_cold	Joint permutation	0.148554326418875	Protein
+DOI:10.1074/jbc.m113.487777	strict_double_cold	Joint permutation	0.0805431130772188	Double
+DOI:10.1074/jbc.m113.489153	strict_double_cold	Joint permutation	0.107960216135257	Double
+DOI:10.1074/jbc.m113.490706	strict_double_cold	Joint permutation	0.0671863301310439	Double
+DOI:10.1074/jbc.m113.490706	protein_identity_cold	Joint permutation	-0.0194636379899413	Protein
+DOI:10.1074/jbc.m113.493569	scaffold_cold	Joint permutation	-0.0349912331782945	Scaffold
+DOI:10.1074/jbc.m113.493767	strict_double_cold	Joint permutation	0.0466227853293678	Double
+DOI:10.1074/jbc.m113.497990	scaffold_cold	Joint permutation	-0.0214756474754961	Scaffold
+DOI:10.1074/jbc.m113.497990	strict_double_cold	Joint permutation	0.0379402555976194	Double
+DOI:10.1074/jbc.m113.501353	strict_double_cold	Joint permutation	0.00976636150417422	Double
+DOI:10.1074/jbc.m113.501353	protein_identity_cold	Joint permutation	-0.0740888182165382	Protein
+DOI:10.1074/jbc.m113.503714	strict_double_cold	Joint permutation	-0.0827231857893381	Double
+DOI:10.1074/jbc.m113.505503	pair_cold_entities_seen	Joint permutation	0.0158488634877416	Pair
+DOI:10.1074/jbc.m113.507756	protein_identity_cold	Joint permutation	0.0850875658191013	Protein
+DOI:10.1074/jbc.m113.507756	strict_double_cold	Joint permutation	-0.0542857358906704	Double
+DOI:10.1074/jbc.m113.510743	strict_double_cold	Joint permutation	0.210964874648198	Double
+DOI:10.1074/jbc.m113.514646	strict_double_cold	Joint permutation	-0.092910300550697	Double
+DOI:10.1074/jbc.m113.519421	strict_double_cold	Joint permutation	0.0749581868710976	Double
+DOI:10.1074/jbc.m113.521708	strict_double_cold	Joint permutation	-0.00160195316855294	Double
+DOI:10.1074/jbc.m113.523183	strict_double_cold	Joint permutation	0.0684736168426277	Double
+DOI:10.1074/jbc.m113.528695	scaffold_cold	Joint permutation	0.121637958506369	Scaffold
+DOI:10.1074/jbc.m113.533885	strict_double_cold	Joint permutation	-0.0394009613761766	Double
+DOI:10.1074/jbc.m113.534859	protein_identity_cold	Joint permutation	-0.14505244884032	Protein
+DOI:10.1074/jbc.m114.553248	strict_double_cold	Joint permutation	0.054355719383977	Double
+DOI:10.1074/jbc.m114.555052	strict_double_cold	Joint permutation	-0.0699229205666789	Double
+DOI:10.1074/jbc.m114.559062	pair_cold_entities_seen	Joint permutation	0.0284320809383835	Pair
+DOI:10.1074/jbc.m114.564278	strict_double_cold	Joint permutation	0.00363427333646609	Double
+DOI:10.1074/jbc.m114.564278	protein_identity_cold	Joint permutation	0.0336835252505655	Protein
+DOI:10.1074/jbc.m114.566729	strict_double_cold	Joint permutation	-0.033387518783953	Double
+DOI:10.1074/jbc.m114.569707	scaffold_cold	Joint permutation	0.0753018795583464	Scaffold
+DOI:10.1074/jbc.m114.571216	protein_identity_cold	Joint permutation	0.0255237776212921	Protein
+DOI:10.1074/jbc.m114.571737	strict_double_cold	Joint permutation	-0.013979055441991	Double
+DOI:10.1074/jbc.m702316200	strict_double_cold	Joint permutation	0.0277452370140391	Double
+DOI:10.1074/jbc.m707463200	strict_double_cold	Joint permutation	-0.0161018176066383	Double
+DOI:10.1074/jbc.m707463200	scaffold_cold	Joint permutation	-0.770899303270141	Scaffold
+DOI:10.1111/cbdd.12050	protein_identity_cold	Joint permutation	0.0215529776695762	Protein
+DOI:10.1111/cbdd.12050	strict_double_cold	Joint permutation	0.00851858046547145	Double
+DOI:10.1111/cbdd.12161	strict_double_cold	Joint permutation	-0.00870884205525634	Double
+DOI:10.1111/cbdd.12728	strict_double_cold	Joint permutation	0.0475607961405016	Double
+DOI:10.1111/cbdd.12801	strict_double_cold	Joint permutation	0.0401650202428271	Double
+DOI:10.1111/j.1747-0285.2007.00535.x	scaffold_cold	Joint permutation	-0.010087397401357	Scaffold
+DOI:10.1111/j.1747-0285.2008.00719.x	strict_double_cold	Joint permutation	0.0657014507451458	Double
+DOI:10.1111/j.1747-0285.2010.01010.x	strict_double_cold	Joint permutation	0.0522312290580453	Double
+DOI:10.1128/aac.00311-07	strict_double_cold	Joint permutation	0.0824160280467367	Double
+DOI:10.1128/aac.00311-07	protein_identity_cold	Joint permutation	-0.0178800920418608	Protein
+DOI:10.3109/14756366.2012.680063	strict_double_cold	Joint permutation	-0.112011902654775	Double
+DOI:10.3109/14756366.2012.757223	scaffold_cold	Joint permutation	-0.000379256764864958	Scaffold
+DOI:10.3109/14756366.2012.757223	pair_cold_entities_seen	Joint permutation	0.0227184723707152	Pair
+DOI:10.3109/14756366.2012.757223	strict_double_cold	Joint permutation	0.0197876299561644	Double
+DOI:10.3109/14756366.2012.757223	protein_identity_cold	Joint permutation	-0.0320415270123482	Protein
+PMID:2547766	protein_identity_cold	Joint permutation	0.0710832690474797	Protein
+PMID:3009454	strict_double_cold	Joint permutation	0.10700695504572	Double
+PMID:3549712	protein_identity_cold	Joint permutation	-0.0155602244460482	Protein
+PMID:3549712	strict_double_cold	Joint permutation	0.00501790019720032	Double
+ROW:60076	scaffold_cold	Joint permutation	0.0420686059672681	Scaffold
+ROW:60077	scaffold_cold	Joint permutation	0.0208518541869266	Scaffold
+ROW:60078	pair_cold_entities_seen	Joint permutation	-0.0023938001864023	Pair
+ROW:60079	pair_cold_entities_seen	Joint permutation	0.0999242606224374	Pair
+ROW:60080	pair_cold_entities_seen	Joint permutation	-0.0255552194664544	Pair
+ROW:60081	scaffold_cold	Joint permutation	-0.0159715000954826	Scaffold
+ROW:60082	pair_cold_entities_seen	Joint permutation	-0.0496720158124657	Pair
+ROW:60083	pair_cold_entities_seen	Joint permutation	0.0135125702737974	Pair
+ROW:60084	pair_cold_entities_seen	Joint permutation	-0.0678257202637727	Pair
+ROW:60086	pair_cold_entities_seen	Joint permutation	-0.000603954045633581	Pair
+ROW:60087	pair_cold_entities_seen	Joint permutation	0.0606024280794832	Pair
+DOI:10.1002/cbic.201200524	protein_identity_cold	Joint permutation	0.0812181822306905	Protein
+DOI:10.1002/cbic.201402512	scaffold_cold	Joint permutation	-0.0156403790191066	Scaffold
+DOI:10.1002/cbic.201600673	scaffold_cold	Joint permutation	0.0206503610412619	Scaffold
+DOI:10.1006/jmbi.2000.4032	protein_identity_cold	Joint permutation	-0.0153167365669173	Protein
+DOI:10.1016/j.bmcl.2004.11.010	strict_double_cold	Joint permutation	-0.0979076904790347	Double
+DOI:10.1021/acs.biochem.6b00954	scaffold_cold	Joint permutation	-0.0260113252049866	Scaffold
+DOI:10.1021/acschembio.5b01018	strict_double_cold	Joint permutation	0.0268625474231479	Double
+DOI:10.1021/bi00405a032	protein_identity_cold	Joint permutation	-0.152358379270308	Protein
+DOI:10.1021/bi5004519	protein_identity_cold	Joint permutation	0.14682797993327	Protein
+DOI:10.1021/cb200508b	scaffold_cold	Joint permutation	-0.0198076813492122	Scaffold
+DOI:10.1021/cb300671s	strict_double_cold	Joint permutation	-0.0108892508286151	Double
+DOI:10.1021/cb400407c	strict_double_cold	Joint permutation	-0.0444763680370488	Double
+DOI:10.1021/cc0501561	scaffold_cold	Joint permutation	-0.0179614796358936	Scaffold
+DOI:10.1021/jm040037k	strict_double_cold	Joint permutation	0.0134905445592424	Double
+DOI:10.1021/jm800571m	protein_identity_cold	Joint permutation	0.127127076700147	Protein
+DOI:10.1021/jm801643b	pair_cold_entities_seen	Joint permutation	0.00929438971611862	Pair
+DOI:10.1073/pnas.0504952102	strict_double_cold	Joint permutation	-0.0409213927653598	Double
+DOI:10.1074/jbc.m110.181594	strict_double_cold	Joint permutation	0.189107697432543	Double
+DOI:10.1074/jbc.m112.442335	protein_identity_cold	Joint permutation	-0.108943058001905	Protein
+DOI:10.1074/jbc.m113.493569	strict_double_cold	Joint permutation	-0.0574197874085005	Double
+DOI:10.1074/jbc.m113.514646	pair_cold_entities_seen	Joint permutation	0.0455865787672279	Pair
+DOI:10.1074/jbc.m113.528695	strict_double_cold	Joint permutation	0.0101018800980167	Double
+DOI:10.1074/jbc.m113.534859	strict_double_cold	Joint permutation	-0.029421953203842	Double
+DOI:10.1074/jbc.m114.553248	protein_identity_cold	Joint permutation	-0.0344607991257169	Protein
+DOI:10.1074/jbc.m114.559062	protein_identity_cold	Joint permutation	-0.0308246988702563	Protein
+DOI:10.1074/jbc.m114.559062	strict_double_cold	Joint permutation	-0.108884563902595	Double
+DOI:10.1074/jbc.m114.569707	strict_double_cold	Joint permutation	-0.104717568821829	Double
+ROW:60082	scaffold_cold	Joint permutation	-0.160492078129476	Scaffold
+ROW:60084	scaffold_cold	Joint permutation	0.0402478747365637	Scaffold
+DOI:10.1002/cbic.201000413	strict_double_cold	Joint permutation	-0.0219924208978757	Double
+DOI:10.1002/cbic.201300613	strict_double_cold	Joint permutation	-0.0120841232579857	Double
+DOI:10.1002/cbic.201402579	scaffold_cold	Joint permutation	-0.0376565385656954	Scaffold
+DOI:10.1002/cbic.201402579	pair_cold_entities_seen	Joint permutation	-0.318120763630547	Pair
+DOI:10.1002/cbic.201600697	scaffold_cold	Joint permutation	-0.0148067737577364	Scaffold
+DOI:10.1016/j.bmc.2006.07.028	protein_identity_cold	Joint permutation	0.182508700220478	Protein
+DOI:10.1016/j.bmc.2007.02.010	strict_double_cold	Joint permutation	-0.12648530261948	Double
+DOI:10.1016/j.chembiol.2007.10.011	strict_double_cold	Joint permutation	-0.0672324775289389	Double
+DOI:10.1016/j.chembiol.2007.10.011	protein_identity_cold	Joint permutation	-0.362367063561436	Protein
+DOI:10.1016/s1074-5521(98)90168-5	protein_identity_cold	Joint permutation	-0.0482255501661707	Protein
+DOI:10.1021/acs.biochem.5b01325	protein_identity_cold	Joint permutation	-0.0238314709925414	Protein
+DOI:10.1021/acschembio.5b00370	scaffold_cold	Joint permutation	0.0653736851884218	Scaffold
+DOI:10.1021/bi500561h	protein_identity_cold	Joint permutation	-0.0232116431972225	Protein
+DOI:10.1021/bi500561h	pair_cold_entities_seen	Joint permutation	0.0435085186243128	Pair
+DOI:10.1021/cb200508b	pair_cold_entities_seen	Joint permutation	-0.04496651023124	Pair
+DOI:10.1021/jm701266y	strict_double_cold	Joint permutation	0.181251350220379	Double
+DOI:10.1021/jm701266y	protein_identity_cold	Joint permutation	0.10519644408955	Protein
+DOI:10.1021/jm800797n	scaffold_cold	Joint permutation	0.00173334605205044	Scaffold
+DOI:10.1021/jm800797n	pair_cold_entities_seen	Joint permutation	0.00257233473859705	Pair
+DOI:10.1021/jm801643b	protein_identity_cold	Joint permutation	-0.103937998084447	Protein
+DOI:10.1021/jm801643b	strict_double_cold	Joint permutation	-0.0475375061840275	Double
+DOI:10.1021/jm9002928	protein_identity_cold	Joint permutation	0.0561793777829975	Protein
+DOI:10.1021/jm9002928	strict_double_cold	Joint permutation	0.0607306463015997	Double
+DOI:10.1038/nchembio.162	protein_identity_cold	Joint permutation	0.102255401366711	Protein
+DOI:10.1038/nchembio.2304	strict_double_cold	Joint permutation	-0.0330157631451649	Double
+DOI:10.1074/jbc.m110.164293	scaffold_cold	Joint permutation	-0.0478094091873742	Scaffold
+DOI:10.1074/jbc.m110.164293	pair_cold_entities_seen	Joint permutation	-0.0117711147933619	Pair
+DOI:10.1074/jbc.m114.571216	strict_double_cold	Joint permutation	-0.530215524596543	Double
+DOI:10.1111/cbdd.12161	protein_identity_cold	Joint permutation	0.00714413539701445	Protein
+DOI:10.1016/j.bioorg.2017.02.006	pair_cold_entities_seen	Joint permutation	-0.101831564454969	Pair
+DOI:10.1016/j.chembiol.2006.06.007	scaffold_cold	Joint permutation	0.0297750967705978	Scaffold
+DOI:10.1021/acschembio.6b00709	protein_identity_cold	Joint permutation	-0.0685255957320186	Protein
+DOI:10.1021/acschembio.6b00709	strict_double_cold	Joint permutation	0.0785082469573489	Double
+DOI:10.1021/cb400075f	strict_double_cold	Joint permutation	0.551702447275394	Double
+DOI:10.1021/cb500820b	protein_identity_cold	Joint permutation	0.0142643908193055	Protein
+DOI:10.1021/cb500820b	strict_double_cold	Joint permutation	0.0520614167027012	Double
+DOI:10.1021/jm030120s	scaffold_cold	Joint permutation	0.0634144712913243	Scaffold
+DOI:10.1021/jm049137g	strict_double_cold	Joint permutation	8.32667268468867e-17	Double
+DOI:10.1021/jm061465o	strict_double_cold	Joint permutation	-0.526817633484536	Double
+DOI:10.1021/jm070332f	strict_double_cold	Joint permutation	-0.526817633484536	Double
+DOI:10.1038/nchembio.162	strict_double_cold	Joint permutation	-0.079884554547121	Double
+DOI:10.1073/pnas.0504952102	protein_identity_cold	Joint permutation	-0.0351907016610714	Protein
+DOI:10.1021/bi000930v	protein_identity_cold	Joint permutation	0.12406293233814	Protein
+DOI:10.1021/bi000930v	strict_double_cold	Joint permutation	-0.215394198703356	Double
+DOI:10.1021/ja011034p	scaffold_cold	Joint permutation	0.0184211133844981	Scaffold
+DOI:10.1074/jbc.m113.505503	protein_identity_cold	Joint permutation	0.229858475795513	Protein
+DOI:10.1074/jbc.m114.559062	scaffold_cold	Joint permutation	0.00352434869507157	Scaffold

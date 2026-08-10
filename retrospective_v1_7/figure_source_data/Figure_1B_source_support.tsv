@@ -1,0 +1,11 @@
+source	measure	value	measure_label
+ChEMBL37	n	25436	Pairs
+BioLiP/MOAD	n	1382	Pairs
+ChEMBL37	unique_ligands	12027	Ligands
+BioLiP/MOAD	unique_ligands	844	Ligands
+ChEMBL37	unique_proteins	3284	Proteins
+BioLiP/MOAD	unique_proteins	926	Proteins
+ChEMBL37	document_components	2275	Document components
+BioLiP/MOAD	document_components	514	Document components
+ChEMBL37	effective_document_components	14.9640520960512	Effective documents
+BioLiP/MOAD	effective_document_components	198.248287315756	Effective documents

@@ -1,0 +1,21 @@
+repeat_id	cold_category	comparison	delta	repeat_label	category_label
+0	protein_identity_cold	Versus core	-0.0601168609282401	1	Protein
+0	strict_double_cold	Versus core	0.0326218577309438	1	Double
+1	protein_identity_cold	Versus core	0.0235867496706212	2	Protein
+1	strict_double_cold	Versus core	-0.00323714005415443	2	Double
+2	protein_identity_cold	Versus core	-0.0939765898962621	3	Protein
+2	strict_double_cold	Versus core	0.0138086779385918	3	Double
+3	protein_identity_cold	Versus core	-0.0294080092597742	4	Protein
+3	strict_double_cold	Versus core	-0.012601038724638	4	Double
+4	protein_identity_cold	Versus core	-0.0759737268888125	5	Protein
+4	strict_double_cold	Versus core	0.00638126128426197	5	Double
+0	protein_identity_cold	Versus joint permutation	0.0231580527228588	1	Protein
+0	strict_double_cold	Versus joint permutation	-0.00195726896845372	1	Double
+1	protein_identity_cold	Versus joint permutation	-0.0138188928802834	2	Protein
+1	strict_double_cold	Versus joint permutation	-0.00787431756798807	2	Double
+2	protein_identity_cold	Versus joint permutation	0.0207361934124231	3	Protein
+2	strict_double_cold	Versus joint permutation	-0.0131727343237951	3	Double
+3	protein_identity_cold	Versus joint permutation	-0.000232334567318304	4	Protein
+3	strict_double_cold	Versus joint permutation	-0.0225829655329406	4	Double
+4	protein_identity_cold	Versus joint permutation	0.0189767412491881	5	Protein
+4	strict_double_cold	Versus joint permutation	0.0323038584503297	5	Double

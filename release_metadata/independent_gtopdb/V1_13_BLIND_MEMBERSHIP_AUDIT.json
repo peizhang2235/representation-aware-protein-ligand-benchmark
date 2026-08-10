@@ -1,0 +1,32 @@
+{
+  "schema_version": "science_advances_v1_13_membership_audit_v1",
+  "status": "NO_ELIGIBLE_CONFIRMATORY_COHORT",
+  "metadata_rows": 826,
+  "sequence_resolution_fraction": 1.0,
+  "prior_pair_overlap_rows": 187,
+  "pair_disjoint_rows_before_pair_deduplication": 639,
+  "unique_pair_disjoint_rows_before_target_support": 615,
+  "targets_before_support_gate": 311,
+  "supported_targets": 6,
+  "final_rows": 92,
+  "final_targets": 6,
+  "final_unique_source_pmids": 57,
+  "largest_reference_fraction": 0.13043478260869565,
+  "structure_parse_fraction": 0.998212689901698,
+  "gates": {
+    "minimum_total_exact_pair_disjoint_rows": false,
+    "minimum_eligible_targets": false,
+    "minimum_rows_per_target": true,
+    "minimum_bemis_murcko_scaffolds_per_target": true,
+    "minimum_resolved_source_references": true,
+    "maximum_fraction_from_one_source_reference": true,
+    "minimum_structure_parse_fraction": true,
+    "minimum_sequence_resolution_fraction": true
+  },
+  "all_gates_pass": false,
+  "blind_table_sha256": "d503f08cf5a2111ec3d30aa18d2e3946f26e3a0f04303d93261e5ba80fae7571",
+  "manifest_sha256": "ef0ff9a663aa788cc231996c7a9b80c90a6a2ea8df7624f866a1f742e0c8c97c",
+  "support_table_sha256": "508d84ea6f73fe400d6944dda4768d0d58764932acd3a323960da5a9a252127e",
+  "outcome_fields_read": [],
+  "outcome_rows_read": 0
+}

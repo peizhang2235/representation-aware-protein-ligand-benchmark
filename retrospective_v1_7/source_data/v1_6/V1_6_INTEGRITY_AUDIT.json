@@ -1,0 +1,87 @@
+{
+  "environment": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "python": "3.12.4 | packaged by conda-forge | (main, Jun 17 2024, 10:23:07) [GCC 12.3.0]",
+    "scikit_learn": "1.4.2"
+  },
+  "external_outcomes_used_for_hgb_fit_or_tuning": false,
+  "external_rows": {
+    "BioLiP/MOAD": 1382,
+    "ChEMBL37": 25436
+  },
+  "fit_audit": {
+    "development_exact_rows": 2364,
+    "development_median_pkd": 6.174574367411814,
+    "development_rows": 2524,
+    "development_unique_molecules": 1370,
+    "development_unique_proteins": 461,
+    "external_outcomes_loaded_before_fit": false,
+    "feature_dimensions": {
+      "hgb_fusion_additive": 158,
+      "hgb_fusion_interaction": 287,
+      "hgb_molecule": 72,
+      "hgb_protein": 86
+    }
+  },
+  "generated_at": "2026-08-01T23:58:20.177620+00:00",
+  "model_ids": [
+    "development_median",
+    "hgb_molecule",
+    "hgb_protein",
+    "hgb_fusion_additive",
+    "hgb_fusion_interaction",
+    "phase15_esm2_aft_frozen"
+  ],
+  "overlap": {
+    "development_biolip_moad_standardized_pair_overlap": 0,
+    "development_chembl_exact_pair_sha256_overlap": 0
+  },
+  "phase15_predictions_recomputed": false,
+  "protocol_sha256": "cd366ef25da13e1ae942e0f448109da4511f28191de516511aff687959d3abf6",
+  "protocol_status": "locked_after_v1_5_unblinding_before_multimodel_execution",
+  "schema_version": "science_advances_v1_6_multimodel_integrity_v1",
+  "v1_5_status_modified": false,
+  "verified_inputs": {
+    "biolip_moad_nonlabel_pairs": {
+      "bytes": 3218512,
+      "path": "/share/data/AI/validation/science_advances_v1_5_restricted_representation_20260801/V1_5_RESTRICTED_PAIRS_WITH_COLD_CATEGORIES.tsv",
+      "sha256": "f239a04e7901260568a5582e7188669739d4860f5083f755ef80e999d6afda33"
+    },
+    "biolip_moad_open_outcome_ledger": {
+      "bytes": 728002,
+      "path": "/share/data/AI/validation/science_advances_v1_5_restricted_phase_b_20260801/evaluation/V1_5_PAIR_LEVEL_PERFORMANCE_LEDGER.tsv",
+      "sha256": "bcc932b9f0fb3a192aaef305fada8cdc098ebedd336571a2edb4fbee67316622"
+    },
+    "chembl37_frozen_esm2_predictions": {
+      "bytes": 15106498,
+      "path": "/share/data/AI/validation/target_aware_phase16_chembl37_blind_20260729/PHASE16_EXTERNAL_PREDICTIONS.csv",
+      "sha256": "65ef2bea404c568de254c6ebf320f5a494f2a3d61181d71b21fcd043313c2d65"
+    },
+    "chembl37_pairs": {
+      "bytes": 40019094,
+      "path": "/share/data/AI/validation/target_aware_phase16_chembl37_blind_20260729/CHEMBL37_BLIND_PAIRS_WITH_IDENTITY_CATEGORIES.csv",
+      "sha256": "df2d67ad3edbb62f711a4e0675424a05308282af982edb89628977fee2d0c143"
+    },
+    "development_bindingdb": {
+      "bytes": 3181490,
+      "path": "/share/data/AI/data/curated/bindingdb_snapshot_temporal_202401_202607/bindingdb_articles_202401_kd_qualifier_aware.csv",
+      "sha256": "78fa670bbb493206bfd60bb1de7ea347194f08614eea96b6003a8661ea7ce293"
+    },
+    "phase15_aft_model": {
+      "bytes": 1732442,
+      "path": "/share/data/AI/model_services/multimodal/candidates/target_aware_phase15_preregistered_v1/target_aware_phase15_aft.ubj",
+      "sha256": "fd01097c9682cb01bd75d5d95db8d6ae71f049bd659136009b1b99604adcc90b"
+    },
+    "phase15_components": {
+      "bytes": 802455,
+      "path": "/share/data/AI/model_services/multimodal/candidates/target_aware_phase15_preregistered_v1/target_aware_phase15_components.joblib",
+      "sha256": "df3955878753169ad47e4262445bf278d46b65ce56d8a0f097d10f12cb5cc79d"
+    },
+    "phase15_report": {
+      "bytes": 80661,
+      "path": "/share/data/AI/validation/target_aware_phase15_preregistered_20260729/TARGET_AWARE_PHASE15_PREREGISTERED_VALIDATION.json",
+      "sha256": "846d9528ce89af634b78f18e4ba92cfc228c5469e201e26e523999525f1b54e2"
+    }
+  }
+}

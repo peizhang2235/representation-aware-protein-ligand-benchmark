@@ -1,0 +1,6 @@
+stream	comparison	estimate	low	high	n	comparison_plot
+Assay context	Protein cold	0.0131885725062513	-0.00813448992771694	0.0358206734429918	71	Assay context: Protein cold
+Assay context	Double cold	-0.0107253012047221	-0.0279066531629184	0.00687804606909815	152	Assay context: Double cold
+Geometry	Scaffold cold	0.00602110850493862	-0.0152249595460368	0.027267176555914	1633	Geometry: Scaffold cold
+Geometry	Target cold	0.00353799923181973	-0.0344000411041286	0.041476039567768	1633	Geometry: Target cold
+Geometry	Double cold	0.000851989409985677	-0.0358554824270864	0.0375594612470578	701	Geometry: Double cold

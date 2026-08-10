@@ -1,0 +1,29 @@
+{
+  "analysis_complete_sha256": "2c7a75ccc3e1b457d8204b1d997a1f23ce15184368281fab27b19e989e754612",
+  "bootstrap_replicates": 2000,
+  "created_at": "2026-08-02T14:27:22.850129+00:00",
+  "minimum_valid_replicates": 1900,
+  "outputs": {
+    "V1_12_EXTENDED_SENSITIVITY_REPLICATES.npz": {
+      "bytes": 2505086,
+      "sha256": "55ee01e0fd6fe023fb9276a79c9dd77d2c429e857afe2578a6115bc25a6967dd"
+    },
+    "V1_12_RESAMPLING_UNIT_SENSITIVITY.tsv": {
+      "bytes": 8576,
+      "sha256": "8c67f4785cead652dbfca2fdf1fbb2ea06957f86ad970710927c36f55f038fa1"
+    },
+    "V1_12_SOURCE_ORIGIN_BOOTSTRAP_INTERVALS.tsv": {
+      "bytes": 29727,
+      "sha256": "8271f0f6dcf419e3019cdd61236f691d3eda87620975a96d557e9d0f48a02f51"
+    }
+  },
+  "primary_decision_unchanged": "heterogeneous_or_inconclusive",
+  "resampling_unit_rows": 48,
+  "schema_version": "science_advances_v1_12_extended_sensitivity_receipt_v1",
+  "sensitivity_code_sha256": "24f90513f7d33d6b8ca2ef47484872b99ce9b5e7d16f0745b6ce251e0e4b5077",
+  "source_origin_intervals": "ordinary component-bootstrap percentile intervals; descriptive sensitivity, not simultaneous primary inference",
+  "source_origin_resampling_warning": "Fewer than 10 source origins yields a fragile, discrete bootstrap and is labeled as such.",
+  "source_origin_rows": 128,
+  "source_origins_never_filtered_by_direction": true,
+  "status": "PRELOCKED_EXTENDED_SENSITIVITIES_COMPLETE"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "science_advances_v1_13_metadata_preflight_v1",
+  "status": "OUTCOME_FREE_METADATA_PREFLIGHT_COMPLETE",
+  "source_release": "GtoPdb 2026.2",
+  "raw_interaction_rows": 24599,
+  "endpoint_metadata_counts": {
+    "pIC50": 9706,
+    "pKi": 7116,
+    "pEC50": 2655,
+    "-": 2622,
+    "pKd": 2278,
+    "pKB": 147,
+    "pA2": 75
+  },
+  "pkd_exact_single_target_rows": 1912,
+  "small_molecule_rows_before_structure_parse": 1119,
+  "small_molecule_structure_rows": 1117,
+  "structure_parse_fraction": 0.998212689901698,
+  "prior_document_overlap_rows": 195,
+  "unresolved_reference_rows": 96,
+  "document_disjoint_metadata_rows": 826,
+  "unique_targets_before_sequence_and_pair_firewall": 313,
+  "unique_ligands_before_sequence_and_pair_firewall": 520,
+  "unique_uniprot_accessions_required": 375,
+  "unique_reference_clusters": 500,
+  "targets_with_at_least_8_rows_pre_sequence": 16,
+  "largest_reference_fraction_pre_sequence": 0.07021791767554479,
+  "prior_document_identifiers": {
+    "pmids": 2827,
+    "dois": 2911,
+    "source_increment_counts": {
+      "bindingdb_articles_202401_kd_qualifier_aware.csv": 437,
+      "bindingdb_articles_202607_new_exact_pairs.csv": 1,
+      "bindingdb_articles_2021plus_exact_pair_disjoint_temporal.csv": 0,
+      "CHEMBL37_EXACT_KD_BLIND_PAIRS.csv": 5141,
+      "V1_6_SOURCE_VERIFICATION_CANDIDATE_METADATA.tsv": 159
+    }
+  },
+  "columns_loaded_from_interactions": [
+    "Target",
+    "Target ID",
+    "Target Subunit IDs",
+    "Target UniProt ID",
+    "Target Species",
+    "Target Ligand ID",
+    "Ligand ID",
+    "Ligand",
+    "Ligand Type",
+    "Affinity Units",
+    "Original Affinity Relation",
+    "PubMed ID"
+  ],
+  "forbidden_value_columns_loaded": 0,
+  "row_level_affinity_values_read_by_script": 0,
+  "row_level_affinity_values_read_by_investigator": 0,
+  "metadata_table": "[LOCAL_PROJECT_ROOT]/MASTER_SYNTHESIS_20260730/science_advances_gtopdb_independent_v1_13_20260802/structures_frozen/V1_13_METADATA_ONLY_PREFLIGHT.tsv",
+  "metadata_table_sha256": "96b987576d41ac3a681d08f18e2fffc3a2d924df827bca23d911f879905a4746",
+  "required_uniprot_ids": "[LOCAL_PROJECT_ROOT]/MASTER_SYNTHESIS_20260730/science_advances_gtopdb_independent_v1_13_20260802/structures_frozen/V1_13_REQUIRED_UNIPROT_IDS.txt",
+  "required_uniprot_ids_sha256": "00aafa91a47eaf6ca536c84c91a8940688150f7e7a9994660179a2dddaa418c4"
+}

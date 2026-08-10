@@ -1,0 +1,127 @@
+{
+  "schema_version": "science_advances_v1_8_prospective_temporal_confirmation_blueprint_v1",
+  "locked_at": "2026-08-02T00:00:00+08:00",
+  "status": "design_blueprint_locked_before_eligible_future_outcome_access",
+  "results_available": false,
+  "purpose": "Prospectively determine whether positive source-wide affinity rank association reflects within-target ligand ordering or primarily between-context composition in a new temporal source.",
+  "source_precedence": {
+    "primary": "The first public ChEMBL release after ChEMBL37 whose source snapshot and extraction code can be frozen before outcome parsing.",
+    "fallback": "A BindingDB incremental snapshot containing only records first released after 2026-08-02, used only if the primary source is declared unavailable before any eligible outcome is inspected.",
+    "anti_switching_rule": "The selected source and all identifiers are hashed before pKd values are exposed; a source cannot be replaced because of observed model performance."
+  },
+  "eligibility": {
+    "endpoint": "Explicit exact Kd with recognized molar units and resolvable ligand and protein identity.",
+    "exclusions": [
+      "Ki, IC50, EC50, Ka, inequalities, ranges without an exact value, and ambiguous units",
+      "exact standardized ligand-protein pairs present in development or v1.5-v1.7 external ledgers",
+      "records whose primary source cannot be reconstructed under the locked review rules"
+    ],
+    "minimum_evidence_gate": {
+      "pairs": 10000,
+      "connected_document_components": 500,
+      "effective_document_components": 100,
+      "exact_proteins": 500,
+      "eligible_within_target_groups": 100,
+      "within_target_group_rule": "At least five unique ligands and at least three Bemis-Murcko scaffolds per exact protein."
+    },
+    "failure_rule": "If the minimum gate is not met, report insufficient prospective evidence and do not relax thresholds after outcomes are viewed."
+  },
+  "two_stage_lock": {
+    "stage_1_locked_now": "Source precedence, eligibility, estimands, dependence units, multiplicity, and decision matrix.",
+    "stage_2_required_before_outcomes": "Commit model code, software versions, training partitions, hyperparameters, random seeds, model binaries, prediction files, and SHA-256 hashes before opening eligible pKd values."
+  },
+  "required_model_panel": [
+    {
+      "role": "constant_reference",
+      "family": "frozen development median",
+      "counts_as_distinct_nonreference_family": false
+    },
+    {
+      "role": "local_similarity_reference",
+      "family": "locked nearest-neighbor or matched-molecular-series baseline using development labels only",
+      "counts_as_distinct_nonreference_family": true
+    },
+    {
+      "role": "tabular_tree",
+      "family": "histogram gradient boosting with ligand and protein features",
+      "counts_as_distinct_nonreference_family": true
+    },
+    {
+      "role": "graph_sequence",
+      "family": "ligand graph neural network combined with a frozen protein-sequence encoder",
+      "counts_as_distinct_nonreference_family": true
+    },
+    {
+      "role": "joint_foundation",
+      "family": "joint ligand-protein transformer or another interaction-native neural architecture",
+      "counts_as_distinct_nonreference_family": true
+    },
+    {
+      "role": "structure_based_optional",
+      "family": "frozen 3D or physics-based scorer",
+      "counts_as_distinct_nonreference_family": true,
+      "eligibility": "Only for a separately frozen structure-available subset; absence does not alter the primary sequence-based cohort."
+    }
+  ],
+  "minimum_distinct_nonreference_families": 4,
+  "primary_estimands": [
+    {
+      "name": "source_wide_rank",
+      "definition": "Spearman correlation over all eligible pairs."
+    },
+    {
+      "name": "within_document_rank",
+      "definition": "Correlation of observed and predicted midrank residuals after connected-document-component means are removed."
+    },
+    {
+      "name": "within_target_concordance",
+      "definition": "Macro average of pairwise ligand-ordering concordance within eligible exact proteins; ties receive one-half credit."
+    },
+    {
+      "name": "rank_attenuation",
+      "definition": "Source-wide rank association minus within-document rank association, recomputed in every bootstrap replicate."
+    }
+  ],
+  "secondary_estimands": [
+    "MAE difference versus the frozen constant and local-similarity references",
+    "top-k enrichment within exact targets",
+    "within-target selection regret",
+    "calibration slope and prediction-to-outcome dispersion ratio",
+    "90 percent marginal and conditional coverage",
+    "interval half-width and abstention-coverage curves",
+    "rank covariance decomposition by document, exact protein, scaffold, and protein cluster"
+  ],
+  "inference": {
+    "primary_resampling_unit": "connected document component",
+    "bootstrap_replicates": 2000,
+    "crossed_dependence_sensitivity": [
+      "document component",
+      "ligand scaffold",
+      "exact protein",
+      "protein identity cluster",
+      "multiway inclusion-exclusion"
+    ],
+    "multiplicity": "Maximum absolute studentized statistic across locked model families for each primary estimand; Holm correction across the four primary estimands.",
+    "source_wide_support_rule": "Simultaneous 95 percent confidence interval excludes zero.",
+    "within_target_support_rule": "Simultaneous 95 percent confidence interval for concordance minus 0.5 excludes zero.",
+    "missingness": "No outcome imputation; feature failures are reported by family and handled by a locked complete-case plus failure-as-abstention sensitivity."
+  },
+  "decision_matrix": {
+    "aggregate_and_within_target_supported": "Evidence supports transported ligand ordering within represented targets; point and uncertainty claims remain separate.",
+    "aggregate_supported_within_target_not_supported_and_attenuation_supported": "Evidence supports a composition-dominated aggregate association; do not claim absence of all within-target signal unless an independently justified equivalence margin is also met.",
+    "neither_supported": "No prospective rank transport established.",
+    "within_target_supported_aggregate_not_supported": "Report source-canceling heterogeneity and inspect prespecified target strata without changing the primary decision."
+  },
+  "quality_and_review": {
+    "prediction_blind_primary_source_review": "At least 100 simple-random eligible pairs and all prespecified high-risk pairs are independently signed before unblinding predictions.",
+    "disagreement_resolution": "Two reviewers with a third adjudicator; decisions and reasons are frozen before model errors are joined.",
+    "provenance_release": "Release public identifiers, reconstruction code, exclusion ledger, and aggregate rights-restricted summaries."
+  },
+  "prohibited_actions": [
+    "changing source, eligibility, model panel, or primary estimands after viewing outcomes",
+    "tuning against prospective outcomes",
+    "dropping an unfavorable model family",
+    "claiming wet-lab, mechanistic, therapeutic, or clinical validation",
+    "pooling the new source with retrospective sources for the primary decision"
+  ]
+}

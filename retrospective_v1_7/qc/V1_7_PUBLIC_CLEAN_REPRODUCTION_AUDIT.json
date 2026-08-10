@@ -1,0 +1,254 @@
+{
+  "schema_version": "science_advances_v1_7_public_clean_reproduction_audit_v1",
+  "generated_at": "2026-08-02T07:23:41.677888+00:00",
+  "public_pair_level_table_present": false,
+  "svg_files_compared": 17,
+  "png_files_compared": 17,
+  "acceptance_rule": "All 17 SVG files byte-identical; PNGs same size with at most three channel values differing and maximum channel difference at most one.",
+  "passed": true,
+  "comparisons": [
+    {
+      "relative_path": "figures/main/Figure_1_v1_7_hierarchical_evidence_base.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_2_v1_7_rank_and_point_inference.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_3_v1_7_rank_signal_decomposition.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_4_v1_7_composition_and_point_accuracy.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_5_v1_7_uncertainty_transport_and_repair.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_6_v1_7_feature_necessity_and_claim_boundary.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_10_v1_7_data_quality_and_review.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_11_v1_7_standardization_and_priors.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_1_v1_7_source_structure.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_2_v1_7_rank_dependence_atlas.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_3_v1_7_model_agreement.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_4_v1_7_complete_point_accuracy.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_5_v1_7_cluster_influence.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_6_v1_7_conditional_coverage.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_7_v1_7_recalibration_repeats.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_8_v1_7_permutation_nulls.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_9_v1_7_context_geometry_controls.svg",
+      "format": "svg",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "figures/main/Figure_1_v1_7_hierarchical_evidence_base.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 2,
+      "maximum_channel_difference": 1,
+      "difference_bbox": [
+        1846,
+        1613,
+        1847,
+        1614
+      ]
+    },
+    {
+      "relative_path": "figures/main/Figure_2_v1_7_rank_and_point_inference.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/main/Figure_3_v1_7_rank_signal_decomposition.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/main/Figure_4_v1_7_composition_and_point_accuracy.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/main/Figure_5_v1_7_uncertainty_transport_and_repair.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/main/Figure_6_v1_7_feature_necessity_and_claim_boundary.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_10_v1_7_data_quality_and_review.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_11_v1_7_standardization_and_priors.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_1_v1_7_source_structure.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_2_v1_7_rank_dependence_atlas.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_3_v1_7_model_agreement.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_4_v1_7_complete_point_accuracy.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_5_v1_7_cluster_influence.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_6_v1_7_conditional_coverage.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_7_v1_7_recalibration_repeats.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_8_v1_7_permutation_nulls.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    },
+    {
+      "relative_path": "figures/supplementary/Supplementary_Figure_9_v1_7_context_geometry_controls.png",
+      "format": "png",
+      "present": true,
+      "size_equal": true,
+      "differing_channel_values": 0,
+      "maximum_channel_difference": 0,
+      "difference_bbox": null
+    }
+  ]
+}

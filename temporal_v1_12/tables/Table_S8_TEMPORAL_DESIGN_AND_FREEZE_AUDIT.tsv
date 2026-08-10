@@ -1,0 +1,23 @@
+domain	item	frozen_requirement_or_rule	observed_evidence	status	interpretation
+source	archive	Official BindingDB All July 2026 archive	601012750 bytes; SHA-256 f89c851bae81657c5509ccc13586676861b6ef9ae2e8424d57c393faaf9a9ed9; ZIP CRC passed	PASS	Archive identity fixed before cohort assembly
+chronology	v1.9 strict dual-timestamp patent	Stop before prediction and outcomes if original structural gate fails	3865 outcome-unexposed rows; source manifest and outcome hashes precommitted	STOPPED_UNOPENED	Membership remained eligible for disclosed structure-only pooling
+chronology	v1.10 database-entry patent	Stop before prediction and outcomes if original structural gate fails	2499 outcome-unexposed rows; source manifest and outcome hashes precommitted	STOPPED_UNOPENED	Membership remained eligible for disclosed structure-only pooling
+chronology	v1.11 all-source residual	Stop before prediction and outcomes if original structural gate fails	1091 outcome-unexposed rows; source manifest and outcome hashes precommitted	STOPPED_UNOPENED	Membership remained eligible for disclosed structure-only pooling
+adaptation	v1.12 pooling	May use source identity and structure-only support; may not use outcomes or predictions	6172 unique exact pairs before balancing; no affinity or prediction field read	DISCLOSED	Retrospective outcome-unexposed, structure-adapted aggregation, not a fully protocol-prespecified prospective registry
+membership	deduplication	Priority v1.9 then v1.10 then v1.11 by pair SHA-256	Priority and implementation locked before outcomes	PASS	Deterministic source assignment
+membership	document balancing	At most 25 pairs per document component ordered by salted pair hash	2689 selected pairs from 6172 unique candidates	PASS	No outcome-dependent row selection
+gate	pairs	At least 2500	2689	PASS	Primary aggregate retained
+gate	document components	At least 250	292	PASS	Document-level bootstrap support
+gate	effective document components	At least 100	139.829456	PASS	Dependence concentration reduced but not eliminated
+gate	exact proteins	At least 300	340	PASS	Broad target support
+gate	eligible within-target groups	At least 100 groups with at least 5 ligands and 3 scaffolds	126	PASS	Target-conditioned endpoints estimable
+representation	ESM-2 runtime equivalence	Frozen revision; numerical bridge to historical runtime	32 reference proteins; maximum absolute difference 1.3038516e-07; minimum cosine 0.99999994	PASS	Three mismatched historical reference hashes excluded from equivalence only
+prediction	model panel	One constant reference and four frozen nonreference models	5 models; 2689 pairs; 13445 predictions; 0 abstentions	PASS	No temporal fitting, calibration, tuning, or model selection
+prediction	prediction freeze	Predictions and code hashed before outcome parsing	Prediction SHA-256 691eba39813ef899ff00d77bdd16f2b8b8e5673dc133a42aee6bd0636cced883	PASS	Prediction rerun prohibited
+endpoint	primary endpoints	Freeze source-wide rank, within-target-centered rank, pairwise concordance, and attenuation	Four endpoints implemented in locked code	PASS	No post-result endpoint substitution
+inference	primary uncertainty	2000 document-component bootstraps; model-simultaneous intervals; Holm across endpoints	2000 valid joint replicates for every endpoint	PASS	Primary dependence unit and multiplicity retained
+decision	composition-dominated replication	At least 3 of 4 models support source-wide association and material attenuation; all 4 centered estimates lower	4 source-wide; 1 material attenuation; all 4 centered estimates lower	NOT_MET	Locked branch heterogeneous_or_inconclusive
+firewall	pre-unblind outcome reads	Zero outcome rows read before Stage 2 authorization	Source manifest reports 0 rows and no outcome summaries; matching hashes verified at unblind	PASS_WITH_DISCLOSED_LIMITATION	Mode 0400 was owner-readable; evidence rests on hashes, receipts, separated code, and chronology
+scope	calendar prospective	Must be a future official post-ChEMBL37 release under v1.8	False	NOT_CLAIMED	v1.12 does not consume the v1.8 registry
+scope	source independent	Must not derive from BindingDB ingestion pathways	False	NOT_CLAIMED	All four origins are BindingDB-related
+scope	wet-lab or therapeutic validation	Requires prospective compound selection and experiments	Not performed	NOT_CLAIMED	Only a computational measurement-validity claim is supported

@@ -1,0 +1,13 @@
+source	stratum	baseline	coverage	mae	stratum_plot
+ChEMBL37	overall	Exact molecule prior	0.0114797924201919	1.18007133566499	Overall
+ChEMBL37	drug_cold	Exact molecule prior	0	1.25718625973886	Ligand cold
+ChEMBL37	protein_identity_cold	Exact molecule prior	0.0943396226415094	1.14813903310736	Target cold
+BioLiP/MOAD	overall	Exact molecule prior	0.0166425470332851	1.66264712827421	Overall
+BioLiP/MOAD	drug_cold	Exact molecule prior	0	1.6827405966001	Ligand cold
+BioLiP/MOAD	protein_identity_cold	Exact molecule prior	0.0356164383561644	1.76348469985681	Target cold
+ChEMBL37	overall	Protein-cluster prior	0.273785186350055	1.24441564066844	Overall
+ChEMBL37	drug_cold	Protein-cluster prior	0.895364597451884	1.48414438546867	Ligand cold
+ChEMBL37	protein_identity_cold	Protein-cluster prior	0	1.06373148092784	Target cold
+BioLiP/MOAD	overall	Protein-cluster prior	0.222141823444284	1.5754595988404	Overall
+BioLiP/MOAD	drug_cold	Protein-cluster prior	0.982817869415807	1.27629151549981	Ligand cold
+BioLiP/MOAD	protein_identity_cold	Protein-cluster prior	0	1.76554946768767	Target cold

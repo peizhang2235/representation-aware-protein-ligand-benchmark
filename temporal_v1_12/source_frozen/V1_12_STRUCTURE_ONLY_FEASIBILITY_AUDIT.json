@@ -1,0 +1,44 @@
+{
+  "adaptation_disclosed": true,
+  "checks": {
+    "document_components": true,
+    "effective_document_components": true,
+    "eligible_within_target_groups": true,
+    "exact_proteins": true,
+    "pairs": true
+  },
+  "created_at": "2026-08-02T14:16:32.656854+00:00",
+  "document_component_cap": 25,
+  "duplicate_pair_memberships_removed": 1283,
+  "observed": {
+    "document_components": 292,
+    "effective_document_components": 139.82945601516118,
+    "eligible_within_target_groups": 126,
+    "exact_proteins": 340,
+    "pairs": 2689
+  },
+  "origin_rows": {
+    "v1.10": 768,
+    "v1.11": 1080,
+    "v1.9": 841
+  },
+  "outcome_bytes_read": 0,
+  "outcome_values_accessed": false,
+  "required": {
+    "document_components": 250,
+    "effective_document_components": 100.0,
+    "eligible_within_target_groups": 100,
+    "exact_proteins": 300,
+    "pairs": 2500
+  },
+  "schema_version": "science_advances_v1_12_structure_only_feasibility_audit_v1",
+  "source_origin_rows": {
+    "database_entry_chembl_import": 750,
+    "database_entry_patent": 768,
+    "database_entry_residual_patent": 330,
+    "strict_dual_timestamp_patent": 841
+  },
+  "source_rows_before_deduplication": 7455,
+  "status": "PASSED",
+  "unique_pairs_before_balancing": 6172
+}

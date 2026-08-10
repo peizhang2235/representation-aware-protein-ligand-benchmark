@@ -1,0 +1,15 @@
+x	stage	kicker	title	detail	fill	accent
+0.52	01	MODEL DATA	Training source	"BindingDB
+2,364 exact
+training labels"	#E8F1F8	#4C78A8
+1.77	02	EXTERNAL DATA	External sources	"ChEMBL37 +
+BioLiP/MOAD
+26,818 external pairs"	#FCE9E2	#D26A3A
+3.03	03	COMPARISON UNIT	"Hierarchical
+estimands"	"Pair -> ligand ->
+document/scaffold ->
+exact-protein context"	#E7F5EF	#4F9D86
+4.28	04	VALIDATION CONTROL	"Temporal
+validation"	"Later source
+outcome-blind;
+locked specifications"	#F3EAF4	#8A6BA8

@@ -1,0 +1,6 @@
+gate	required	observed	observed_to_required	passed
+pairs	2500.0	2689.0	1.0756	True
+document_components	250.0	292.0	1.168	True
+effective_document_components	100.0	139.82945601516118	1.398294560151612	True
+exact_proteins	300.0	340.0	1.1333333333333333	True
+eligible_within_target_groups	100.0	126.0	1.26	True

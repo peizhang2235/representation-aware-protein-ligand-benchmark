@@ -1,0 +1,341 @@
+protein_sha256	target_name	target_organism	uniprot_primary_id	pairs	unique_ligands	unique_scaffolds	document_components	source_origin_strata	eligible_within_target
+005d3d027b78ea2cd89b091eed5a8b8e5f97d9ebcea50ca66cc24a8d52863e65	Crossover junction endonuclease MUS81	Homo sapiens	Q96NY9	2	2	1	1	1	False
+01b6c32eee0d173b181b1bb3926e78b1014c3c8a350003ef462b97fcad650063	Tyrosine-protein kinase Lck	Homo sapiens	P06239	3	3	2	1	1	False
+022c5e46aa4d58f82ea0b1dcb834398f4f1195826519611b0447b8b5e3536ef3	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1	Homo sapiens	P22413	25	25	14	2	2	True
+024435b6a912aaecfa2992585f7d822f4f49a8a1338b3bc6a7b36bd8991acd0a	D-3-phosphoglycerate dehydrogenase	Human	O43175	7	7	7	1	1	True
+0245deffad73dcd5cf0c8f7c09aef20860fbe11c1fb839049bce6dd95819195c	Fatty acid-binding protein, adipocyte	Homo sapiens	P15090	6	6	1	1	1	False
+028f4d4e6566b0a43bf03df24d0833f95e4772db5434a3841a945be32735ed1b	PCNA-associated factor	Homo sapiens	Q15004	1	1	1	1	1	False
+043f80df5b673d9048e118735cb0230b0baaa23f788c3bae0010f9995412d852	Androgen receptor	Homo sapiens	P10275	3	3	3	1	1	False
+0451c5f5ef052711dec57df65d688e28c0027e49dc4be546d73beb880c6181ed	Proprotein convertase subtilisin/kexin type 9	Homo sapiens	Q8NBP7	27	27	19	2	1	True
+045de6b23d69dba05552c9aae2f5507478a5c7eddd1a1641df8082b145478595	Nitric oxide synthase, inducible	Homo sapiens	P35228	1	1	1	1	1	False
+057798c1089fc251ff563dc03e5373e0684e90960e1f34c27c071d8afcfbd9b9	Arginase-1	Homo sapiens	P05089	1	1	1	1	1	False
+058d29ba453bfb351cb680585c5dcecf4f9ebfa297008ad419cabaf906f6f124	Telomere repeats-binding bouquet formation protein 1		Q8NA31	1	1	1	1	1	False
+0647ba978c0e550399fa33c8ee2f26c82b028539edf3f9473604a855d9965cbd	Oxysterol-binding protein 1		P22059	1	1	1	1	1	False
+0656e40de4997b31658a487fdaf93307f65e072fc5beceda66d0ee0c6606ab93	Bromodomain-containing protein 4 [353-454]	Homo sapiens	O60885	44	44	30	4	2	True
+067f7c4a3936c5152653761ee0a1815aaa6783395287be36fc61163619542623	Epidermal growth factor receptor [L858R]	Homo sapiens|Human	P00533	9	9	7	1	1	True
+074cc29440ec26e5804d94f8f250844a95475c79a541bca6de2af6413d38a9af	Dual specificity mitogen-activated protein kinase kinase 7	Homo sapiens	O14733	2	2	2	1	1	False
+0771b66a376dfd4547928751675448ca437514985682429ac74a864e55524581	Bromodomain-containing protein 4 [342-460]	Homo sapiens	O60885	3	3	3	1	1	False
+0798437def06af18f0ee151fb68a7ef37e16370ca11546ce6c0bc2b644f3a960	MAP/microtubule affinity-regulating kinase 3	Homo sapiens	P27448	1	1	1	1	1	False
+0864cbb8ca97c84e975766f7ef146c361a02a1c30f2ea43f904dafe46a40aef5	Tyrosine-protein kinase JAK3 [822-1111]		P52333	1	1	1	1	1	False
+0964b8ab750f4f675886036ee344acb048e251156e11a6c965cc39525773b4e8	UDP-3-O-acyl-N-acetylglucosamine deacetylase	Escherichia coli (strain K12)	P0A725	5	5	4	1	1	True
+0a1a909cf5ee3fcb36c17135913ce49913db6fb6392fe43faf9c92df9994a1b2	Protein cereblon	Homo sapiens	Q96SW2	25	25	13	3	1	True
+0b45a125f79ff79f518bea9817977a88d19133ebd6d02e1b5d93efd17d898558	Proteasomal ubiquitin receptor ADRM1		Q16186	9	9	2	1	1	False
+0b7b4371349d430586f14fcc356499e91f31b6c9212ea6201bf7d5b0e5dae343	Kinesin-like protein KIFC1	Homo sapiens	Q9BW19	2	2	1	1	1	False
+0caed4ff234c64efd5f01371efafe0b9c14cc59dbeaf60e2fa25f299f8104146	Folate receptor beta	Homo sapiens	P14207	15	15	14	1	1	True
+0d1190ba0075fe0f9b168b101951ae5c4f318a8d7c4600e84a60eaf61603764d	Receptor-type tyrosine-protein kinase FLT3 [D835V]	Homo sapiens	P36888	3	3	3	1	1	False
+0e1b606ba4a2733bcc0bfda24d9072606dc3876638804d08520b6d5c668ea019	Tyrosine-protein kinase receptor UFO	Homo sapiens	P30530	1	1	1	1	1	False
+0eb48fb6c6aed997133e177cdb3bc677507f53b531633c28e8f7ad8d6959cfc3	Pyrrole-2-carboxylic acid decarboxylase		Q9I6N5	14	14	3	1	1	True
+0f99982b545e61cc6fa4ca70be1e2f0f503d3e26f44fdb3067dd3c6905bb2788	Aurora kinase B	Homo sapiens	Q96GD4	6	6	5	3	3	True
+0fdccc9cc749eb00612285f573499f74063b76552555a5224368cb16c4e657c6	Signal peptidase I	Escherichia coli (strain K12)	P00803	3	3	3	1	1	False
+0ffa2c3a49e35475b4ea21d7e9b49766b046daa6930815fe57315f2133ffdaf1	Bromodomain-containing protein 4 [42-168]	Homo sapiens	O60885	2	2	2	1	1	False
+1124c18fb3efc90e0ff463447ceacf7d8fb0296938cb91299b611dcb581c9af1	Thioredoxin reductase 1, cytoplasmic	Homo sapiens	Q16881	2	2	1	1	1	False
+11d994f4fbe3205af3d9f39d5cc4bc769e2da7c9edcb5cadf3c051c411253fa6	Tubulin beta chain	Pig	P02554	3	3	2	1	1	False
+11ece92120ddda7cb24d066134fbac86840167b78f16cd0b6e9fc74e07e29b62	Butyrophilin subfamily 3 member A1	Homo sapiens	O00481	1	1	1	1	1	False
+1269eded1c27d47120560ad220675e101d8357abdf6c451b11d504689e4cc72a	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform		P30153	1	1	1	1	1	False
+12bb6deb5f960ef3ae9001e0c74e5b707dcfa02cf027ef1750b9d21e4e2744a1	Death-associated protein kinase 1	Homo sapiens	P53355	1	1	1	1	1	False
+138b95b30ab8f0f5159c8e47139e072be23cc2dda5f74980956ee5764897d1d7	NACHT, LRR and PYD domains-containing protein 3	Homo sapiens	Q96P20	4	4	4	2	1	False
+13f7554d9b19f2ba75cc851600252cf99ccd746317c5b94db51a8c830a534c45	Ubiquitin carboxyl-terminal hydrolase 5	Homo sapiens	P45974	7	7	7	1	1	True
+14c12f3038e6dde2d28b78c0961e52dae3040876f6c8e2ce7208899bca679c80	Serine/threonine-protein kinase mTOR	Homo sapiens	P42345	5	5	5	2	2	True
+15321c6a24653503fc98383e4edc446dc4783b8f9772c7b92a89416d3359f581	Fatty acid-binding protein, heart	Homo sapiens	P05413	6	6	1	1	1	False
+157e57336ec87f9f746263022cafc4b988e9ebaf633e0d9724b5dc5e14d7c49b	Eukaryotic translation initiation factor 4E	Human	P06730	1	1	1	1	1	False
+160bff8802a0ae758fb5061815bc26f387982c70cccc29bc814b978d82261070	Polyprotein P1234	Chikungunya virus (strain S27-African prototype)	Q8JUX6	4	4	1	1	1	False
+1740a00df4b91dc186680dfedb4b8b1eaed2f508c951cb44f0a8a5995c52ba63	Histone-lysine N-methyltransferase NSD3	Human	Q9BZ95	1	1	1	1	1	False
+1745754698cfda0da91a4ab57a3167699fd9968011b4a7887a53c1da2876fbe1	Signal transducer and activator of transcription 6	Homo sapiens	P42226	28	28	13	2	1	True
+17659308c69ac01d51fcc86fe96d838f4bfef869049bfc92b2e384f79ed58de3	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Q9UBK2	1	1	1	1	1	False
+176d791e481cb2e52737cdb1c14695e77230ac61d5bc893adc543d095b381d79	RISC-loading complex subunit TARBP2	Homo sapiens	Q15633	2	2	1	1	1	False
+17bb2cec3a3bbb5375f76542963759fa9fbd060398051d9fd66206f0c0310d92	CDGSH iron-sulfur domain-containing protein 1	Homo sapiens	Q9NZ45	1	1	1	1	1	False
+18a68eca96f64db10c5b38e1f1bf1b013e7dd5091fad780578010a93474da833	Tyrosine-protein kinase JAK3	Homo sapiens	P52333	2	2	2	1	1	False
+18e4fe4189d4300e2c85dc966249934aacd3dc3e351a62364a698aa32cefc59a	Muscarinic acetylcholine receptor M2	Homo sapiens	P08172	1	1	1	1	1	False
+193ae13f26a1e7653dafbff7018112b4efc011c66a963f2eac886797a6c0d77c	IMP-specific 5'-nucleotidase 1		A0A144A134	2	2	2	1	1	False
+198a8de7f7984533488730efe027d6be7c45763465414d2c9e2d968688ed30c9	Ataxin-10		Q9UBB4	1	1	1	1	1	False
+199b54314c927d12922cfad459f823fe2dac4f14f15831b6a5d1b6136c4c8eb6	Falcipain 2	Plasmodium falciparum		1	1	1	1	1	False
+1a1d669b0622fbe831f52ddb1be8e99ed35c39eea791b55b52db12a80811e274	Serine/threonine-protein kinase B-raf	Homo sapiens	P15056	8	8	3	2	2	True
+1a9d5667abcfbe96d50f29121e815eef32ae5fbfb3de52728d9a2de30d764b20	Peroxisome proliferator-activated receptor gamma	Homo sapiens	P37231	1	1	1	1	1	False
+1abdf9f5fe8a5ce4b11f9b7b9cbbd0bc1697da6c82615add5f03f1f0cb3a0cbf	Cyclin-dependent kinase 1	Homo sapiens	P06493	2	2	2	1	1	False
+1c6644344a12e467bac221d095a23fc2da3d2eb868d6085259979d4b76029cba	Tyrosine-protein kinase JAK1	Homo sapiens	P23458	2	2	2	1	1	False
+1d5a9ab11f64cb886d8ffa08a153c412b2d190fcf70e5690cd4b4c7efcdee53a	GTPase KRas	Homo sapiens	P01116	29	29	13	4	2	True
+1dd8076dcc1c7f8bf85982f9ef389f20d06611bdc4c6d38a12300f6d42550846	Tyrosine-protein kinase JAK2 [866-1054]	Homo sapiens	O60674	9	9	7	1	1	True
+1e34f9f89f223ec78879ce06436449fdb4077140597c4fbb765250e74b5295f3	Heat shock protein HSP 90-beta	Homo sapiens	P08238	19	19	11	4	2	True
+1e713d035af00ae7ec7e42f80259ed46e06120d2d5c617d320c91de02ce4dd1d	Catenin beta-1	Homo sapiens	P35222	4	4	3	2	1	False
+1f1e0d80da902eddd4cd9ae48b390782b5c090a0ae8cca56435c5654f0af67fa	Probable G-protein coupled receptor 88	Human	Q9GZN0	1	1	1	1	1	False
+2050e121c40716b1679af0b304ba648e1f3f6d4bf32ac563318974ec64d5167a	Tyrosine-protein kinase BTK	Homo sapiens	Q06187	7	7	7	1	1	True
+20a6b94861f0cf314539c09f81e963061ffb85f749a47a103bb6de76c0fb62fc	Translocator protein	Homo sapiens	P30536	2	2	1	1	1	False
+21017319c2c8714bf0b97157e13f2184664d2d13b899b37276195af86ca0720a	Tyrosine-protein kinase JAK2	Homo sapiens	O60674	12	12	8	3	1	True
+21bcf3ae01c329f2a9caf8b6af601f7c6dc5355fb67930b4481acf2bb0b80b70	Mixed lineage kinase domain-like protein		Q9D2Y4	2	2	1	1	1	False
+21f46e4dc29df3bbe7821c4fbe2fcc6f57d0e4fb18807b640059e11f1d2359f0	O-acetylserine sulfhydrylase	Mycobacterium tuberculosis	P9WP55	2	2	2	1	1	False
+21f49444b989615a6ae5543a20781583b30314e4302cbf9c793c6749bfac673a	Pachytene checkpoint protein 2 homolog	Homo sapiens	Q15645	1	1	1	1	1	False
+227d4dedc333f19cd45555a7d21906eea61e2723b142143e11cbf038bcb59d6b	GTPase KRas [G12D]	Homo sapiens	P01116	19	19	8	3	2	True
+235809418d7d3cef7abccc00fcd104e63b3d4dbeb831a48bc93d353237931b5f	Pyruvate kinase PKM	Homo sapiens	P14618	1	1	1	1	1	False
+249c963f7270222e8d269156d3dcbf186a8661fead55fce9b31880e7171fe85e	Probable G-protein coupled receptor 88	Mouse	Q9EPB7	1	1	1	1	1	False
+262c7bcde1c365985448d0e69a77135df1680783066e7f72dfb907bead316982	Nuclear receptor ROR-gamma	Homo sapiens	P51449	8	8	4	1	1	True
+266ca0506e735b718ca822e6c035b6cb02aa39f6501029348d4673aad7edf5b2	D-histidine 2-aminobutanoyltransferase		A0A0H3JXA8	4	4	3	1	1	False
+2709b182438598d2b9f146586fb2c8549857ef08c97505fddab5a0a8782aaee7	Cyclin-dependent kinase 9	Homo sapiens	P50750	9	9	9	1	1	True
+287332153da38b59cc1be9554cc3a29f14d3b9e2a33150b4d54137773b22d1f7	Potassium voltage-gated channel subfamily H member 2	Homo sapiens	Q12809	2	2	2	1	1	False
+2898de6836326a5e8b9a13d96336a5a89496c3a70deea8b99a0799c73120a29b	5'-AMP-activated protein kinase catalytic subunit alpha-1	Homo sapiens	Q13131	1	1	1	1	1	False
+29416c9490a3c35fa69a9086f09fb7c75915d5d7467cb594e5b517e8fa9f344f	Ephrin type-A receptor 2	Homo sapiens	P29317	16	16	14	2	2	True
+2adaa47ab70c0a798132d08bd90a7cf226b2cecf0909cd1b248b9349d25794c1	Tyrosine-protein kinase JAK2 [536-812,W659A,W777A,F794H]	Homo sapiens	O60674	14	14	8	1	1	True
+2bcd2372a42b0df85765503157e2692f62ac4928d456c0292b6bede3fb610d28	Non-receptor tyrosine-protein kinase TYK2 [556-871]	Homo sapiens	P29597	16	16	13	1	1	True
+2ca842f3e7a01314833c340d495dc171c89dca6271a7cf89edb90e6194b06fa3	Glycogen synthase kinase-3 beta	Homo sapiens	P49841	8	8	7	2	1	True
+2d487f30a2af772e578140ddecf3625eeb792afae14a2d808aca6e480aee821a	Caspase-6	Homo sapiens	P55212	4	4	4	1	1	False
+2f76a1405e7aed356b34cd1a9f18c34be3337a580d4178b253f7a9e543714c34	Putative protein-lysine deacylase ABHD14B		Q96IU4	1	1	1	1	1	False
+2fdc94b562d94122b907d10ff61c3ff69134278a3cb10e079d4cb5e55db67e88	Galectin-9	Homo sapiens	O00182	1	1	1	1	1	False
+3084fcf25de5f51e6942e7495fb1bfc871a2e7e01dd721cf3ee864909896ee9e	Serine/threonine-protein kinase DCLK2	Homo sapiens	Q8N568	1	1	1	1	1	False
+30d7099d81eda4dbd95c11514b8b85048f02e8e8c21169f9d5a93669f14a4d3d	5'-AMP-activated protein kinase catalytic subunit alpha-2	Homo sapiens	P54646	1	1	1	1	1	False
+333835f403a04d992e92c0e4d969ebd9d7836efbeea46535bc6e28637a7f594c	Signal transducer and activator of transcription 3	Homo sapiens	P40763	1	1	1	1	1	False
+335308f096756a3df0215872048688705e4c202b3fb4ac426b1d7a2c0ae16340	E3 ubiquitin-protein ligase pellino homolog 1		Q96FA3	12	12	9	1	1	True
+3394a44c77135f9edf6d1f3be38c64fdbf7e38bad6cdbf742241f2c25025b7c1	NT-3 growth factor receptor	Homo sapiens	Q16288	1	1	1	1	1	False
+360ed307cf2e66ee0ad91e9a660b6ae75063b7ecc7cc1ddfb03afc424d5c399d	Latent membrane protein 1	Human herpesvirus 4 (strain B95-8)	P03230	1	1	1	1	1	False
+3857272f8a0735dacc5f841ed7493306cead70cbe32677a45fa955b7ca4275e5	Nucleotide-binding oligomerization domain-containing protein 1	Human	Q9Y239	1	1	1	1	1	False
+388496086c3d359af41db771e1f6945d2b66722fee6fe88853baa0235284e088	3-oxoacyl-[acyl-carrier-protein] synthase 3	Escherichia coli		1	1	1	1	1	False
+38964770ee24572575ba286754bb1867aa9a34289a45d300a3da80627961c787	Casein kinase II subunit alpha 3	Homo sapiens	Q8NEV1	4	4	3	1	1	False
+38e97d50880fc5ed6f0b961be3eff31062d9e7c8ddaa271c5384bb59ca0ce846	Lysosomal acid glucosylceramidase	Homo sapiens	P04062	1	1	1	1	1	False
+3943de13dea0671ba13a3eb0140aa91aad157279748f39822395d594254b3cd5	Ethanolaminephosphotransferase 1		Q9C0D9	1	1	1	1	1	False
+39b0d8c15a36d623fb08a72aedcf35ebdd082059773c7cca3cd9d2f46e43b33d	Peptidyl-prolyl cis-trans isomerase FKBP1B	Homo sapiens	P68106	2	2	2	1	1	False
+3a69a5b81accc8a0aa19c96b01d26a2b1acd1545ee30826e5c73de50b3e3048e	Transcriptional activator protein LasR	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228)	P25084	1	1	1	1	1	False
+3be11112fc04b057ec42f4d8e7b29ae9d834e13831f109d77959ea620ec29471	Serine/threonine-protein kinase B-raf [V600E]	Homo sapiens	P15056	4	4	2	1	1	False
+3c818ee2c080f534eaf3cb422f25c94f2f49241f958d47673d7c8575ec18a73e	Bromodomain-containing protein 4	Human	O60885	1	1	1	1	1	False
+3e55a8886d3123341ae8d94472ff288ce0a984a3363ffa75fee6e9dfa6082ec1	Vesicle-trafficking protein SEC22b		O75396	1	1	1	1	1	False
+3ec018eac89b55a4b8805aad2984a8a39dc4efa5a410abc4d3835c233cb1395a	Myc proto-oncogene protein	Homo sapiens	P01106	12	12	7	1	1	True
+3f6b27ef15f1a0769f6d67bc2e74c379d3b7bd9e36093cb9bb74486a4a241890	Non-receptor tyrosine-protein kinase TYK2	Homo sapiens	P29597	28	28	18	3	1	True
+3fa18eb54ec40d14ffe757d4ea5610d82f444e748a118bb4bb5410eecc967a9c	Receptor-interacting serine/threonine-protein kinase 3	Homo sapiens	Q9Y572	11	11	9	2	1	True
+3fd33166364d6754808cd13825181f72272f9ff1bff05499874ea5560a03462c	Cell division protein FtsZ	Escherichia coli (strain K12)	P0A9A6	1	1	1	1	1	False
+400ef529d5c6a3841e239c796b59a0ac70f5d15999943515367a963d27a80d30	Protein cereblon [318-426]		Q96SW2	25	25	21	1	1	True
+4466a9fc1e1f5c3b796fbdfe4885ecdd1d5cb9ea13628e8ba1900e0b8b0fc83c	Fatty acid-binding protein, brain (FABP7)	Homo sapiens	O15540	5	5	1	1	1	False
+44d46497ea712d353a5fb8334570bc6b6cbbbe787241db9a29611e546765c4d0	Heat shock protein 90 homolog	Candida albicans (strain SC5314 / ATCC MYA-2876)		26	26	19	2	2	True
+44d644fded1106c7798f23404f6259d4a56f52e874b192053880a84f91b2384f	Ras-related protein Rab-27A		P51159	1	1	1	1	1	False
+4602a348ca21f49c27d1dfd706dbfb54f20ab49a7de362ece550dbb1dd236c87	Histone deacetylase 8	Homo sapiens	Q9BY41	1	1	1	1	1	False
+462c157a4444fcbfb9ba57b67f342db52b80887f3370f552ba8e2109caa035e2	Tyrosinase	Human	P14679	1	1	1	1	1	False
+476e19cf8b96a087426a0be2eae3ee91c245c50f254992225d631182ff078464	Tyrosine-protein kinase JAK2 [808-1132]	Homo sapiens	O60674	3	3	2	1	1	False
+47b0efd38cbed8b7ae54ce86c372fe5bccb834500ac813baba3a9486c1321a4c	ATP-dependent Clp protease proteolytic subunit		Q5F914	1	1	1	1	1	False
+4acd833b96a1440e5d76603e5d137a8b1c9aeb8002f0f8460d1ba0fc3a8de305	Tyrosine-protein kinase JAK3 [811-1124]	Homo sapiens	P52333	2	2	2	2	2	False
+4afd43a2f1fdcfaab09ba8c43a997c6bd6ed010fd20bbc6e15d791a28129e8e2	Complement factor B [470-764]	Human	P00751	7	7	6	1	1	True
+4b3334bba830c2f7d886e2ec16e1d2a9270108ea40b962522c22590594be467c	Acetyl-coenzyme A synthetase, cytoplasmic	Homo sapiens	Q9NR19	10	10	10	1	1	True
+4b73868ce025017dbd7dc7c6e3d898657ae4faf8dd559c654aec1cb4c86901db	Mitogen-activated protein kinase kinase kinase 13	Homo sapiens	O43283	12	12	12	1	1	True
+4b992438444e5580e88eec14328d65dc56021c00706daab77dfc20892b6dcdb6	PA-I galactophilic lectin	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	Q05097	25	25	17	1	1	True
+4c0cef143858b123b57fe94ba580d433ebbad7bbfb5265d8ae729c1e43be5e46	Galectin-1	Homo sapiens	P09382	22	22	11	5	2	True
+4c7b302c97ebbbf6f2c1647b7e2c33a0df922e898bb99d4b949a7204ba26ab70	E3 ubiquitin-protein ligase TRIM21		P19474	25	25	16	1	1	True
+4d721063d8e4ca3996c990ea105052d20c4241e90d4ef9dec173cf654fc8db21	Methionine--tRNA ligase	Staphylococcus aureus (strain Mu50 / ATCC 700699)	P67578	2	2	2	1	1	False
+4dde01fda8f2a6440d900157adfd87d76e4a001b1c3c56198a637348fe90867b	Stimulator of interferon genes protein [149-345,R232H]	Human	Q86WV6	13	13	4	1	1	True
+4ffc1b515d70e97e7a9e0436e6857e4c07bb4e3a0922ad8f22f541398aa5e5a6	GTPase KRas [G12C]	Homo sapiens	P01116	14	14	6	2	2	True
+505bfb3d1260c6a4e19cde894af5b280bdb5f0833bc980cb58448501fc7e158b	Sigma non-opioid intracellular receptor 1	Human	Q99720	2	2	2	1	1	False
+50bd91bb24b0aa5b7cf6ff8e83dc526c6a56ca6bbcc8ab48acfbfac4cb8961cf	Protein delta homolog 1	Homo sapiens	P80370	13	13	8	1	1	True
+52b1cbc0ca3474810cb7949467e3a5a2851350643eb734f1c33aaca65b4a6fe4	Macrophage colony-stimulating factor 1 receptor	Homo sapiens	P07333	2	2	2	2	1	False
+534c81103e759078f92a338086834ea6156abcbd27b99589d549e3787e70d33e	Ephrin type-A receptor 7	Homo sapiens	Q15375	1	1	1	1	1	False
+54431f8a0aa2a42c7810354ab78e06561f7d2d8744a94e1c2a31525fab8aa2f3	Myeloid differentiation primary response protein MyD88	Homo sapiens	Q99836	6	6	5	3	1	True
+549dc2f31d2981e3cd99a62ea027bf7d8a5cd3b7232c910e4a3fbec108f88c17	Kelch-like ECH-associated protein 1	Human	Q14145	11	11	3	1	1	True
+54d4ad68b7f18c59288a5d0ac6b402df893d8aadb55fda3f5e03b57be254e647	Lysine-specific histone demethylase 1A	Homo sapiens	O60341	1	1	1	1	1	False
+553ddef377b84167048c087d19725632b8355f16ce8d6c8e47cdea8591dbc6cf	Indoleamine 2,3-dioxygenase 1	Homo sapiens	P14902	2	2	2	2	1	False
+55ce8370328bf893df9ac1022b98cee33a26a617fdb533d0536a15e8eca7f2d8	Kelch-like ECH-associated protein 1	Mus musculus	Q9Z2X8	1	1	1	1	1	False
+56541207bc15b56b69d8ed53819e3e26edac7f55e5883ce914886f67e8fa2d3c	Nucleoprotein		P0DTC9	1	1	1	1	1	False
+5688aa9dca5716cc3ef72bce8cde842c2afbb18e4c13767ffff0663e537db228	Androgen receptor	Rat	P15207	1	1	1	1	1	False
+568d600386ab5ce56921f3ffd2bb61cd3858ebd51062c6861216dc086abbcd5e	LanC-like protein 2	Homo sapiens	Q9NS86	25	25	25	1	1	True
+573bb6398680c95f09c8b29b404da27b52af8f3433f93f5fa7f0a6f562c1bf30	Galectin-9C		Q6DKI2	3	3	2	1	1	False
+57cd6f50c8934d3a5ad4c6bf69031d54b6210fb02fb34078cccfc6614520e018	Protein polybromo-1 [200-270]		Q86U86	14	14	10	1	1	True
+57e21200805781ce80faed3af246dedc30689cf64c36b9e312ea1c1bfb5ae4fa	Pantetheinase	Homo sapiens	O95497	3	3	3	1	1	False
+58345ae90df4d9185ef408b3ccd6e79bcc3369adba4919b0c26c30ddceb1fef0	Arginase-1	Rat	P07824	1	1	1	1	1	False
+5862305c8302b2d7dd9de31f34102a1220d9099d9f6f7b961610ed4337934880	Carbonic anhydrase 1	Homo sapiens	P00915	14	14	11	1	1	True
+5882afba176ac8a5bcacbdc1af582ec9522a98bc595b3f165bf6323a9944f050	Serine/threonine-protein kinase MRCK alpha	Homo sapiens	Q5VT25	1	1	1	1	1	False
+5969fecfc594320fc30615d9a1427a7b0ecdc2d6e5c94f751aba1435067f25dd	Midasin		Q9NU22	1	1	1	1	1	False
+5a63358615cb51a768228374fe60bf4e0e3e5f5cbc1091d81cfe18b961932427	Lysine-specific demethylase 4D	Homo sapiens	Q6B0I6	1	1	1	1	1	False
+5bd55de79e0d47293c2cd4ffedfd4e3944ecfe595621baf284e91a05f2432d32	Serine/threonine-protein kinase SIK3	Homo sapiens	Q9Y2K2	1	1	1	1	1	False
+5f53bbc1e37943c0480e2cea1af72db621d5d854f1ed38469d2fccdaaca2479e	Serine/threonine-protein kinase PknB	Mycobacterium tuberculosis	P9WI81	14	14	5	1	1	True
+6051f5713b16576cafe50057ee6d408facfcfb921e3e7705732717b9e4c13d76	Galectin-4	Homo sapiens	P56470	1	1	1	1	1	False
+60b814a1042244f9f7d8210d506be2cfaf3db6cfb7569508e1a97dc5231cf240	Decaprenylphosphoryl-beta-D-ribose oxidase	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	P9WJF1	4	4	4	1	1	False
+6290ac0913cc53eba61e3fffaacd220601b70ddd3b2ad032f0d3b83310ae3c4b	S-sulfocysteine synthase	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	Q79FV4	7	7	3	1	1	True
+630720d20980b874ca3b3d6be186b5f906d261584d4d7b7a090c83fd36416ddd	Thymosin beta-10		P63313	1	1	1	1	1	False
+632908f5de50fb6f1a7024c9374f1584595fb92b7f80c35435714f5aa56e3a44	GTPase KRas [G12V]	Homo sapiens	P01116	61	61	36	4	2	True
+63545238edf5954ff2c4b906c6a1aff443f382df9e01ffb56acb5016ccbeed07	tRNA (guanine-N(1)-)-methyltransferase	Escherichia coli (strain K12)	P0A873	3	3	3	1	1	False
+655b0e233155e540ef48affcb42464bb12cc38b193cd9ef302606592bd7f7b73	Myc proto-oncogene protein	Homo sapiens	P46734	1	1	1	1	1	False
+65cf04333924500423ef23e4ea83a72b8028ea91a81d9572ebd7d403340e1195	Phospholipid hydroperoxide glutathione peroxidase	Homo sapiens	P36969	28	28	19	2	1	True
+65cfc2c0cf82af83e1e122bea9f09a3fb6ba8fa60f7bd6f942cd3be3d0be8daf	Type 1 fimbrin D-mannose specific adhesin	Escherichia coli (strain K12)	P08191	20	20	7	1	1	True
+665631247a60f67442cdeb06062c767eda520eaca2f8369894710e5720d86093	High mobility group protein B1	Homo sapiens	P09429	1	1	1	1	1	False
+66f862010eb73c9edffb8433d2b53f30ffbbb70b85515d47323e5ad03cc012c0	Protein argonaute-2	Human	Q9UKV8	1	1	1	1	1	False
+673a5ff1e9eb71e9f4ce597ab556006ebebba414fa71bbe2287e813bbd3ddf7e	Focal adhesion kinase 1	Homo sapiens	Q05397	1	1	1	1	1	False
+678d7b3f7557c6b0a761f45cc3319a80ea88d6c4860a8d040f55f282752ac541	Programmed cell death 1 ligand 1	Mouse	Q9EP73	1	1	1	1	1	False
+683c3ad865014d7a8dcfb86834de0ddb0c072ffda44aa063d6a8d3e0dee9868e	Methylcytosine dioxygenase TET2	Homo sapiens	Q6N021	25	25	11	1	1	True
+68d60cea30219da8cef67dbcc1b81dcdebc8456663f7f54b6fb8cc6666a7b416	Dimer of Receptor-type tyrosine-protein kinase FLT3|Receptor-type tyrosine-protein kinase FLT3	Homo sapiens	P36888	10	10	10	3	2	True
+6a664650df1dd5b3134dc88db726e96e3be3c27fdbf274c80e3b9923ed7cd32e	ATPase family AAA domain-containing protein 2B	Human	Q9ULI0	20	20	3	2	1	True
+6c31587c1098bb81e39181baa3de0089f00cf9c86f90f32f003fe36e13d4374e	L-histidine 2-aminobutanoyltransferase		Q9HUX4	3	3	3	1	1	False
+6d45410f8f764999699c42d5765ae5ecdb14f1863a4e0de4cc504ba55ee1353f	Chitinase-3-like protein 1	Human	P36222	1	1	1	1	1	False
+6de0ad904d58312d0265ee7a480d38e55c5d8deab26c2a3bf2bd8483daf0fa77	Receptor-type tyrosine-protein kinase FLT3 [F691L]	Homo sapiens	P36888	6	6	6	1	1	True
+6df418116e5febc9c4d8cf98dbb21fcfc878641634e45ca040d4ed6db28159a7	Phosphoserine phosphatase		P78330	1	1	1	1	1	False
+6e26e4440fbb88773921bdb0995d9eea518fe1d6922f73cedb328beb62d3b124	Transcription factor 4	Homo sapiens	P15884	1	1	1	1	1	False
+6ebcd9d1f5201ce756f83bdc960921125f57a30d267f8b2993f4652f9c93a620	Peptidyl-prolyl cis-trans isomerase FKBP4	Homo sapiens	Q02790	11	11	6	3	2	True
+6ef31e1bc4afc523da622ec2732076c498b9cc99c8c3eeeeb5ef020dc9490d89	Urokinase plasminogen activator surface receptor	Homo sapiens	Q03405	1	1	1	1	1	False
+71376b3a50a1cc063e09d51d93e09c4aacc3b77edd60a922db188157a62b0de4	Peptidyl-prolyl cis-trans isomerase A	Homo sapiens	P62937	3	3	3	2	2	False
+7192d652f813d4d86f957b1edb7729c8adb429515fb591d7f4c6937a9d54dec2	Aurora kinase A	Human	O14965	9	9	8	3	3	True
+71c75d29add3938542716c997db4ce5b657f2759a4642773975ae9b7d12ea876	Sortilin	Human	Q99523	25	25	9	1	1	True
+741d5b5368b84456777eb2a6f9ef1b9fb372902b432b77def324e12b9e41be66	Adenomatous polyposis coli protein	Human	P25054	1	1	1	1	1	False
+74716bef5c87821e4b00db1043b6b1f1b4e661f13f1fc7dc3e9b3ceb33ba71d9	ALK tyrosine kinase receptor	Homo sapiens	Q9UM73	1	1	1	1	1	False
+754ea281cb5b88a30939cc91a228a422b1d166d2c553d766864c8c2e437c14bf	Exosome RNA helicase MTR4		P42285	1	1	1	1	1	False
+75c34e924155e3529903bd10daf1da3d8929c12d17075ff191d84ec07703843f	Glutamate carboxypeptidase 2	Homo sapiens	Q04609	35	35	29	2	1	True
+764ef6f778faca895ff91fffd4fa52f9d65cec8f985aed444769b03068e81c4b	Peroxisome proliferator-activated receptor alpha	Homo sapiens	Q07869	1	1	1	1	1	False
+77ed25650e717b3f610e42ef8e5c1c88d50e7485725032f8535448a0ca8b61b1	E3 ubiquitin-protein ligase Mdm2	Homo sapiens	Q00987	6	6	4	3	1	True
+78629f9a6e9c7169e285abcc382efc0d05823b93d595efbdc21377fc8ceb9bfe	COP9 signalosome complex subunit 1		Q13098	1	1	1	1	1	False
+79272c1d474226029cb7252fa73c7d476c74871292363197da0f1dd16fe44d85	Metalloproteinase inhibitor 3	Homo sapiens	P35625	1	1	1	1	1	False
+794d56c4e53ad15197d12fcee6c8231e888d2fc60728f4ef875561b80af2639d	Spike glycoprotein	2019-nCoV	P0DTC2	1	1	1	1	1	False
+79c891d01ebfd7d2089419c51eb05b0e6a36de252f45a9c559412d6de8aa8432	CD209 antigen	Human	Q9NNX6	2	2	2	2	1	False
+7b02f3d954c7c3f2e4745b0e62dbcfaf734b97c45b3e54edc23b1a72d30ca8ad	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	P04439	1	1	1	1	1	False
+7b8d960f96e40af6d8b8eef938d9dccaeebc526e0bdbafcbff4b6711fae64da6	Hypoxia-inducible factor 1-alpha [228-298]	Homo sapiens	Q16665	24	24	11	1	1	True
+7bbe2ac8b5a7a373218bf39d06746d6f15643ca3569e863725869863f5014356	Endothelial PAS domain-containing protein 1 [230-300]		Q99814	1	1	1	1	1	False
+7c1523d7d6bd86df82bb78f6bc72691ee4cfa9ad4bb95aabc4dc3e64d1bf831b	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma	Homo sapiens	Q8TBX8	44	44	30	2	1	True
+7c2c9a4005a08f9f8ed2ce2e3b7d9432dd39547abafef80ffab6adbb89753b2c	Peptidyl-prolyl cis-trans isomerase FKBP1A	Homo sapiens	P62942	12	12	5	2	2	True
+7c626d67b7728183c647d3ec913c34061573b652086f8b9b634c7cfd9be034a0	Tyrosine-protein kinase CSK	Homo sapiens	P41240	6	6	2	1	1	False
+7c85b904a2049dec5c358d8639ee15af3ec5754f5eb0707659b7b4daf57fce83	Small nuclear ribonucleoprotein Sm D2		P62316	1	1	1	1	1	False
+7db2f33ffda540524d72ecfa8c48ded2ffc54130d0184a0a9a0b54e646498b99	ATPase family AAA domain-containing protein 2	Human	Q6PL18	6	6	2	1	1	False
+7dce62d2cd1df42b72172807b1526b4ea9063242c59cee37913cf90b8706ad60	Ephrin type-A receptor 6	Homo sapiens	Q9UF33	1	1	1	1	1	False
+7eb7771a02b7d5021121f3f907256dc93327c839169733378362d291cb76e0ce	Bromodomain-containing protein 4 [58-164]	Homo sapiens	O60885	84	84	47	6	2	True
+7fc86ef9a59a068c6d4fc0bc0a79788fefa84907e386c561c7567bde52160b17	Tyrosine-protein kinase JAK2 [Y1007F,Y1008F]	Homo sapiens	O60674	50	50	28	2	2	True
+7ff04ddccf949e11263e780f4fb3492ae973c50c851a4df836fb5d6e323a318a	Bcl-2-like protein 1	Homo sapiens	Q07817	25	25	18	1	1	True
+808152c23dd7903f79cd211e69be307502872a8319329ebfdb49ad3c6d25ad55	Mitogen-activated protein kinase 10	Homo sapiens	P53779	3	3	1	1	1	False
+80be356aef4f71329822694d1d7129d6dd6bdaaee64fe2d62b1d68fc82d1ccdb	DNA damage-binding protein 1	Homo sapiens	Q16531	25	25	12	1	1	True
+815d17ae9639c4fa2db3f5b2238aff14950018c5d327f632fdda64dc07948f59	Selenoprotein H	Homo sapiens	Q8IZQ5	7	7	5	1	1	True
+82a10d76551a9414922a5d44292c93f21c722864c4991c2e42886d4fd0cd8353	Phenylalanine-4-hydroxylase	Homo sapiens	P00439	3	3	3	1	1	False
+838bd1d1720a9be02d2317ebabf1fb9b69d86beede4cec20226586bf3f0b6ea9	Ubiquitin carboxyl-terminal hydrolase 7	Homo sapiens	Q93009	1	1	1	1	1	False
+8400030088daa962283125365238a8cd19878b292ef12408c6457e69231e769f	Retinol-binding protein 4	Homo sapiens	P02753	5	5	3	1	1	True
+8421c9ba226d755ae65a38b8b2f4883a76dbb7784ebb41cf19ffa2468dbc9f98	Protein cereblon	Mouse	Q8C7D2	1	1	1	1	1	False
+84d75d50d5ce7d3a10265d181511b7da2f50e01e04405dbdd23c36b13f73600e	Virulence factor transcriptional regulator MvfR	Pseudomonas aeruginosa		1	1	1	1	1	False
+850aba8ba2a5e1681e7e3dbc08958a52248c816c95be57b749d282e591253998	Nuclear factor erythroid 2-related factor 2	Homo sapiens	Q16236	4	4	4	2	1	False
+8625b8e5664220caffd8c457d023faa6156bab712d487986eaeab87c99b668e5	Tumor necrosis factor	Homo sapiens	P01375	2	2	2	1	1	False
+86474905e2d1f55fde60c48c187f901d56f9e9fdd998cfbe2c648a843b6e9aab	Serine/threonine-protein kinase Nek9	Homo sapiens	Q8TD19	1	1	1	1	1	False
+87744367b800f3cc95c3a6d293b833f1eb880275dbff337dd1b2025d071efdaf	Protein-tyrosine kinase 2-beta	Homo sapiens	Q14289	1	1	1	1	1	False
+8a6ef4835aaa5936819e4afa31171cbb3f03d0ba950280494c8072794d1d9ec6	Microsomal triglyceride transfer protein large subunit	Bos taurus	Q9Y3I0 P55156	1	1	1	1	1	False
+8aaa3dd189e99d4f3e31d0cd954bbab120f3c76b37754400d84903bf93690fcf	Aquaporin-1	Homo sapiens	P29972	1	1	1	1	1	False
+8b580bb0bb1537e3becb4733f6f91562b790fe669fbfa64f004744df8641cf14	Nucleoprotein	Influenza A virus (strain A/Wilson-Smith/1933 H1N1)	P15682	5	5	5	2	1	True
+8bc8432fcc649b965ed9bfaef63c595d023537a985c3b242768bac1f1bf32fb1	Non-receptor tyrosine-protein kinase TYK2 [556-888]	Human	P29597	107	107	44	6	2	True
+8c07f9a471c4e3f34ebcee726c63941496328a5183bb6987488a4734e9659730	Pre-mRNA-processing factor 6		O94906	1	1	1	1	1	False
+8c9af87b44d8f7616b04934bbac932411a6e0eb650682054d92aafd77c2ab1a4	NACHT, LRR and PYD domains-containing protein 3	Mouse	Q8R4B8	7	7	5	1	1	True
+8cd938d461fa1a3017d840bb584b4e2a5a1d03000e2c359dc0080475b0cb3af7	Serine/threonine-protein kinase DCLK1	Homo sapiens	O15075	1	1	1	1	1	False
+8d1fc91f90056f7fc4e638d2dbf7cd73c12e30e4e9cb97c76cac1d5b308643ed	Stimulator of interferon genes protein	Homo sapiens	Q86WV6	14	14	6	2	2	True
+8d5931178af016b7914566577f5b490174948917324c7a6db74dca9e3dcaf94c	Mas-related G-protein coupled receptor member X2	Homo sapiens	Q96LB1	26	26	12	2	2	True
+8dc9c905c8dd258303447692e16cf50ec23150e51737ac8fa4380670decb32b9	C-type lectin domain family 4 member K	Mouse	Q8VBX4	1	1	1	1	1	False
+8e730faac3c6b87a7879f190ab3c77de56fd10330176561ba7ae08dbfa1144f0	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3	Homo sapiens	O94766	5	5	5	1	1	True
+8f2e0977834e932b19f9a7b8f8e5b9ed6eb97c7c2aaedddbead55aa8e21898bc	Bromodomain-containing protein 2	Human	P25440	2	2	2	2	1	False
+90eb126213d7187353b8576a84b049128ad4419ba9c6fa21828cb4ac658a32a5	Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2	Homo sapiens	O15357	1	1	1	1	1	False
+94438bfcc4ab0fe4309b0436589d66e5d9aa4804cf0e4c4c7d2745ad7dabbaf4	Thyroid hormone receptor beta	Homo sapiens	P10828	2	2	1	1	1	False
+945340616bafd8d32b4cdb5a4f6a1f13ee9de829fd7daccf5f63fc94149d6b34	Kappa-type opioid receptor	Homo sapiens	P41145	1	1	1	1	1	False
+94598ef6b31dd758a4cd8c66de1f93dc6081f3eca13ae4ee8a1c6bbd21e668ef	Cyclin-dependent kinase 8	Homo sapiens	P49336	1	1	1	1	1	False
+965a796bdc7b10fc12f86d5221123e411b8363e16b2279ca1261cb92230b8867	Polymerase basic protein 2	Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	P03428	7	7	3	2	1	True
+9674ae254efaa5e9723195db2f9fc83efdfa15733fe9b2b2af9e6fc93dcb31ab	GDNF family receptor alpha-like	Homo sapiens	Q6UXV0	1	1	1	1	1	False
+9796e4a195066b95cb46d4fbb869f06afddbe3672b9e1f789fa4e3e5c9560e0c	Galectin-3	Homo sapiens	P17931	22	22	16	6	2	True
+97bc21cd2f2917ad77b078e38683a41868916502e86b797a29fbb1b60ebe7be0	Nuclear receptor subfamily 4 group A member 1	Homo sapiens	P22736	1	1	1	1	1	False
+9947d2c5b5ddc2893700fa695c8c05d8b1cd28213fdf19298eb174d8e85d3013	Speckle-type POZ protein	Homo sapiens	O43791	1	1	1	1	1	False
+9a06387610edd099466d614941c42a433f444feb6a8f25375bb0b6ad8ec9c6f4	Alpha-synuclein	Human	P37840	21	21	21	2	2	True
+9a7208cc38ffaf6187e6512b3a0ae3165f46d707d42414cf9514a2c748d50781	Perforin-1	Mus musculus	P10820	1	1	1	1	1	False
+9a7fa3c16640c215ee56fb067330853d5928b50181834259d9e00abb24e9b751	Histone deacetylase 6	Homo sapiens	Q9UBN7	18	18	6	1	1	True
+9c4089da85ef3c06dde2c14def7afc4a2e1452947ca9abf34025f90a101db770	Fibroblast growth factor receptor 3	Homo sapiens	P22607	9	9	7	2	1	True
+9c418558debe0111e149ea23391b9add685b7a614ff1bcb195a5ebb38cde9d7e	B-cell lymphoma 6 protein	Homo sapiens	P41182	1	1	1	1	1	False
+9c4ba426b4bb5839d7f3e266bb7de61f0d4ebb64f816e7be4618bda801832772	Cyclin-dependent kinase 3	Homo sapiens	Q00526	1	1	1	1	1	False
+9c9c4db1c101c92124e1636ae0bcadc314c113c4949c05c9e3dfd370764d8bce	Histone-lysine N-methyltransferase 2A	Human	Q03164	5	5	5	1	1	True
+9d75df3126475e512fa7e1f554e1dcc9e33b9de3a06e5a1eda68423360140dc9	Transport and Golgi organization protein 1 homolog		Q5JRA6	1	1	1	1	1	False
+a0d8504fc2ce28870415fc343e3f9d05f8ab9b574fa9e28f0f89d5b6cbc2a563	PC4 and SFRS1-interacting protein	Homo sapiens	O75475	11	11	9	1	1	True
+a36552c8f3b13fad86f99fde2f517461b6550aa81de417c6efa48913dc468ac9	Transcription initiation factor TFIID subunit 1	Homo sapiens	P21675	2	2	2	2	1	False
+a4780e73fe10f77f1f3acbdc06a6a1f15d098c27a3794d4d1b8bab2ca058898e	Serine/threonine-protein kinase 3	Homo sapiens	Q13188	1	1	1	1	1	False
+a7d9a89cc8dc6bcdb2a2b1ed5e18cf866ad6c8effe8391aaea05bc9dbe6b7ce7	Decaprenylphosphoryl-beta-D-ribose oxidase	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	A0R607	1	1	1	1	1	False
+a88b80dc9745da7cc614df45d0ba8cefbe6c6b1056adfe52757637061d8abb8c	Galectin-7	Homo sapiens	P47929	2	2	1	1	1	False
+a9d70e6dd79a9d6d5fef6772b08efb426eba56ffbc49737c550220e71c521746	Muscarinic acetylcholine receptor M1	Human	P11229	2	2	1	1	1	False
+aa54247704f55ea2a11e5e339c873318fa24bfd23de6d43aa67e2f416e2b8e82	Tyrosine-protein kinase Mer	Homo sapiens	Q12866	1	1	1	1	1	False
+ad4a5bdfd3dd373122efafb7a854e7165d7e1c52a871a1e1103824f40bf137ec	Similar to alpha-tubulin isoform 1	Bos taurus		2	2	2	1	1	False
+adf7550c0de1442de9b1fa18ef686aa06034c744dd00274713b33b14e69f8132	Tyrosine-protein kinase JAK3  Protein [521-781]		P52333	2	2	1	1	1	False
+ae66f15995026742f1962da6ccc722c3d8a5f154b9d6bd2622898390db9efc77	Cytochrome P450 2A2	Rattus norvegicus	P63316 P15149	7	7	2	2	1	False
+af1da04ff0aec04b89f2c4605eb222fc00ba4b5fdb08b537f284cac275b33a17	cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A	Homo sapiens	Q9Y233	1	1	1	1	1	False
+af987650896002d008d596b93aa829ede1afa3e3b9ed769b9a8f70afd7be25d0	Peptidyl-prolyl cis-trans isomerase FKBP5	Homo sapiens	Q13451	9	9	5	2	2	True
+b027a0b811987bd858a3b188bb8cc1cfe5cc82bb2d4df72330d5f9e957c8123b	ATP-dependent Clp protease proteolytic subunit	Escherichia coli (strain K12)	P0A6G7	1	1	1	1	1	False
+b04020d6a298b87e7e20c83b346f59825468dc2001355b699e4b91d67d9bea6c	Heat shock protein HSP 90-alpha	Homo sapiens	P07900	12	12	6	2	2	True
+b07f4d5a82f88e0062e88c59e5952c30fadb02208c669fc1acaf03307a73dc14	Succinyl-diaminopimelate desuccinylase	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	P44514	1	1	1	1	1	False
+b13035f135fd81cf7050efeebd189db3b535ce19e7efee51566f4e9e2931d717	Ricin	Ricinus communis	P02879	18	18	9	1	1	True
+b16f52f0d04b72927ee4e0cbe247b9d446ac4466ec87c4bf055470e04b94b895	Elongin-C	Homo sapiens	Q15369	41	41	14	5	1	True
+b1b17c7fca3cbab15bc66b90bd4c07f73617cb5a03db105b0a38084fe7bca48b	Programmed cell death 1 ligand 1	Human	Q9NZQ7	35	35	12	3	2	True
+b418f70224777134a1f0353cbb08098e62eee040839bebd2320e4222211eb581	Interleukin-1 beta	Human	P01584	1	1	1	1	1	False
+bacc1183551b7365dbe3b112a2a403f145940e3c5d05518dd80572c7c42f7c89	Shiga-like toxin 2 subunit A		P09385	7	7	4	1	1	True
+bad437a417a184a712dc35dd65c7178f5671e77cc8a22b2f2c547b14e215d08a	Cell division cycle protein 20 homolog	Homo sapiens	Q12834	1	1	1	1	1	False
+bb8d4ddedb5cd0daf2e688e644633a2c5376e718cb62935cb3380dcf38173bf8	Replicase polyprotein 1a	Severe acute respiratory syndrome coronavirus 2	P0DTC1	25	25	18	2	2	True
+bc397cc8eb78693a226a23c89a09eb3c0054deef0ef8c9cae74b11a491fad1df	Endothelial PAS domain-containing protein 1	Homo sapiens	Q99814	10	10	5	1	1	True
+bcb49e7e1db8d95c084172bca13d3b727991096f26dafdcb0033251b4542027a	Fibroblast growth factor receptor 3 [V555M]	Homo sapiens	P22607	45	45	26	3	2	True
+bd38fcffc08644dd8539bdd66fd9acc59c09dc9402aff58b35b696194040787e	C-type lectin domain family 4 member M	Human	Q9H2X3	3	3	3	2	1	False
+beaa825e538b5313d28a569c239d221a99cd820cd630fb9da229ad507b1af1d5	Stimulator of interferon genes protein [149-345]	Human	Q86WV6	12	12	4	1	1	True
+bef6f3ed8ba05069a93adb66da0929b672f424a3f7b6fe3f8c6b4ce2ffadc2f1	Bromodomain-containing protein 3	Human	Q15059	1	1	1	1	1	False
+bf4a1384a527c5eaf74b093f1d2cbcc91c5061b76cc4ef041263f1d101bae296	Galectin-8	Homo sapiens	O00214	14	14	8	3	1	True
+bf5ccc817349256c1c2f16dd66d61bfcd29ac4897fdead01d85e01cd84e33670	Tyrosine-protein kinase ABL1	Homo sapiens	P00519	1	1	1	1	1	False
+c0015db19709133b4b8ab1e5064ef58c474a7bd91fd4a59ffe0f5370a95b74d1	Mitochondrial 2-oxodicarboxylate carrier	Homo sapiens	Q9BQT8	1	1	1	1	1	False
+c03733fc6f7569b39bc39c3dc02c986311ac0268b2298e8693221c722cff6861	Son of sevenless homolog 1	Homo sapiens	Q07889	26	26	16	2	2	True
+c16014a50fd255a89b7b3cd8f7313f25d1aae69d3a4222cd9692098a496fe5fa	Cysteine proteinase falcipain 3	Plasmodium falciparum (isolate 3D7)		1	1	1	1	1	False
+c1d9753f99d3ebfbe100b2343f4bfbb33d70757beb8a8afd001024164c2ed4d6	Protein polybromo-1 [676-746]		Q86U86	6	6	2	1	1	False
+c23774877979c872f09c2f4660be61f586eb79ded86ab9755b7cf889bf6718fb	Tyrosine-protein kinase JAK1 [875-1153]		P23458	1	1	1	1	1	False
+c2605143e7573a8e4485a8559fa67e5a99f862682b894e9c3a1302296f6f5efe	Fatty acid-binding protein 5	Homo sapiens	Q01469	6	6	1	1	1	False
+c2826a2895a762da0611b28241dd11a097c76ea96df17bf036756f03b3b31fe4	Replicase polyprotein 1a [1564-1878]		P0C6U8	25	25	20	2	2	True
+c439463f0f8ad68eb087a547bccd2e0cf18e31b66268a57550f163b4777daa3a	REST corepressor 1	Homo sapiens	Q9UKL0	2	2	2	1	1	False
+c497f29417b886ff019812f69b1ed95fa872225c9180283496bec6d9ca65f664	Cannabinoid receptor 2	Homo sapiens	P34972	14	14	12	1	1	True
+c81b4e9e806e0ace9f779e65477e6c988dea6cad5eecfbcb35f2364c5fc884dd	Fibroblast growth factor receptor 2	Homo sapiens	P21802	12	12	10	3	2	True
+c8c009a1d018bf32ac9dcd2e112348a187aaacb87effcc74bb01aeedaac8b85c	Son of sevenless homolog 2		Q07890	1	1	1	1	1	False
+ca8783b8053e1373c8358af24d59933449f4a63bbae1a5f44f9b3c81490c6c7f	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	Homo sapiens	Q13627	5	5	5	1	1	True
+cab613756512beb55d4fe50fecb7ec1a805e7b68a08ef02d64bf04d1b76ce90a	Non-receptor tyrosine-protein kinase TYK2 [897-1176]		P29597	1	1	1	1	1	False
+cbbfcc670c8d3cfe5351d9417fad177009931986ab5207bc8bd5898e389de502	Serine/threonine-protein kinase pim-1	Human	P11309	3	3	3	1	1	False
+cccfc1d98eae3098eabc4172a1261029642e3f31e5bbc317cc8a820a75086f1d	RAF proto-oncogene serine/threonine-protein kinase	Homo sapiens	P04049	5	5	2	1	1	False
+cd085d4391829da9e96878c9f2170c05c298e1c4c86a7f810400d6adda64bbb6	Glutathione S-transferase P	Homo sapiens	P09211	1	1	1	1	1	False
+cec2dc8185071d2471c2ffb76eb116689cee6fd1f09e350e04d908712bc1ebc8	Tyrosine-protein kinase JAK2 [536-812,V617F]		O60674	3	3	2	1	1	False
+cefe1c176699342ae77190e27db430f96ea13906d014bad93f17570052d770a2	Stimulator of interferon genes protein [1-379,R71H,G230A,H232R,R293Q]	Homo sapiens	Q86WV6	24	24	9	2	2	True
+cf44984a930bc34a258af48ca94cb2e4ffaa34f44ef859a318c7c491dd44d5bb	Phosphoglycerate mutase 1	Human	P18669	1	1	1	1	1	False
+d03e72dda9823b817d1f46412f3cdb7330d7847621dbbb03201048178cc4e630	Biotin--[biotin carboxyl-carrier protein] ligase	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)		12	12	10	1	1	True
+d07722a95e38b3a5df0e01311cb4f97ec309d88e7d9f1eaba11f45263557c1e9	Targeting protein for Xklp2	Homo sapiens	Q9ULW0	11	11	7	1	1	True
+d0ba9f9f7c16120c11d2b27069e9f2975301cda3192eb31cabc0612873e44fb7	E3 ubiquitin-protein ligase CBL-C		Q9ULV8	18	18	10	1	1	True
+d1e98792da352b2d83ccca532e6144d5e51ae1b39a9c272494a4c18a7d3ec3fd	Interleukin-1 receptor-associated kinase 4	Homo sapiens	Q9NWZ3	4	4	4	2	2	False
+d4b1fe8b0ef4efd0ba5b5981f1b31dc2dfbedcf7d3460360c5c6e5ed5b84f1cb	Non-receptor tyrosine-protein kinase TYK2 [5-1181]	Mus musculus	Q9R117	1	1	1	1	1	False
+d63dac9f5688131e7e7cc90de73ec5ba65bec283577307796640c933b88a8655	Polymerase acidic protein	Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	P03433	4	4	4	2	1	False
+d69abe2f5629e994106c1af7eba3c6b744377a6492bba79182fc81075a33b3d1	cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A	Rattus norvegicus	Q9QYJ6	2	2	2	1	1	False
+d83b5e9fba684bbe311c5622a1dd634d55638b2325aac194ed85ab95305091ac	Carbonic anhydrase 3	Homo sapiens	P07451	1	1	1	1	1	False
+d8d9a09c8537a7676740bd7d6b18a14177e983ab4baf3d811f4fbd174960388b	Hemagglutinin	Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	P03452	1	1	1	1	1	False
+d9038a28b26993b5f36dd75e7be1e5ba9326d3ac80b9eace95634d83015fec29	CD2 antigen cytoplasmic tail-binding protein 2		O95400	1	1	1	1	1	False
+d9fc79386f5526c967b0d5b31bf5d0a5c90e715870f3b6c45418a179469d91cf	Receptor-interacting serine/threonine-protein kinase 2	Homo sapiens	O43353	22	22	13	1	1	True
+da1a6fa53c530f50e7ee49f5abeb5391aa96639a6de854b40f177873dabdbc61	Transcriptional enhancer factor TEF-3	Homo sapiens	Q15561	1	1	1	1	1	False
+da3b17f4cd227b0ca94d4dcdc252f3ec7e7969b638b367ebf09dd8d7577263ea	1-phosphatidylinositol 3-phosphate 5-kinase	Homo sapiens	Q9Y2I7	8	8	5	1	1	True
+db890973adef0cf92cef22aff779b77ab85ce8845cca5671811ec9bb02979c08	Non-receptor tyrosine-protein kinase TNK1	Homo sapiens	Q13470	1	1	1	1	1	False
+dbb4583267ad40a7dfd854ee3c44ce4be38e137d0570e3eb76cf1854a74e7246	Epidermal growth factor receptor	Human	P00533	5	5	4	2	2	True
+dcea8a55179537868ff898044099f92e9f3795e7d5016dd84383b40c260d0e20	Peptidyl-prolyl cis-trans isomerase		Q63J95	2	2	2	1	1	False
+de5d96c9d8e7a9085c334baf9c5585f73e03c0c43088632aeb433318aadab21a	N6-adenosine-methyltransferase catalytic subunit	Homo sapiens	Q86U44	1	1	1	1	1	False
+ded6a6063fb8cd20aa0286c4dd059d4044072974d434a10e912500ab8012373f	Staphylococcal nuclease domain-containing protein 1		Q7KZF4	1	1	1	1	1	False
+dee921327ae6711666ca4416838c17e82bdd59a32d85fa728e7ad91e65e86cda	Tyrosine-protein kinase JAK2 [808-1132]	Homo sapiens	O60674	5	5	4	2	1	True
+defa1995fbabefcd7f4bf6dab888d02769c2ab647bb8d52c3e2e827bd3630cfe	Fibroblast growth factor receptor 4	Homo sapiens	P22455	5	5	5	1	1	True
+df8894092939153004f0141213875f326ca73a8c9cc7cd2617f1050ad0ae0f79	Bromodomain-containing protein 4 [348-457]	Human	O60885	3	3	3	1	1	False
+e11a8ca0d0d551f3fa704c31f4d0af57361c9d19d838a54bdd6b63528cbb7a1e	Insulin-like growth factor 1 receptor	Homo sapiens	P08069	1	1	1	1	1	False
+e21eccad4aa906413ff8b7fcb1a5b107b313731e4054371ff21c72b73ba7ed6f	Mitogen-activated protein kinase 8	Homo sapiens	P45983	4	4	2	1	1	False
+e3ee1debd824d0bf66e328728a7470ef914d7f59ae2eb518f89359d8a502d4c3	Protein enabled homolog		Q8N8S7	10	10	3	1	1	True
+e435edc925a4c41f7283d79a822161a4a90fcaab3a03458e2b1837c49445b88a	Tyrosine-protein kinase JAK2 [536-812]		O60674	25	25	18	4	2	True
+e5e77a81bf7caedc963adee088acfb737d57a9286008e70f828c106e956c3807	Tyrosine-protein kinase JAK2 [549-809]		O60674	1	1	1	1	1	False
+e6a24c903c1ef211037c64a6835a8a484f48b17be1cae50d6998913f21acf7d4	Carbonic anhydrase 2	Homo sapiens	P00918	5	5	5	1	1	True
+e789dada59f2ab0f7f8922804e2c42c298767cdee2e7523abe368dfb9b0b3a69	Metallo-beta-lactamase type 2	Klebsiella pneumoniae	C7C422	4	4	4	1	1	False
+e884d430f3b5b239091233d48f91b78d095ad4471ce7b0da5b26142de2221b9b	Mixed lineage kinase domain-like protein	Homo sapiens	Q8NB16	37	37	31	2	1	True
+e9dfe3add14d17a938d9a42fa9356ddc680181c6d3029b216f9a4577c92b8cb4	Insulin-like growth factor 2 mRNA-binding protein 1		Q9NZI8	1	1	1	1	1	False
+ea4721a5ea93bf6d6e23f044cdf5efdac2cb780beda957487e86397b35fb1738	Palmitoleoyl-protein carboxylesterase NOTUM	Homo sapiens	Q6P988	1	1	1	1	1	False
+eaa4d9125eb954d2e4c3512e1954714e862c62da4bc83ac938ec8da98b36de55	Non-receptor tyrosine-protein kinase TYK2 [575-869]	Homo sapiens	P29597	19	19	11	3	1	True
+eaa4e0dc7e76ccef71fba73be558dd7ae0cd85fd3912a261f0311d3d647b0d6e	Disks large homolog 4	Homo sapiens	P78352	1	1	1	1	1	False
+eaa8c7dfaf8ba390e51c80348326406f3e90e4ce1094b226b729704e3e07b204	Tumor necrosis factor ligand superfamily member 11	Mouse	O35235	1	1	1	1	1	False
+eb7ee6827d8cbf99beea37ed7f1c72ea84d307f3e331b29d74450846e9708f47	Proteasome subunit alpha type-5	Homo sapiens	P28066	1	1	1	1	1	False
+ebf4214c30c2192a7bd93c136eb344901ae051e1c0ccf52581a4cf7c26209514	Opioid-binding protein/cell adhesion molecule	Homo sapiens	Q14982	7	7	1	1	1	False
+ed2277a5b7e4e7c44a5a8b9cb05f59452041ffcfcca4654de1a91e4705570cda	Transient receptor potential cation channel subfamily V member 1	Homo sapiens	Q8NER1	2	2	2	1	1	False
+edbd5d8a5deb16bfd31ff3029c7897b816b752cb26cd0dcf23d089dcdd841586	Replicase polyprotein 1ab	Severe acute respiratory syndrome coronavirus 2	P0DTD1	20	20	14	4	2	True
+eec310a36523cb25d98cfd2dc2aceb2e7613ce5d0f9ef8174423cfdaca60426b	Transcriptional enhancer factor TEF-1 [209-426]		P28347	10	10	10	1	1	True
+ef0ddbb0badae4eac53608fa57cf54c55cb837d4929048fa6a2339bb30ae8f03	Fibroblast growth factor receptor 1	Homo sapiens	P11362	20	20	16	3	2	True
+ef2ecaee961cda44828ee9144844c80066acc9576e6a151eea65a9dd88a83041	Nuclear factor erythroid 2-related factor 2	Mus musculus	Q60795	4	4	1	1	1	False
+ef8b07bce27abb747f01b09be269d0ec00793616982128a5643473fba6a69e3a	Methionine--tRNA ligase			1	1	1	1	1	False
+f0b07556edef0452100ab166e3bf1b651c238ba0b7aca80d636b8bd45d47db6c	Tyrosine-protein kinase JAK1 [583-855]		P23458	17	17	14	3	2	True
+f1abca78483b429cc1240887e33597665acc95204d7e8994adc997e3859402e4	Lethal(3)malignant brain tumor-like protein 3	Homo sapiens	Q96JM7	1	1	1	1	1	False
+f1d0798fd964ea83a5c89eebdb57b2c8b113a2cb954cf99c661ff5c37be68a52	Lanosterol synthase	Homo sapiens	P48449	1	1	1	1	1	False
+f230056fbc4ea3b7be7fa4b1258220090ef94e536838664341112d6b83101f4b	Tyrosine-protein kinase Fer	Homo sapiens	P16591	1	1	1	1	1	False
+f27fcd0d573a97b87476bb6787bfb3132e8594fa25210161422b16fdc56815cc	BAG family molecular chaperone regulator 3	Homo sapiens	O95817	6	6	6	1	1	True
+f3b618f7f525879ec1eb5098b27675243997eeea419eb453488cfefab098226f	Dual specificity protein kinase CLK1	Homo sapiens	P49759	5	5	5	1	1	True
+f3dc4d33671931ee13dc20fdb332ac32302dc4385d5dfd464acf8f9f8a0add76	E3 ubiquitin-protein ligase CBL-B	Homo sapiens	Q13191	8	8	6	2	2	True
+f44af7da75e9935ccc92591ff5a6f660510b7693aaed32b899f023b27988eb08	GTPase NRas [G12D]		P01111	50	50	24	2	2	True
+f536972711a192fba8626f43ad298b42b597a263c470d6773ef1f53ea55ee7d0	Histone acetyltransferase type B catalytic subunit	Homo sapiens	O14929	1	1	1	1	1	False
+f6dfd782829fb63a984eb13e892cf349463cb59146038caa7f915c05ffcbb9ba	Heat shock protein 90		P40292	24	24	21	2	2	True
+f81b3d57ede8458226720b8c5e800d40af8b144012767795e6bd8250a93a75a2	Tyrosine-protein kinase JAK1 [866-1154]	Homo sapiens	P23458	8	8	2	1	1	False
+f882612846d661bdc65565cad507904ce902a0c27860dbd9829f841914a7c3c2	E-selectin	Homo sapiens	P16581	1	1	1	1	1	False
+f8ee24a43bff700620ee6d489592c110b5897c7ee694aea1965b46264c679d9f	Leukocyte tyrosine kinase receptor	Homo sapiens	P29376	1	1	1	1	1	False
+fb619a5b2a22bab98d1ec43db4cd85b129d53b99bbc0c2ca00a44fdd421828ab	Protein Mdm4	Homo sapiens	O15151	5	5	3	2	1	True
+fbcde77d0cdd615cde41fed0c8aa3d80bb86a56d8b9854a352830499b096eacf	Tyrosine-protein kinase JAK2 [536-812,V617F,W659A,W777A,F794H]	Homo sapiens	O60674	4	4	3	1	1	False
+fc502b7363283bca3ea0e276ed1d65d0ae8d5064519a226a06f9c77059235b6f	Prolyl endopeptidase FAP	Homo sapiens	Q12884	14	14	3	1	1	True
+fc7e217443f8e66fc4af3971109e40c570f998fb293d1bf4f799cffcc127e76b	Vascular endothelial growth factor receptor 2	Homo sapiens	P35968	2	2	1	1	1	False
+fce6a9d7757a2029e8e81bee3fbc6d10aaf3667093bb265f1ae015c685279564	Proto-oncogene tyrosine-protein kinase Src [84-145]		P12931	25	25	18	1	1	True
+fe0f2938edfd18c2c9f2df082bac78d860a1460d38e102b538af545f1149c540	Non-receptor tyrosine-protein kinase TYK2 [888-1187]	Homo sapiens	P29597	24	24	15	3	2	True
+fe22d91e18cd544a85d7c768cd864172200252df906b774d890dc103224f7c8d	Cyclin-dependent kinase 2	Homo sapiens	P24941	25	25	4	1	1	True
+fed25e5f15981fd6c829c6bf13f0294382b6323dd8acd2c7c883d069f7d9ea43	Protein AF-9	Homo sapiens	P42568	1	1	1	1	1	False

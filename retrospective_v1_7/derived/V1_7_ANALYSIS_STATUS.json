@@ -1,0 +1,16 @@
+{
+  "schema_version": "science_advances_v1_7_scientific_upgrade_v1",
+  "generated_at": "2026-08-02 07:28:54 UTC",
+  "immutable_prior_result": "v1.5 restricted source shift transport failed",
+  "retrospective_status": true,
+  "model_specifications": 5,
+  "nonreference_algorithm_families": 2,
+  "external_sources": 2,
+  "external_pairs": 26818,
+  "document_cluster_bootstrap_replicates": 1000,
+  "local_recalibration_repeats_per_budget": 100,
+  "independent_random_sample_human_adjudications_signed": 0,
+  "risk_stratified_human_adjudications_signed": 0,
+  "prospective_new_source_completed": false,
+  "interpretation": "Source-wide rank association is evaluated jointly with within-document and within-target rank decomposition, crossed dependence, cluster influence, point utility, and uncertainty transport."
+}

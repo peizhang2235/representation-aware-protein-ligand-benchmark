@@ -1,0 +1,616 @@
+{
+  "checks": [
+    {
+      "check": "all structural gates passed",
+      "passed": true
+    },
+    {
+      "check": "pair count is 2689",
+      "passed": true
+    },
+    {
+      "check": "exact-protein count is 340",
+      "passed": true
+    },
+    {
+      "check": "document-component count is 292",
+      "passed": true
+    },
+    {
+      "check": "eligible-target count is 126",
+      "passed": true
+    },
+    {
+      "check": "locked decision branch retained",
+      "passed": true
+    },
+    {
+      "check": "four source-wide supports retained",
+      "passed": true
+    },
+    {
+      "check": "one material-attenuation support retained",
+      "passed": true
+    },
+    {
+      "check": "primary table has 16 model-endpoint rows",
+      "passed": true
+    },
+    {
+      "check": "all four primary models retained",
+      "passed": true
+    },
+    {
+      "check": "all four primary endpoints retained",
+      "passed": true
+    },
+    {
+      "check": "primary table reproduces four source-wide supports",
+      "passed": true
+    },
+    {
+      "check": "primary table reproduces one material attenuation",
+      "passed": true
+    },
+    {
+      "check": "within-target point estimate is lower in all models",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: Outcome-unexposed temporal aggregate separates global transport from model-specific target ranking",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: heterogeneous_or_inconclusive",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: Holm-adjusted value across endpoints was P = 0.115",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: not a calendar-prospective or source-independent replication",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: No temporal label was used for fitting",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: owner-readable mode 0400",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: does not consume or replace that registry",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: ## One-sentence summary",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: Fig. 6A and table S8",
+      "passed": true
+    },
+    {
+      "check": "manuscript contains boundary: figs. S12 and S13",
+      "passed": true
+    },
+    {
+      "check": "title contains no more than 125 characters",
+      "passed": true
+    },
+    {
+      "check": "short title contains no more than 40 characters",
+      "passed": true
+    },
+    {
+      "check": "one-sentence summary contains no more than 135 characters",
+      "passed": true
+    },
+    {
+      "check": "abstract contains no more than 150 words",
+      "passed": true
+    },
+    {
+      "check": "temporal result is not assigned a seventh main figure",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S9_TEMPORAL_PRIMARY_ENDPOINTS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S9_TEMPORAL_PRIMARY_ENDPOINTS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S10A_TEMPORAL_LOCKED_SENSITIVITY_POINT_ESTIMATES.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S10A_TEMPORAL_LOCKED_SENSITIVITY_POINT_ESTIMATES.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S10B_TEMPORAL_SOURCE_ORIGIN_INTERVALS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S10B_TEMPORAL_SOURCE_ORIGIN_INTERVALS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S10C_TEMPORAL_RESAMPLING_SENSITIVITY.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S10C_TEMPORAL_RESAMPLING_SENSITIVITY.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S11_TEMPORAL_SECONDARY_METRICS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S11_TEMPORAL_SECONDARY_METRICS.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table exists: Table_S12_TEMPORAL_RANK_COVARIANCE_DECOMPOSITION.tsv",
+      "passed": true
+    },
+    {
+      "check": "submission table matches locked source: Table_S12_TEMPORAL_RANK_COVARIANCE_DECOMPOSITION.tsv",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_T1_v1_12_temporal_architecture_test.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_T1_v1_12_temporal_architecture_test.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_T1_v1_12_temporal_architecture_test.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_T1_v1_12_temporal_architecture_test.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_6_outcome_blind_temporal_validation.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_6_outcome_blind_temporal_validation.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_6_outcome_blind_temporal_validation.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_6_outcome_blind_temporal_validation.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS1_v1_12_temporal_architecture_diagnostics.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS1_v1_12_temporal_architecture_diagnostics.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS1_v1_12_temporal_architecture_diagnostics.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS1_v1_12_temporal_architecture_diagnostics.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S12_temporal_architecture_diagnostics.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S12_temporal_architecture_diagnostics.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S12_temporal_architecture_diagnostics.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S12_temporal_architecture_diagnostics.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS2_v1_12_resampling_and_source_heterogeneity.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS2_v1_12_resampling_and_source_heterogeneity.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS2_v1_12_resampling_and_source_heterogeneity.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_TS2_v1_12_resampling_and_source_heterogeneity.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S13_resampling_and_source_heterogeneity.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S13_resampling_and_source_heterogeneity.svg",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S13_resampling_and_source_heterogeneity.png",
+      "passed": true
+    },
+    {
+      "check": "figure exists and is nonempty: Figure_S13_resampling_and_source_heterogeneity.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure receipt is complete",
+      "passed": true
+    },
+    {
+      "check": "figure receipt contains 24 build and submission outputs",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_MANUSCRIPT_READY_TEXT.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_TEMPORAL_FIGURE_LEGENDS.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_TEMPORAL_TABLE_TITLES_AND_NOTES.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_SCIENTIFIC_AND_EDITORIAL_AUDIT.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_COVER_LETTER_DRAFT.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: V1_12_DATA_AND_CODE_AVAILABILITY_DRAFT.md",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S8_TEMPORAL_DESIGN_AND_FREEZE_AUDIT.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S9_TEMPORAL_PRIMARY_ENDPOINTS.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S10A_TEMPORAL_LOCKED_SENSITIVITY_POINT_ESTIMATES.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S10B_TEMPORAL_SOURCE_ORIGIN_INTERVALS.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S10C_TEMPORAL_RESAMPLING_SENSITIVITY.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S11_TEMPORAL_SECONDARY_METRICS.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Table_S12_TEMPORAL_RANK_COVARIANCE_DECOMPOSITION.tsv",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_T1_v1_12_temporal_architecture_test.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_T1_v1_12_temporal_architecture_test.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_T1_v1_12_temporal_architecture_test.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_T1_v1_12_temporal_architecture_test.tiff",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_6_outcome_blind_temporal_validation.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_6_outcome_blind_temporal_validation.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_6_outcome_blind_temporal_validation.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_6_outcome_blind_temporal_validation.tiff",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS1_v1_12_temporal_architecture_diagnostics.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS1_v1_12_temporal_architecture_diagnostics.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS1_v1_12_temporal_architecture_diagnostics.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS1_v1_12_temporal_architecture_diagnostics.tiff",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S12_temporal_architecture_diagnostics.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S12_temporal_architecture_diagnostics.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S12_temporal_architecture_diagnostics.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S12_temporal_architecture_diagnostics.tiff",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS2_v1_12_resampling_and_source_heterogeneity.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS2_v1_12_resampling_and_source_heterogeneity.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS2_v1_12_resampling_and_source_heterogeneity.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_TS2_v1_12_resampling_and_source_heterogeneity.tiff",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S13_resampling_and_source_heterogeneity.pdf",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S13_resampling_and_source_heterogeneity.svg",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S13_resampling_and_source_heterogeneity.png",
+      "passed": true
+    },
+    {
+      "check": "deliverable exists: Figure_S13_resampling_and_source_heterogeneity.tiff",
+      "passed": true
+    }
+  ],
+  "created_at": "2026-08-02T15:09:38.549906+00:00",
+  "deliverables": [
+    {
+      "bytes": 54578,
+      "path": "manuscript/V1_12_MANUSCRIPT_READY_TEXT.md",
+      "sha256": "cd767b3f9fd6943fe23e8f1b49466013a5368b0a9ac57f1035088c1402786191"
+    },
+    {
+      "bytes": 4005,
+      "path": "manuscript/V1_12_TEMPORAL_FIGURE_LEGENDS.md",
+      "sha256": "b609010c99e0a0e1ae7fca1558228e8f0da7ed4fcc8d4d957414321d61e19ed7"
+    },
+    {
+      "bytes": 3391,
+      "path": "manuscript/V1_12_TEMPORAL_TABLE_TITLES_AND_NOTES.md",
+      "sha256": "b4973812f0214d7ac64419af104e81d7ee9475080ad32728fc237424a93a8431"
+    },
+    {
+      "bytes": 10754,
+      "path": "submission/V1_12_SCIENTIFIC_AND_EDITORIAL_AUDIT.md",
+      "sha256": "8969060f077b1dd4ac68d167c059f7ba2c8d98c9f4d8769d32b96aaf1d5906c0"
+    },
+    {
+      "bytes": 3052,
+      "path": "submission/V1_12_COVER_LETTER_DRAFT.md",
+      "sha256": "688e23fbc3f6142d2d94cbf18e9f9fdadebf841619ec1bf96750ff21fa709f8e"
+    },
+    {
+      "bytes": 2776,
+      "path": "submission/V1_12_DATA_AND_CODE_AVAILABILITY_DRAFT.md",
+      "sha256": "3643b40629b1283f30fc57135e198586ced7020f267e10fcb6737feebc493457"
+    },
+    {
+      "bytes": 4332,
+      "path": "tables/Table_S8_TEMPORAL_DESIGN_AND_FREEZE_AUDIT.tsv",
+      "sha256": "e3ef113a6477eaa0c2d0c32e57153b17ca8a653ed96ca66ae29e5c5414d716b9"
+    },
+    {
+      "bytes": 3146,
+      "path": "tables/Table_S9_TEMPORAL_PRIMARY_ENDPOINTS.tsv",
+      "sha256": "a4e2d174d7fe7b10bed2bffb39a478d0041219d89e57b4a72384946039d9ed3b"
+    },
+    {
+      "bytes": 14050,
+      "path": "tables/Table_S10A_TEMPORAL_LOCKED_SENSITIVITY_POINT_ESTIMATES.tsv",
+      "sha256": "a36762e0696632f1360e3bc8b7de561584a35339863e593e4992db13a7c3f794"
+    },
+    {
+      "bytes": 29727,
+      "path": "tables/Table_S10B_TEMPORAL_SOURCE_ORIGIN_INTERVALS.tsv",
+      "sha256": "8271f0f6dcf419e3019cdd61236f691d3eda87620975a96d557e9d0f48a02f51"
+    },
+    {
+      "bytes": 8576,
+      "path": "tables/Table_S10C_TEMPORAL_RESAMPLING_SENSITIVITY.tsv",
+      "sha256": "8c67f4785cead652dbfca2fdf1fbb2ea06957f86ad970710927c36f55f038fa1"
+    },
+    {
+      "bytes": 2172,
+      "path": "tables/Table_S11_TEMPORAL_SECONDARY_METRICS.tsv",
+      "sha256": "6592d83bbf0c6c72fe987cd4edc84fec1ffd470e4cc7c3ed869a42ac18f7dcc3"
+    },
+    {
+      "bytes": 2134,
+      "path": "tables/Table_S12_TEMPORAL_RANK_COVARIANCE_DECOMPOSITION.tsv",
+      "sha256": "9847920d28a701cd19e238a161750a659f987805e09b1d54153e567724746628"
+    },
+    {
+      "bytes": 53591,
+      "path": "figures/main/Figure_T1_v1_12_temporal_architecture_test.pdf",
+      "sha256": "194cbe386eba81919242fc4382f3847e77ca41dfca9d79e3309b8c2ce92a26d3"
+    },
+    {
+      "bytes": 62050,
+      "path": "figures/main/Figure_T1_v1_12_temporal_architecture_test.svg",
+      "sha256": "12ad22b4aa2f7d32c210cc612275d1035981473fb9257a3c489bf2a8a9765d12"
+    },
+    {
+      "bytes": 575293,
+      "path": "figures/main/Figure_T1_v1_12_temporal_architecture_test.png",
+      "sha256": "88f3edee44343484d7dad0d6bd7b7618c2c805f748b208f7691d6695d544d573"
+    },
+    {
+      "bytes": 62417250,
+      "path": "figures/main/Figure_T1_v1_12_temporal_architecture_test.tiff",
+      "sha256": "5bc987bf4f2f5cb4d51e4ff00c6b9693af9ba10359447b28479a1372a0d725d9"
+    },
+    {
+      "bytes": 53589,
+      "path": "figures/main/Figure_6_outcome_blind_temporal_validation.pdf",
+      "sha256": "58f7a1159eaff67ce4d71c95b843c1817c2d1751bd721ad04182ad9d916d937e"
+    },
+    {
+      "bytes": 62051,
+      "path": "figures/main/Figure_6_outcome_blind_temporal_validation.svg",
+      "sha256": "24092028cc5d3d711b46c268cce7fa85f8adb99c1d712ed9f9393941fca741d4"
+    },
+    {
+      "bytes": 575293,
+      "path": "figures/main/Figure_6_outcome_blind_temporal_validation.png",
+      "sha256": "88f3edee44343484d7dad0d6bd7b7618c2c805f748b208f7691d6695d544d573"
+    },
+    {
+      "bytes": 62417250,
+      "path": "figures/main/Figure_6_outcome_blind_temporal_validation.tiff",
+      "sha256": "5bc987bf4f2f5cb4d51e4ff00c6b9693af9ba10359447b28479a1372a0d725d9"
+    },
+    {
+      "bytes": 83470,
+      "path": "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.pdf",
+      "sha256": "87b6e241b786237140b88b3e6f611c8791669282b0a5c87427c8c7cc243a0f42"
+    },
+    {
+      "bytes": 116021,
+      "path": "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.svg",
+      "sha256": "05c5c5addf7dcba55b3728256534e86fe055e0bdf383e151c14407d1b0e2690e"
+    },
+    {
+      "bytes": 784784,
+      "path": "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.png",
+      "sha256": "5f0121921a47764c0a01f43dda393b0ff8f08a028de290519a18eeacc7569725"
+    },
+    {
+      "bytes": 83176990,
+      "path": "figures/supplementary/Figure_TS1_v1_12_temporal_architecture_diagnostics.tiff",
+      "sha256": "18a4ddd2cb37628cf67b853286596e5dd336e652c38a6736e88a6371d6247df3"
+    },
+    {
+      "bytes": 83338,
+      "path": "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.pdf",
+      "sha256": "20ceb38673cf9dfad9f750adfe155dac0ae13d856531a05f7d483c9ee908ab73"
+    },
+    {
+      "bytes": 116035,
+      "path": "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.svg",
+      "sha256": "cf9aa5badab27bc766e62f73636ebf28d98365d2927d6c597d5ca98f028e6b8e"
+    },
+    {
+      "bytes": 784784,
+      "path": "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.png",
+      "sha256": "5f0121921a47764c0a01f43dda393b0ff8f08a028de290519a18eeacc7569725"
+    },
+    {
+      "bytes": 83176990,
+      "path": "figures/supplementary/Figure_S12_temporal_architecture_diagnostics.tiff",
+      "sha256": "18a4ddd2cb37628cf67b853286596e5dd336e652c38a6736e88a6371d6247df3"
+    },
+    {
+      "bytes": 54301,
+      "path": "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.pdf",
+      "sha256": "128bcd0f2c73d31226235c0c2fb2d8b5a18c69d5eaf2c428e15cde4734069d9b"
+    },
+    {
+      "bytes": 55847,
+      "path": "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.svg",
+      "sha256": "30b237d68883401bc0c8f39b2b150a83cdfd8a9752d4095be05a52fba9f77b3c"
+    },
+    {
+      "bytes": 600690,
+      "path": "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.png",
+      "sha256": "3ab7c0df4e7f6f77994463c7eae13651990adb35a8224264aa38757c8a5467fa"
+    },
+    {
+      "bytes": 74218430,
+      "path": "figures/supplementary/Figure_TS2_v1_12_resampling_and_source_heterogeneity.tiff",
+      "sha256": "b64a237b19f7a5d056519b00fb2bb8b45fd4ce9ac3a4090234eb17c332b59767"
+    },
+    {
+      "bytes": 54320,
+      "path": "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.pdf",
+      "sha256": "1f69275ba23d72ee60560ae72f27260077dd26caf259d270420ef7e22ad09ccd"
+    },
+    {
+      "bytes": 55850,
+      "path": "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.svg",
+      "sha256": "8d897aff96cc385da2186ac778b59be30ce72585e49b104901ce70aa369ac4f6"
+    },
+    {
+      "bytes": 600690,
+      "path": "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.png",
+      "sha256": "3ab7c0df4e7f6f77994463c7eae13651990adb35a8224264aa38757c8a5467fa"
+    },
+    {
+      "bytes": 74218430,
+      "path": "figures/supplementary/Figure_S13_resampling_and_source_heterogeneity.tiff",
+      "sha256": "b64a237b19f7a5d056519b00fb2bb8b45fd4ce9ac3a4090234eb17c332b59767"
+    }
+  ],
+  "locked_decision_branch": "heterogeneous_or_inconclusive",
+  "schema_version": "science_advances_v1_12_submission_integration_audit_v1",
+  "scientific_summary": {
+    "material_attenuation_models": 1,
+    "source_wide_support_models": 4,
+    "within_target_point_lower_in_all_models": true
+  },
+  "status": "PASS"
+}

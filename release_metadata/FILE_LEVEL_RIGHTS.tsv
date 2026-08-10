@@ -1,0 +1,10 @@
+path_pattern	material_type	release_terms_or_boundary	action
+retrospective_v1_7/public_data/V1_7_CHEMBL37_PAIR_LEVEL_PREDICTIONS.tsv	ChEMBL-derived rows with study predictions	CC BY-SA 3.0 source terms plus study-code license once selected	Retain ChEMBL attribution and share-alike terms
+temporal_v1_12/source_frozen/V1_12_BLIND_STRUCTURES.tsv	Mixed BindingDB-curated and ChEMBL-imported identifiers/structures	Conservatively treat mixed file under CC BY-SA 3.0 for data fields	Retain BindingDB and ChEMBL attribution and change notice
+temporal_v1_12/source_frozen/V1_12_OUTCOME_JOIN_MAP.tsv	Mixed-source study identifiers	Source attribution applies; study-generated mapping remains unlicensed until author selection	Do not detach from rights matrix
+temporal_v1_12/predictions_frozen/V1_12_FROZEN_PREDICTIONS.tsv	Study-generated predictions keyed to mixed-source records	Project output; source attribution applies to keys and source-derived fields; no blanket data license	Released within the conservative source-rights boundary
+retrospective_v1_7/figure_source_data/*	Nonrestricted aggregate study outputs	Project output; underlying source attribution retained	Released; no BioLiP/MOAD row-level records
+retrospective_v1_7/derived/*	Nonrestricted aggregate study outputs	Project output; underlying source attribution retained	Released; no BioLiP/MOAD row-level records
+temporal_v1_12/results_locked/*	Study-generated locked results	Project output; underlying source attribution retained	Released; quarantined pre-unblind outcome files excluded
+temporal_v1_12/figure_source_data/*	Nonrestricted aggregate study outputs	Project output; underlying source attribution retained	Released within the conservative source-rights boundary
+*/scripts/*	Original analysis code	MIT for original project software; upstream dependencies retain their own terms	Release with LICENSE; do not apply MIT to data, publication text, weights, or dependencies

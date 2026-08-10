@@ -1,0 +1,75 @@
+{
+  "blind_structure_table_sha256": "3ec81bc34c3a8689434d203f276d03b9b49fa44b8beab91ab7e23e8baef8237d",
+  "created_at": "2026-08-02T14:18:08.033497+00:00",
+  "embedding_code_sha256": "0b3da5794fb05f9eebda963ffa0febadcb249adc555eeb1f18b9d359fcc9ca61",
+  "embedding_path": "model_inputs/V1_12_FROZEN_ESM2_EMBEDDINGS.npz",
+  "embedding_policy": {
+    "batch_size": 8,
+    "device": "cpu",
+    "dtype": "float32",
+    "pooling": "last hidden-state residue mean per window; residue-count weighted across windows; final L2 normalization",
+    "window_residues": 1022
+  },
+  "embedding_sha256": "ccefe5e14a85ff5c0f3abfc7cb0bb68f3a3ffae5e0c7649ae87f27d5ac1be666",
+  "embedding_shape": [
+    340,
+    320
+  ],
+  "index_path": "model_inputs/V1_12_FROZEN_ESM2_INDEX.tsv",
+  "index_sha256": "5a7e226ab8dcda510970fbe54f9238c09036962a1087bcb7a49a85ec6549cdb5",
+  "model": {
+    "files": {
+      "README.md": {
+        "bytes": 1705,
+        "sha256": "462a2f24724e19c6be0efab926315c294a863c9a9770e2c8b3d859b2d81a07de"
+      },
+      "config.json": {
+        "bytes": 775,
+        "sha256": "facb9355e8252149f6f99dff5fd1e32e890c3c655362b261d0c81cd6b5839c85"
+      },
+      "model.safetensors": {
+        "bytes": 31384292,
+        "sha256": "24c5fa474c48f3b754b86efe752d5f189d2bcd88190fa2270fc92b2ef3034189"
+      },
+      "special_tokens_map.json": {
+        "bytes": 125,
+        "sha256": "3aedcd4211c0d43aec4e607ff60a63255f3174ead795e997350f09a5f8cd9ee1"
+      },
+      "tokenizer_config.json": {
+        "bytes": 95,
+        "sha256": "7e9161ecdb548ec45a41cbc6b24aa4476fdd418461f491c4207baa99419a29ad"
+      },
+      "vocab.txt": {
+        "bytes": 93,
+        "sha256": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03"
+      }
+    },
+    "hidden_size": 320,
+    "id": "facebook/esm2_t6_8M_UR50D",
+    "revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df"
+  },
+  "model_predictions_generated": false,
+  "outcome_fields_read": [],
+  "outcome_rows_read": 0,
+  "rerun_allowed": false,
+  "runtime": {
+    "deterministic_algorithms": true,
+    "huggingface_hub": "0.26.5",
+    "numpy": "1.26.3",
+    "pandas": "2.2.0",
+    "platform": "macOS-26.3-arm64-arm-64bit",
+    "python": "3.9.6",
+    "rdkit": "2023.09.5",
+    "safetensors": "0.7.0",
+    "scikit_learn": "1.4.2",
+    "torch": "2.1.2",
+    "transformers": "4.46.3"
+  },
+  "runtime_equivalence_passed": true,
+  "runtime_equivalence_path": "model_inputs/V1_12_ESM2_RUNTIME_EQUIVALENCE.json",
+  "runtime_equivalence_sha256": "906efa9a563d2111c36492cc06ff43af3f3c557aad920ca6f2a5e37eca768c43",
+  "schema_version": "science_advances_v1_12_frozen_esm2_receipt_v1",
+  "source_manifest_sha256": "f3918d4f840ee33a3d8e046b1458239902a778ba50a848758c893107dfcf6ebc",
+  "status": "OUTCOME_FREE_FROZEN_ESM2_READY",
+  "unique_proteins": 340
+}

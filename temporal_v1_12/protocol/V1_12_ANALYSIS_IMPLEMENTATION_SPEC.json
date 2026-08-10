@@ -1,0 +1,41 @@
+{
+  "schema_version": "science_advances_v1_12_analysis_implementation_spec_v1",
+  "locked_at": "2026-08-02T14:02:20Z",
+  "status": "LOCKED_BEFORE_OUTCOME_OR_PREDICTION_ACCESS",
+  "primary_models": [
+    "global_top5_morgan_similarity_v1_8",
+    "hgb_fusion_additive_pre2018_v1_8",
+    "ligand_mpnn_frozen_esm2_v1_8",
+    "smiles_protein_cross_attention_v1_8"
+  ],
+  "reference_model": "development_exact_median_v1_8",
+  "eligible_target_rule": {
+    "minimum_pairs": 5,
+    "minimum_unique_ligands": 5,
+    "minimum_unique_scaffolds": 3
+  },
+  "weights": "Each selected exact ligand-protein pair has unit weight in point estimates. Repeated measurements are collapsed to median pKd before membership assembly.",
+  "source_wide_spearman": "Midrank Pearson correlation over all finite observed-predicted pairs.",
+  "within_target_centered_spearman": "Within each eligible protein, subtract the unweighted target mean separately from observed and predicted pKd, pool centered values, then compute midrank Pearson correlation.",
+  "within_target_pairwise_concordance": "For each eligible protein, evaluate all unordered ligand pairs; score direction agreement as 1, disagreement as 0, and any tie as 0.5; average within protein and then macro-average proteins.",
+  "attenuation": "source_wide_spearman - within_target_centered_spearman in every point and bootstrap calculation.",
+  "bootstrap": {
+    "replicates": 2000,
+    "seed": 20260802,
+    "unit": "document_component_id",
+    "algorithm": "Sample observed document components with replacement; represent draws by component multiplicities and retain all selected rows in each sampled component.",
+    "interval": "Studentized max-t simultaneous 95-percent interval across the four primary models for each endpoint; percentile fallback only when a standard error is zero or nonfinite.",
+    "endpoint_adjustment": "Holm-adjust two-sided bootstrap sign p-values across the four primary endpoints within each model."
+  },
+  "secondary_analysis": [
+    "MAE and interval diagnostics versus the frozen constant reference",
+    "between-target target-mean Spearman",
+    "within-document and within-origin centered Spearman",
+    "target-level top-decile enrichment and best-ligand regret",
+    "source-origin and leave-one-origin-out estimates",
+    "strict publication-time subset and exact-10000-nM exclusion"
+  ],
+  "missingness": "No post-outcome row removal. Abstentions are reported by model; each endpoint uses all finite nonabstained rows for that frozen model.",
+  "software_rule": "The analysis script SHA-256, protocol SHA-256, implementation-spec SHA-256, source assembler SHA-256, representation generator SHA-256, and prediction script SHA-256 must be frozen before prediction or outcome access.",
+  "rerun_rule": "The real locked analysis is single-run. Integration and synthetic tests must use synthetic paths and complete before the real Stage 2 lock."
+}

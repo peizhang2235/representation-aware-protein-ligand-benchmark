@@ -1,0 +1,12 @@
+{
+  "schema_version": "science_advances_v1_13_freeze_receipt_v1",
+  "frozen_at": "2026-08-02T15:27:33Z",
+  "status": "PROTOCOL_AND_SOURCE_REGISTRATION_HASH_FROZEN",
+  "source_registration_sha256": "dc6d1de9e27a84df69a1232783e2c19634ffcd809d79c95501067fcb8951aefd",
+  "locked_protocol_json_sha256": "cdbefe77b920446dab2ae67049ca225524edd92af74e4f1815fba602b511bee4",
+  "locked_protocol_markdown_sha256": "39dd4426c1084dd5d44d5c75ed5a0bf9292db2517450de5f023bee287c954012",
+  "row_level_gtopdb_outcomes_opened_before_freeze": 0,
+  "post_freeze_changes_allowed": "code fixes that do not alter source, cohort gates, models, estimands, inference, or decision branches; every fix must be logged and hashed",
+  "outcome_access_authorized_after_structure_membership_and_predictions_are_frozen": true
+}
+

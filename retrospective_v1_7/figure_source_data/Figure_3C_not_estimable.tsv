@@ -1,0 +1,3 @@
+source	model_id	model_label_plot	exact_protein_macro_spearman	label
+BioLiP/MOAD	hgb_protein	HGB protein	0	not estimable
+ChEMBL37	hgb_protein	HGB protein	0	not estimable

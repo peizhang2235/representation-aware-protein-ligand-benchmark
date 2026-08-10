@@ -1,0 +1,35 @@
+{
+  "schema_version": "science_advances_v1_13_standalone_decision_v1",
+  "decision": "NO_ELIGIBLE_CONFIRMATORY_COHORT",
+  "decision_locked_at": "2026-08-02",
+  "source": "GtoPdb 2026.2",
+  "outcomes_unblinded": false,
+  "predictions_generated": false,
+  "observed_blind_membership": {
+    "exact_pair_and_document_disjoint_rows": 92,
+    "eligible_targets": 6,
+    "resolved_source_references": 57,
+    "structure_parse_fraction": 0.998212689901698,
+    "sequence_resolution_fraction": 1.0
+  },
+  "locked_feasibility_thresholds": {
+    "minimum_rows": 100,
+    "minimum_targets": 8,
+    "minimum_resolved_source_references": 20,
+    "minimum_rows_per_target": 8,
+    "minimum_scaffolds_per_target": 3
+  },
+  "failed_gates": [
+    "minimum_rows",
+    "minimum_targets"
+  ],
+  "interpretation": "GtoPdb 2026.2 is not eligible as a standalone confirmatory cohort under the prospectively locked v1.13 gates. This is a feasibility failure, not a model-performance result.",
+  "prohibited_claims": [
+    "Do not call v1.13 an independent replication.",
+    "Do not unblind affinity values for a post hoc standalone analysis.",
+    "Do not relax the v1.13 thresholds after observing membership counts."
+  ],
+  "blind_membership_sha256": "d503f08cf5a2111ec3d30aa18d2e3946f26e3a0f04303d93261e5ba80fae7571",
+  "blind_manifest_sha256": "ef0ff9a663aa788cc231996c7a9b80c90a6a2ea8df7624f866a1f742e0c8c97c",
+  "target_support_sha256": "508d84ea6f73fe400d6944dda4768d0d58764932acd3a323960da5a9a252127e"
+}

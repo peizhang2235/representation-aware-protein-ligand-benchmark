@@ -1,0 +1,100 @@
+{
+  "schema_version": "jbd_public_archive_staging_audit_v1",
+  "generated_at_utc": "2026-08-10T04:50:09Z",
+  "passed": true,
+  "deposit_ready": false,
+  "upload_authorized": false,
+  "scope": "rights-bounded public code-and-results repository candidate",
+  "checks": [
+    {
+      "name": "required_archive_components",
+      "passed": true,
+      "detail": "missing=[]"
+    },
+    {
+      "name": "restricted_paths_absent",
+      "passed": true,
+      "detail": "leaked=[]"
+    },
+    {
+      "name": "no_ds_store",
+      "passed": true,
+      "detail": "files=[]"
+    },
+    {
+      "name": "no_single_file_over_100mb",
+      "passed": true,
+      "detail": "files=[]"
+    },
+    {
+      "name": "no_empty_files",
+      "passed": true,
+      "detail": "files=[]"
+    },
+    {
+      "name": "no_absolute_private_paths",
+      "passed": true,
+      "detail": "files=[]"
+    },
+    {
+      "name": "submission_wording_guard",
+      "passed": true,
+      "detail": "hits=[]"
+    },
+    {
+      "name": "spdx_license_present",
+      "passed": true,
+      "detail": "root code license declares MIT"
+    },
+    {
+      "name": "chembl_public_ledger_boundary",
+      "passed": true,
+      "detail": "rows=25436; sources=['ChEMBL37']"
+    },
+    {
+      "name": "temporal_frozen_membership",
+      "passed": true,
+      "detail": "rows=2689"
+    },
+    {
+      "name": "temporal_frozen_predictions",
+      "passed": true,
+      "detail": "rows=13445; models=5"
+    },
+    {
+      "name": "temporal_outcome_blind_manifest",
+      "passed": true,
+      "detail": "outcome_fields_present=False; calendar_prospective=False"
+    },
+    {
+      "name": "temporal_figure_receipt_hash_alignment",
+      "passed": true,
+      "detail": "mismatches=[]"
+    },
+    {
+      "name": "six_jbd_main_figures",
+      "passed": true,
+      "detail": "count=6"
+    },
+    {
+      "name": "clean_reproduction_record_if_present",
+      "passed": true,
+      "detail": "present=False; passed=None"
+    }
+  ],
+  "excluded": [
+    "BioLiP/MOAD row-level reconstruction and pair-level predictions",
+    "quarantined pre-unblind outcome files",
+    "private source-review queues, notes, and identities",
+    "copyrighted source full text",
+    "pretrained model files and frozen model weights",
+    "v1.14 work in progress"
+  ],
+  "author_or_external_holds": [
+    "persistent repository deposit and resolving DOI",
+    "repository deposit is created and its DOI resolves"
+  ],
+  "manifest_files": 252,
+  "archive_files_including_manifest_and_audit": 254,
+  "archive_bytes_uncompressed": 35620586
+}

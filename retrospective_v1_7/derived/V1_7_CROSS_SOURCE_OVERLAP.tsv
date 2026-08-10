@@ -1,0 +1,6 @@
+entity	source_a	source_b	overlap_n	interpretation
+standardized_ligand	BioLiP/MOAD	ChEMBL37	94	Exact standardized ligand overlap
+ligand_scaffold	BioLiP/MOAD	ChEMBL37	150	Hash overlap; valid only because the same Bemis-Murcko hashing policy was used
+exact_protein	BioLiP/MOAD	ChEMBL37	0	Exact sequence-hash overlap
+protein_identity_cluster	BioLiP/MOAD	ChEMBL37	0	Cluster labels were generated in source-specific combined runs and are not cross-source identifiers
+exact_pair	BioLiP/MOAD	ChEMBL37	0	Exact standardized ligand-protein pair overlap

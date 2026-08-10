@@ -1,0 +1,40 @@
+{
+  "analysis_code_lock_sha256": "4d85f9b8b6e72e6ae1a60e24b94f527c36f0cce1053b8917af610cdc9513bf8b",
+  "analysis_code_sha256": "979679bbd4e4723e7e03985a34bdb0cfe0602c4c31d32bdba0b9aac8f92a0f23",
+  "created_at": "2026-08-02T14:25:42.120117+00:00",
+  "outcome_file_mode_after_authorization": "600",
+  "outcome_file_modes_before_authorization": {
+    "v1.10": "400",
+    "v1.11": "400",
+    "v1.9": "400"
+  },
+  "outcome_sha256": {
+    "v1.10": "09910ff1cd8ea43026be5273104dfd3a935ddbb4d520c5c9e4c146c80910e587",
+    "v1.11": "0e0ddfd0190cb64205c069bce4616c78911454e145f21546d8a545919663415b",
+    "v1.9": "5052d993563c236c7eb78d4e09b19f605feb7212c9c0c0de0682ceeeb0453fbb"
+  },
+  "outcome_values_parsed_before_receipt": false,
+  "pre_unblind_checks": {
+    "analysis_code_hash_matches": true,
+    "blind_hash_matches": true,
+    "calendar_prospective_false": true,
+    "implementation_hash_matches": true,
+    "implementation_preoutcome": true,
+    "join_map_hash_matches": true,
+    "prediction_blind_hash_matches": true,
+    "prediction_hash_matches": true,
+    "protocol_hash_matches": true,
+    "protocol_status_locked": true,
+    "quarantine_hashes_precommitted_consistently": true,
+    "source_gate_passed": true,
+    "stage2_all_checks_passed": true,
+    "stage2_authorized": true,
+    "v1.10_outcome_restricted_before_unblind": true,
+    "v1.11_outcome_restricted_before_unblind": true,
+    "v1.9_outcome_restricted_before_unblind": true
+  },
+  "prediction_rerun_allowed": false,
+  "schema_version": "science_advances_v1_12_unblind_receipt_v1",
+  "stage2_lock_sha256": "94b5f81869bd95f32c2b46937fc36bb6db20dc53bfd39411df5c39cffda539c4",
+  "status": "MULTISOURCE_OUTCOME_ACCESS_AUTHORIZED_HASH_VERIFIED"
+}

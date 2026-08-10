@@ -1,0 +1,11 @@
+{
+  "schema_version": "science_advances_v1_12_prediction_start_receipt_v1",
+  "created_at": "2026-08-02T14:18:27.563539+00:00",
+  "status": "BLIND_PREDICTION_STARTED_OUTCOMES_UNOPENED",
+  "validation_design": "retrospective_outcome_blind_temporal_aggregate",
+  "model_panel_source": "FROZEN_MODEL_REGISTRY_NOT_DISTRIBUTED",
+  "source_manifest_sha256": "f3918d4f840ee33a3d8e046b1458239902a778ba50a848758c893107dfcf6ebc",
+  "blind_structure_table_sha256": "3ec81bc34c3a8689434d203f276d03b9b49fa44b8beab91ab7e23e8baef8237d",
+  "future_outcome_rows_read": 0,
+  "rerun_allowed": false
+}

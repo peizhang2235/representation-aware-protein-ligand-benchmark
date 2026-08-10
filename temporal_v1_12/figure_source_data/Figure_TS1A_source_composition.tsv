@@ -1,0 +1,5 @@
+source_origin	pairs	label
+database_entry_residual_patent	330	Residual patent
+database_entry_chembl_import	750	ChEMBL import
+database_entry_patent	768	Entry-time patent
+strict_dual_timestamp_patent	841	Strict-date patent

@@ -1,0 +1,77 @@
+{
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20260802,
+  "calendar_prospective": false,
+  "claim_boundary": "Retrospective outcome-unexposed, structure-adapted temporal aggregate validation assembled after structure-only feasibility review; not fully protocol-prespecified, calendar-prospective, source-independent, mechanistic, therapeutic, clinical, or wet-lab validation.",
+  "counts": {
+    "family_structural_support": 1,
+    "material_attenuation": 1,
+    "source_wide_support": 4,
+    "within_target_centered_support": 3
+  },
+  "created_at": "2026-08-02T14:25:48.440884+00:00",
+  "decision_branch": "heterogeneous_or_inconclusive",
+  "endpoint_inference": {
+    "source_wide_spearman": {
+      "minimum_required": 1900,
+      "simultaneous_critical_value": 2.475579091865943,
+      "valid_joint_replicates": 2000
+    },
+    "target_rank_attenuation": {
+      "minimum_required": 1900,
+      "simultaneous_critical_value": 2.5274567791648015,
+      "valid_joint_replicates": 2000
+    },
+    "within_target_centered_spearman": {
+      "minimum_required": 1900,
+      "simultaneous_critical_value": 2.6400179589877237,
+      "valid_joint_replicates": 2000
+    },
+    "within_target_pairwise_concordance": {
+      "minimum_required": 1900,
+      "simultaneous_critical_value": 2.641058373226763,
+      "valid_joint_replicates": 2000
+    }
+  },
+  "family_results": [
+    {
+      "family_structural_support": true,
+      "material_attenuation": true,
+      "model_id": "global_top5_morgan_similarity_v1_8",
+      "source_wide_support": true,
+      "within_target_centered_lower_than_source_wide": true,
+      "within_target_centered_support": false,
+      "within_target_concordance_support": false
+    },
+    {
+      "family_structural_support": false,
+      "material_attenuation": false,
+      "model_id": "hgb_fusion_additive_pre2018_v1_8",
+      "source_wide_support": true,
+      "within_target_centered_lower_than_source_wide": true,
+      "within_target_centered_support": true,
+      "within_target_concordance_support": true
+    },
+    {
+      "family_structural_support": false,
+      "material_attenuation": false,
+      "model_id": "ligand_mpnn_frozen_esm2_v1_8",
+      "source_wide_support": true,
+      "within_target_centered_lower_than_source_wide": true,
+      "within_target_centered_support": true,
+      "within_target_concordance_support": false
+    },
+    {
+      "family_structural_support": false,
+      "material_attenuation": false,
+      "model_id": "smiles_protein_cross_attention_v1_8",
+      "source_wide_support": true,
+      "within_target_centered_lower_than_source_wide": true,
+      "within_target_centered_support": true,
+      "within_target_concordance_support": true
+    }
+  ],
+  "schema_version": "science_advances_v1_12_locked_decision_v1",
+  "validation_design": "retrospective_outcome_blind_temporal_aggregate",
+  "within_target_centered_lower_in_all_four": true
+}

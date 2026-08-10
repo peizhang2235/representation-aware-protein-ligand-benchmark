@@ -1,0 +1,8 @@
+claim	status	interpretation	evidence
+Source-wide rank association	Supported	Supported	10/10 joint CIs > 0
+Within-document rank	Attenuated	Attenuated	rho 0.005-0.338
+Within-target ligand ordering	Weak	Weak	macro rho 0.074-0.300
+Point accuracy vs constant	Source dependent	Source dependent	composition sensitive
+Nominal 90% coverage	Rejected	Under-covered	64-66% overall
+Aligned-feature necessity	Heterogeneous	Heterogeneous	P varies by stratum
+Assay / geometry specificity	Rejected	Not specific	null-specific CIs cross 0

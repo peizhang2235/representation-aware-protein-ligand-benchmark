@@ -1,0 +1,62 @@
+{
+  "analysis_code_sha256": "979679bbd4e4723e7e03985a34bdb0cfe0602c4c31d32bdba0b9aac8f92a0f23",
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20260802,
+  "calendar_prospective": false,
+  "created_at": "2026-08-02T14:25:49.794429+00:00",
+  "decision_branch": "heterogeneous_or_inconclusive",
+  "document_components": 292,
+  "models": [
+    "development_exact_median_v1_8",
+    "global_top5_morgan_similarity_v1_8",
+    "hgb_fusion_additive_pre2018_v1_8",
+    "ligand_mpnn_frozen_esm2_v1_8",
+    "smiles_protein_cross_attention_v1_8"
+  ],
+  "outputs": {
+    "V1_12_LOCKED_DECISION.json": {
+      "bytes": 2867,
+      "sha256": "b17fd0c53ef127b9d4ad0df987a134a124cafbf22b6e7cd36e58ed19d3cdf365"
+    },
+    "V1_12_LOCKED_DECISION.md": {
+      "bytes": 977,
+      "sha256": "428a143a70990ca34d2bd87016d6dcc8e82ad65017c4087fe95b6d27abae0aba"
+    },
+    "V1_12_LOCKED_SENSITIVITY_POINT_ESTIMATES.tsv": {
+      "bytes": 14050,
+      "sha256": "a36762e0696632f1360e3bc8b7de561584a35339863e593e4992db13a7c3f794"
+    },
+    "V1_12_MAE_REFERENCE_COMPARISONS.tsv": {
+      "bytes": 1144,
+      "sha256": "4ed63dc2259f4c085c786814dac598000552eae7da421a79eb2110c34ba060b8"
+    },
+    "V1_12_PRIMARY_BOOTSTRAP_REPLICATES.npz": {
+      "bytes": 454864,
+      "sha256": "58417bbdea65b0866f5125722b393ea0e374018f7974a2126471c27690322a1a"
+    },
+    "V1_12_PRIMARY_ENDPOINTS.tsv": {
+      "bytes": 3146,
+      "sha256": "a4e2d174d7fe7b10bed2bffb39a478d0041219d89e57b4a72384946039d9ed3b"
+    },
+    "V1_12_RANK_COVARIANCE_DECOMPOSITION.tsv": {
+      "bytes": 2134,
+      "sha256": "9847920d28a701cd19e238a161750a659f987805e09b1d54153e567724746628"
+    },
+    "V1_12_SECONDARY_METRICS.tsv": {
+      "bytes": 2172,
+      "sha256": "6592d83bbf0c6c72fe987cd4edc84fec1ffd470e4cc7c3ed869a42ac18f7dcc3"
+    }
+  },
+  "pairs": 2689,
+  "prediction_rerun_allowed": false,
+  "primary_models": [
+    "global_top5_morgan_similarity_v1_8",
+    "hgb_fusion_additive_pre2018_v1_8",
+    "ligand_mpnn_frozen_esm2_v1_8",
+    "smiles_protein_cross_attention_v1_8"
+  ],
+  "schema_version": "science_advances_v1_12_analysis_complete_v1",
+  "status": "LOCKED_ANALYSIS_COMPLETE",
+  "unblind_receipt_sha256": "6332863be9f49070e9f43be68ed7583755993c228f19037e5c21a8ea868cad28",
+  "validation_design": "retrospective_outcome_blind_temporal_aggregate"
+}

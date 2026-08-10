@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.Rhistory
+.Rproj.user/
+*.swp
+
+# Credentials, local caches, and private review material must never enter a release.
+credentials/
+private/
+quarantine/

@@ -1,0 +1,9 @@
+data.table
+ggplot2
+patchwork
+scales
+svglite
+ragg
+sandwich
+igraph
+jsonlite

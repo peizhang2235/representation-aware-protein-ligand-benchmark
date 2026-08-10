@@ -1,0 +1,92 @@
+{
+  "schema_version": "science_advances_v1_13_locked_protocol_v1",
+  "frozen_at": "2026-08-02T15:27:33Z",
+  "status": "LOCKED_BEFORE_GTOPDB_ROW_LEVEL_OUTCOME_ACCESS",
+  "scientific_question": "In an expert-curated non-BindingDB source, do frozen affinity models retain a source-wide pKd association while losing materially more performance for within-target ligand ranking?",
+  "source_release": "GtoPdb 2026.2",
+  "source_snapshot_rule": "Use the official fixed 2026.2 PostgreSQL release when technically accessible; otherwise use one date-stamped API acquisition while the official site reports release 2026.2. Hash every raw response.",
+  "models": {
+    "frozen_panel_source": "../science_advances_prospective_v1_8_20260802",
+    "nonreference_model_ids": [
+      "global_top5_morgan_similarity_v1_8",
+      "hgb_fusion_additive_pre2018_v1_8",
+      "ligand_mpnn_frozen_esm2_v1_8",
+      "smiles_protein_cross_attention_v1_8"
+    ],
+    "reference_model_id": "development_exact_median_v1_8",
+    "retraining_allowed": false,
+    "post_outcome_model_selection_allowed": false,
+    "prediction_runs_allowed": 1
+  },
+  "row_inclusion": {
+    "affinity_parameter": "pKd",
+    "numeric_policy": "finite exact numerical value; no open inequality, range-only, or missing value",
+    "ligand_policy": "RDKit-parseable covalent small-molecule structure; exclude peptides, antibodies, proteins, inorganic ligands, mixtures, and structureless records",
+    "target_policy": "single-protein target with one unambiguous amino-acid sequence; exclude complexes, families, fused multi-target records, antibodies as targets, and unresolved species/sequence",
+    "replicate_policy": "retain a single source interaction record as the sampling row; for duplicate exact pair/reference records use the median pKd after unblinding and keep a duplicate-count field",
+    "qualifier_policy": "exclude censored or non-exact outcomes from quantitative primary analysis; retain them only for a prespecified active/inactive sensitivity analysis when the source qualifier is machine-resolvable"
+  },
+  "blind_feasibility_gates": {
+    "minimum_total_exact_pair_disjoint_rows": 100,
+    "minimum_eligible_targets": 8,
+    "minimum_rows_per_target": 8,
+    "minimum_bemis_murcko_scaffolds_per_target": 3,
+    "minimum_resolved_source_references": 20,
+    "maximum_fraction_from_one_source_reference": 0.20,
+    "minimum_structure_parse_fraction": 0.90,
+    "minimum_sequence_resolution_fraction": 0.90,
+    "action_if_any_gate_fails": "STOP_WITH_NO_CONFIRMATORY_GTOPDB_COHORT; report the failed gate without opening model-performance results"
+  },
+  "firewalls": {
+    "pair_key": "sha256(RDKit canonical isomeric SMILES + '|' + uppercase ungapped protein sequence)",
+    "prior_pair_sources": [
+      "BindingDB article snapshot 2024-01",
+      "BindingDB 2026-07 exact-pair delta",
+      "BindingDB 2021+ temporal cohort",
+      "ChEMBL 37 exact-Kd cohort",
+      "Davis PyTDC 1.1.15",
+      "BindingDB Kd PyTDC 1.1.15",
+      "v1.6 BioLiP/MOAD/ChEMBL pair ledger"
+    ],
+    "document_key_priority": ["normalized DOI", "PMID"],
+    "document_rule": "Exclude a candidate record if any stable PMID or DOI maps to a previously exposed source document. Exclude unresolved-reference records from confirmatory analysis.",
+    "development_overlap_rule": "Exact development-pair overlap is always excluded even if the source reference differs.",
+    "outcome_fields_forbidden_in_prediction_input": true
+  },
+  "primary_estimands": {
+    "source_wide": "Spearman correlation between frozen predicted pKd and observed pKd across all eligible rows",
+    "within_target": "Spearman correlation after ranking observed and predicted pKd separately within each eligible target, pooled across rows with target-equal weights",
+    "attenuation": "source-wide Spearman minus pooled target-equal within-target Spearman",
+    "target_distribution": "median and interquartile range of target-specific Spearman correlations"
+  },
+  "secondary_estimands": [
+    "target-specific Kendall tau-b",
+    "pairwise concordance within target",
+    "top-quartile enrichment within target",
+    "source-wide and within-target metrics stratified by ligand novelty and target novelty",
+    "leave-one-reference-out and leave-one-target-out influence diagnostics"
+  ],
+  "inference": {
+    "bootstrap_replicates": 5000,
+    "resampling_unit": "two-stage target then source-reference cluster bootstrap, preserving all rows in a selected reference cluster",
+    "confidence_interval": "percentile 95% interval",
+    "null_tests": "within-target permutation of predictions, 10000 permutations, fixed random seed 20260802",
+    "multiplicity": "Benjamini-Hochberg within each estimand family; panel-level decision uses fixed model counts and unadjusted model-level 95% intervals",
+    "missing_prediction_policy": "model-specific complete cases with coverage reported; a model requires at least 80% cohort coverage to count toward a panel decision"
+  },
+  "decision_branches": {
+    "replicated_scale_ranking_split": "At least 3 of 4 nonreference models have source-wide rho 95% CI entirely above 0 and attenuation 95% CI entirely above 0; at least 3 of 4 have median target-specific rho lower than source-wide rho; no single target or reference reverses the panel conclusion.",
+    "global_only_no_material_attenuation": "At least 3 of 4 nonreference models have source-wide rho 95% CI entirely above 0, but fewer than 3 meet the attenuation rule.",
+    "within_target_transport_present": "At least 3 of 4 nonreference models have target-equal within-target rho 95% CI entirely above 0 and attenuation is not positive by the panel rule.",
+    "heterogeneous_or_inconclusive": "No other branch applies, support is insufficient, or influence diagnostics show source concentration.",
+    "negative_generalization": "At least 3 of 4 nonreference models have source-wide rho 95% CI including or below 0 and target-equal within-target rho 95% CI including or below 0."
+  },
+  "interpretation_limits": [
+    "GtoPdb is independent curation, not automatically an independent underlying experiment; only the reference-disjoint subset supports the strongest claim.",
+    "This is a retrospective outcome-unexposed replication, not a historically prospective submission by the model authors.",
+    "A failed or inconclusive branch is retained and reported; no source or endpoint replacement is allowed after unblinding.",
+    "This analysis does not alter the already completed v1.12 BindingDB result."
+  ],
+  "future_outcome_rows_read_by_investigator_at_freeze": 0
+}
+

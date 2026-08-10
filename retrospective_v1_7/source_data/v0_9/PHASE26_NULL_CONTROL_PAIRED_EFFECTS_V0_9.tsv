@@ -1,0 +1,13 @@
+candidate	control_label	challenge	challenge_label	n	delta_mae	ci95_lower	ci95_upper
+observed_structure	Observed structure	scaffold_cold	Scaffold cold	1633	0.0107558958297033	-0.0172761262051061	0.0387879178645128
+observed_structure	Observed structure	protein_identity_cold	Target cold	1633	0.0133289743218265	-0.0356616820600063	0.0623196307036593
+observed_structure	Observed structure	strict_double_cold	Double cold	701	-0.0376872904958944	-0.0753836841940032	9.10320221444993e-06
+status_only	Status only	scaffold_cold	Scaffold cold	1633	0.00394152378803153	-0.0109598627821848	0.0188429103582479
+status_only	Status only	protein_identity_cold	Target cold	1633	0.012924112933124	-0.0185967266121075	0.0444449524783555
+status_only	Status only	strict_double_cold	Double cold	701	-0.0174144480231852	-0.0539379662664642	0.0191090702200937
+geometry_only	Geometry only	scaffold_cold	Scaffold cold	1633	0.00437647228982901	-0.0184651078796005	0.0272180524592585
+geometry_only	Geometry only	protein_identity_cold	Target cold	1633	0.00694775382872091	-0.053583293314313	0.0674788009717548
+geometry_only	Geometry only	strict_double_cold	Double cold	701	-0.00435337144711714	-0.0724769623784313	0.063770219484197
+permuted_geometry_ensemble	Permuted geometry	scaffold_cold	Scaffold cold	1633	0.00473478732476473	-0.016124724894967	0.0255942995444965
+permuted_geometry_ensemble	Permuted geometry	protein_identity_cold	Target cold	1633	0.00979097509000675	-0.0185241624633324	0.0381061126433459
+permuted_geometry_ensemble	Permuted geometry	strict_double_cold	Double cold	701	-0.03853927990588	-0.0787384618804925	0.00165990206873241

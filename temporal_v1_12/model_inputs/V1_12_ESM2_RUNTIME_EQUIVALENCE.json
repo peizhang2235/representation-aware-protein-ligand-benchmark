@@ -1,0 +1,31 @@
+{
+  "candidate_embeddings_generated": false,
+  "created_at": "2026-08-02T14:17:25.965056+00:00",
+  "observed_maximum_absolute_difference": 1.30385160446167e-07,
+  "observed_minimum_cosine": 0.9999999403953552,
+  "outcome_rows_read": 0,
+  "reference_embedding_sha256": "9deb6c694c8b9b6ebe67f36dd036c8c47630fac2073613ce8ddef9faea83c66f",
+  "reference_hash_consistent_pool": 3281,
+  "reference_hash_mismatch_exclusions": 3,
+  "reference_hash_mismatch_sha256": "207f049f28be377c0e68a5796a3f1576be85d83dec50415ef86ae4d9545490de",
+  "reference_input_sha256": "aa69340d7936918f1791f6287dddbc22483c31b0aab90af49d299ec91fd5b508",
+  "reference_proteins": 32,
+  "reference_windows": 81,
+  "required_maximum_absolute_difference": 1e-05,
+  "required_minimum_cosine": 0.999999,
+  "runtime": {
+    "deterministic_algorithms": true,
+    "huggingface_hub": "0.26.5",
+    "numpy": "1.26.3",
+    "pandas": "2.2.0",
+    "platform": "macOS-26.3-arm64-arm-64bit",
+    "python": "3.9.6",
+    "rdkit": "2023.09.5",
+    "safetensors": "0.7.0",
+    "scikit_learn": "1.4.2",
+    "torch": "2.1.2",
+    "transformers": "4.46.3"
+  },
+  "schema_version": "science_advances_v1_12_esm2_equivalence_v1",
+  "status": "PASSED"
+}
