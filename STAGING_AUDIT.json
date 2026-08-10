@@ -1,6 +1,6 @@
 {
   "schema_version": "jbd_public_archive_staging_audit_v1",
-  "generated_at_utc": "2026-08-10T04:50:09Z",
+  "generated_at_utc": "2026-08-10T05:03:58Z",
   "passed": true,
   "deposit_ready": false,
   "upload_authorized": false,
@@ -94,7 +94,7 @@
     "persistent repository deposit and resolving DOI",
     "repository deposit is created and its DOI resolves"
   ],
-  "manifest_files": 252,
-  "archive_files_including_manifest_and_audit": 254,
-  "archive_bytes_uncompressed": 35620586
+  "manifest_files": 551,
+  "archive_files_including_manifest_and_audit": 553,
+  "archive_bytes_uncompressed": 56078692
 }

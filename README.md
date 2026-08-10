@@ -2,6 +2,8 @@
 
 Status: **public-release candidate; DOI pending external archive deposit**
 
+Public code repository: https://github.com/peizhang2235/representation-aware-protein-ligand-benchmark
+
 This repository supports inspection of the hierarchical and temporal analyses
 reported in the Journal of Cheminformatics manuscript. It contains analysis code,
 locked protocols and receipts, frozen predictions, rights-bounded result
@@ -50,6 +52,7 @@ Database-derived files retain their source-specific terms. BioLiP/MOAD row-level
 reconstruction, private source-review materials, and model weights are excluded.
 The deposited archive must match the checksum manifest before a repository DOI
 is cited. A persistent DOI is intentionally not claimed until the external
-archive deposit has completed and its landing page resolves.
+archive deposit has completed and its landing page resolves; the DOI will be
+added at the latest before the first revision.
 
 This archive is a research-release decision record, not legal advice.

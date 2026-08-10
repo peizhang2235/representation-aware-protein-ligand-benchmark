@@ -16,8 +16,8 @@ authors:
     given-names: Shiwen
     affiliation: First Medical Center of Chinese PLA General Hospital
 license: MIT
-repository-code: "[PUBLIC_REPOSITORY_URL_PENDING]"
-url: "[PUBLIC_REPOSITORY_URL_PENDING]"
+repository-code: "https://github.com/peizhang2235/representation-aware-protein-ligand-benchmark"
+url: "https://github.com/peizhang2235/representation-aware-protein-ligand-benchmark"
 date-released: 2026-08-10
 keywords:
   - cheminformatics
