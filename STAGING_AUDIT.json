@@ -1,6 +1,6 @@
 {
   "schema_version": "jbd_public_archive_staging_audit_v1",
-  "generated_at_utc": "2026-08-10T05:04:49Z",
+  "generated_at_utc": "2026-08-10T05:15:22Z",
   "passed": true,
   "deposit_ready": false,
   "upload_authorized": false,
@@ -96,5 +96,5 @@
   ],
   "manifest_files": 252,
   "archive_files_including_manifest_and_audit": 254,
-  "archive_bytes_uncompressed": 35620845
+  "archive_bytes_uncompressed": 35622179
 }
